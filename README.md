@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/developer-vivek/Gruvminimal-Dots/stargazers"><img src="https://img.shields.io/github/stars/developer-vivek/Gruvminimal-Dots?colorA=ff671f&colorB=016064&style=for-the-badge"></a>
+    <a href="https://github.com/developer-vivek/Gruvminimal-Dots/stargazers"><img src="https://img.shields.io/github/stars/developer-vivek/Gruvminimal-Dots?colorA=ebdbb2&colorB=458588&style=for-the-badge"></a>
      <a href="https://github.com/developer-vivek/Gruvminimal-Dots/contributors"><img src="https://img.shields.io/github/contributors/developer-vivek/Gruvminimal-Dots?colorA=ffffff&colorB=e6b847&style=for-the-badge"></a>
     <a href="https://github.com/developer-vivek/Gruvminimal-Dots/issues"><img src="https://img.shields.io/github/issues/developer-vivek/Gruvminimal-Dots?colorA=046a38&colorB=c51e3a&style=for-the-badge"></a>
 </p>
@@ -14,7 +14,6 @@
 - [About This Project](#star2-about-the-project)
 - [Discord](https://github.com/developer-vivek/Discord-Themes/) - [Spotify](https://github.com/developer-vivek/Spotify-Themes)  Themes Shown in picture
 - [Preview](#Preview)
-- [Download](#Download)
 - [WorkFlow](#WorkFlow)
 
 ## :star2: About This Project
