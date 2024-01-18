@@ -23,42 +23,42 @@ Here you will find different colour themes for Hyprland WM. Currently it comes w
 # Preview
 <details>
 <summary>HomeScreen and Waybar</summary>
-<img src=""/>
+<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/220429ac-1d5a-40d2-9598-fe5bb77789f4"/>
 </details>
 
 <details>
-<summary>EWW</summary>
-<img src=""/>
+<summary>Eww</summary>
+<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/2afa2b33-70d0-4bba-9b27-f1b113887e9d"/>
 </details>
 
 <details>
 <summary>Terminal</summary>
-<img src=""/>
+<img src="(https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/81323b9b-4cbe-48b4-a06c-467ab7823cf0"/>
 </details>
 
 <details>
 <summary>Spotify</summary>
-<img src=""/>
+<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/a2947da9-16fb-4b29-b670-97deddab650d"/>
 </details>
 
 <details>
 <summary>Discord</summary>
-<img src=""/>
+<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/2cf2214d-84e0-48d8-ba61-3497ee882a20"/>
 </details>
 
 <details>
 <summary>Wlogout</summary>
-<img src=""/>
+<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/7eae0085-34d3-411e-8aa9-c15eac4eb049"/>
 </details>
 
 <details>
 <summary>Dolphin</summary>
-<img src=""/>
+<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/52687a2b-1e88-4cf1-9426-b60d0ca0e998"/>
 </details>
 
 <details>
 <summary>Rofi</summary>
-<img src=""/>
+<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/3fb59fe2-8f95-4a51-9a3e-7a5b0a7cdad5"/>
 </details>
 
 
