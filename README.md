@@ -33,7 +33,7 @@ Here you will find different colour themes for Hyprland WM. Currently it comes w
 
 <details>
 <summary>Terminal</summary>
-<img src="(https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/81323b9b-4cbe-48b4-a06c-467ab7823cf0"/>
+<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/5e634b05-e10e-4c0c-a4a5-e4c362a7db38"/>
 </details>
 
 <details>
