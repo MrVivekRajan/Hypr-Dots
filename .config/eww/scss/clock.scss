@@ -1,0 +1,13 @@
+.big_clock_box {
+    @include window;
+    margin-top: 22rem;
+    margin-right: 79rem;
+    border-radius: 3rem;
+    margin-bottom: 0rem;
+
+}
+
+.big_clock_label {
+    color: $primary;
+    font-size: 6rem;
+}

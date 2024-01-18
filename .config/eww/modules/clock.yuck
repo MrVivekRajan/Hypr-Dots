@@ -1,0 +1,5 @@
+(defwidget clock []
+    (box :class "big_clock_box" :orientation "v" :space-evenly false
+        (label :class "big_clock_label" :text {formattime(EWW_TIME, "%H:%M")})
+    )
+)

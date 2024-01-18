@@ -1,0 +1,13 @@
+(defwidget user []
+    (box :orientation "h" :space-evenly true :class "user-box"
+        (box :orientation "h" :space-evenly false :halign "start"
+            (box :orientation "h" :space-evenly false :class "user-image")
+            (button :class "open-powermenu-button" :onclick "~/.config/hypr/scripts/wlogout.sh 2" "Sign out")
+            (label :class "user-clock-separator" :text "|")
+            (label :class "user-clock-date" :text {formattime(EWW_TIME, "%a, %b %d")})
+            (label :class "user-clock-separator" :text "|")
+            (button :class "open-settings-button" :onclick "XDG_CURRENT_DESKTOP=gnome gnome-control-center &" "")
+        )
+        )
+    )
+  

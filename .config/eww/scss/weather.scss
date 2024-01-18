@@ -1,0 +1,23 @@
+.weather {
+    @include window;
+    border-radius: 2rem;
+    margin-bottom: 26rem;
+    margin-left: 3rem;
+}
+
+.weather-icon {
+    color: #02aab0;
+    font-size: 3rem;
+    margin-left: 1rem;
+}
+
+.weather-temp {
+    color: $primary;
+    font-size: 2rem;
+    margin-left: 2rem;
+    margin-right: 1rem;
+}
+
+.weather-error {
+    font-size: 1.2rem;
+}
