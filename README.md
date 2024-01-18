@@ -17,7 +17,7 @@
 - [WorkFlow](#WorkFlow)
 
 ## :star2: About This Project
-Here you will find different colour themes for Hyprland WM. Currently it comes with Red, Green, Orange and Pink colours. More colours will added in future
+A warm welcome to all the people reading out this 🤗. Here at this repo you will find a minimal theme for Hyprland window manager based gruvbox color palette 
 
 # Preview
 <details>
