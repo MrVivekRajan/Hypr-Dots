@@ -62,7 +62,8 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 
 # WorkFlow
-https://github.com/developer-vivek/Hyprland-Dots/assets/85994908/8eb960b6-3a87-4371-91d9-9e273799e5a9
+https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/48228979-7ab3-4247-9d27-5e304972c98a
+
 
 # Thanks for Visiting !! ❤️❤️
 I Hope You Like my project, if yes then don't forget to give it a star as it means a lot.
