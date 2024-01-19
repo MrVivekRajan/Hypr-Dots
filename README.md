@@ -17,7 +17,7 @@
 - [WorkFlow](#WorkFlow)
 
 ## :star2: About This Project
-A warm welcome to all the people reading out this 🤗. Here at this repo you will find a minimal theme for Hyprland window manager based gruvbox color palette 
+A warm welcome to all the people reading out this 🤗. Here at this repo you will find a minimal theme for Hyprland window manager based on gruvbox color palette. 
 
 # Preview
 <details>
