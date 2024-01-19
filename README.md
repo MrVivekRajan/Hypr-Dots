@@ -68,4 +68,4 @@ https://github.com/developer-vivek/Hyprland-Dots/assets/85994908/8eb960b6-3a87-4
 I Hope You Like my project, if yes then don't forget to give it a star as it means a lot.
 
 
-<h4> <span>· </span> <a href="https://github.com/developer-vivek/Hyprland-Dots/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/developer-vivek/Hyprland-Dots/issues"> Request Feature </a> </h4>
+<h4> <span>· </span> <a href="https://github.com/developer-vivek/Gruvminimal-Dots/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/developer-vivek/Gruvminimal-Dots/issues"> Request Feature </a> </h4>
