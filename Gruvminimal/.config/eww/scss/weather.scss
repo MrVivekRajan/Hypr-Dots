@@ -1,8 +1,10 @@
 .weather {
     @include window;
-    border-radius: 2rem;
-    margin-bottom: 26rem;
-    margin-left: 3rem;
+    border-radius: 0rem;
+    margin-top:    0rem;
+    margin-bottom: 0rem;
+    margin-right:  0rem;
+    margin-left:   0rem;
 }
 
 .weather-icon {
