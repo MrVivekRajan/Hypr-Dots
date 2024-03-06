@@ -1,0 +1,12 @@
+(defwidget apps [] 
+		(box :class "appbox" :orientation "h" :space-evenly "false" :vexpand "false" :hexpand "false" 
+				(button :style "background-image: url('icons/desktop.png');" :class "appicon" :onclick "firefox www.github.com")
+				(button :style "background-image: url('icons/telegram.png');" :class "appicon" :onclick "firefox www.github.com")
+				(button :style "background-image: url('icons/instagram.png');" :class "appicon" :onclick "firefox www.github.com")
+                                (button :style "background-image: url('icons/music.png');" :class "appicon" :onclick "firefox www.github.com")
+				(button :style "background-image: url('icons/discord.png');" :class "appicon" :onclick "firefox www.github.com")
+				(button :style "background-image: url('icons/github.png');" :class "appicon" :onclick "firefox www.github.com")
+				(button :style "background-image: url('icons/reddit.png');" :class "appicon" :onclick "firefox www.github.com")
+				
+                 )
+)

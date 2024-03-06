@@ -1,0 +1,51 @@
+.user-image {
+    background-image: url("vivek.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 3rem;
+    min-width: 3rem;
+    border-radius: 100%;
+}
+
+.open-powermenu-button {
+    background-color: rgba(30, 30, 46, .80);
+    color: #ffffff;
+    border-radius: 1rem;
+    padding: 0 1rem;
+    margin: 0.35rem 0;
+    margin-left: 0.5rem;
+    transition: 0.3s;
+}
+
+.open-powermenu-button:hover {
+    background-color: mix(#DA025D, #8651BB, 50%);
+}
+
+.user-clock-time {
+    font-size: 1.4rem;
+}
+
+.user-clock-separator {
+    font-size: 1.4rem;
+    margin: 0 0.25rem;
+}
+
+.user-clock-date {
+    font-size: 1.2rem;
+}
+
+.open-settings-button {
+    background-color: rgba(30, 30, 46, .80);
+    color: #ffffff;
+    border-radius: 0.5rem;
+    padding: 0 0.5rem;
+    margin: 0.35rem 0;
+    margin-left: 0.5rem;
+    transition: 0.3s;
+    font-size: 1.2rem;
+}
+
+.open-settings-button:hover {
+    background-color: mix(#DA025D, #8651BB, 50%);
+}

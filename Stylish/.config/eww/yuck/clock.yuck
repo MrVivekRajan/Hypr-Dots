@@ -1,0 +1,6 @@
+(defwidget clock []
+    (box :class "clock" :orientation "h" :space-evenly false
+        (label :class "date-month" :text {formattime(EWW_TIME, "%d, %B")})
+        (label :class "time" :text {formattime(EWW_TIME, "%I:%M %p")})
+    )
+)

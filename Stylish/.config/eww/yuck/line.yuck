@@ -1,0 +1,6 @@
+(defwidget line []
+    (box :class "line-box" :orientation "h" :space-evenly false 
+          (label :class "line" :text "▂ ▃ ▄ ▅ ▆ ▇ █ █ ▇ ▆ ▅ ▄ ▃ ▂")
+          (label :class "line2" :text "═══════◈◉◈◉◈════════")
+    )
+)

@@ -1,0 +1,52 @@
+.recorder_menu_box {
+    background-color: rgba(34, 34, 34, .80);
+    border-radius: 1rem;
+    padding: 1rem;
+    color: #ffffff;
+    box-shadow: 0 0 4px 2px #000000;
+    margin: 1rem;
+}
+
+.recorder_menu_icon {
+    color: #DA025D;
+    font-size: 3rem;
+}
+
+.recorder_menu_label {
+    font-size: 1.2rem;
+}
+
+.recorder_menu_checkbox_label {
+    font-size: 1.15rem;
+}
+.recorder_menu_checkbox_box {
+    margin-top: 0.25rem;
+}
+.recorder_menu_checkbox check {
+    background-color: #ffffff;
+    min-width: 1.5rem;
+    min-height: 1.5rem;
+    border-radius: 0.25rem;
+}
+
+.recorder_menu_checkbox check:checked {
+    background-color: #ffffff;
+    color: #da025d;
+}
+
+.record_menu_buttons {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+}
+
+.record_menu_button_cancel {
+    border: 1px solid #da025d;
+    border-radius: 1rem;
+    min-width: 6rem;
+}
+
+.record_menu_button_start {
+    border: 1px solid #da025d;
+    border-radius: 1rem;
+    min-width: 6rem;
+}

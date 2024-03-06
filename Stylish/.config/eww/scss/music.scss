@@ -1,0 +1,66 @@
+.music {
+    background-color: #ffffff;
+    border-radius: 1rem;
+    padding: 1rem;
+    color: #ffffff;
+    box-shadow: 0 0 4px 2px #000000;
+    margin: 1rem;
+    background-color: rgba(34, 34, 34, .50);
+}
+
+.music-image {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 6rem;
+    min-width: 6rem;
+    border-radius: 1rem;
+}
+
+.music-text {
+    margin-left: 1rem;
+}
+
+.music-title {
+    color: #FFFFFF;
+    font-size: 1.2rem;
+}
+
+.music-artist {
+    color: #8651BB;
+}
+
+.music-name {
+    background-color: #DA025D;
+    color: #f6c177;
+    padding: 0.25rem 0.5rem;
+    border-radius: 1rem;
+    font-size: 1rem;
+}
+
+.music-action {
+    font-size: 2rem;
+    min-width: 3rem;
+}
+
+.music-scale {
+    margin-top: 1rem;
+}
+
+.music-scale trough {
+    background-color: #da025d;
+    border-radius: 1rem;
+    min-height: 0.5rem;
+}
+
+
+.music-scale highlight {
+    background-color: #8651bb;
+    border-radius: 1rem;
+    min-height: 0.5rem;
+}
+
+.music-strtime {
+    color: #ffffff;
+    margin-top: 0.25rem;
+}
