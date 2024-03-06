@@ -1,4 +1,4 @@
-<3 align="center">
+<h3 align="center">
 	<img src="https://styles.redditmedia.com/t5_6sciw0/styles/communityIcon_h3cvittvupi91.png" width="100" alt="Logo"/><br/>
 	Dots for <a href="https://hyprland.org/">Hyprland</a>
 </h3>
