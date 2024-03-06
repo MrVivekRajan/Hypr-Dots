@@ -21,7 +21,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 ## Currently Supported Themes
 
-<br><div align="center"><table><tr><td><img width="60" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyprdots_logo.png"></td><td>
+<br><div align="center"><table><tr><td><img width="60" src="https://icon-library.com/images/theme-icon-png/theme-icon-png-6.jpg"></td><td>
 
 [![Stylish](https://placehold.co/130x30/b4befe/11111b?text=Catppuccin-Mocha&font=Oswald)](#-Stylish)
 [![GruvMinimal](https://placehold.co/130x30/dd7878/eff1f5?text=Catppuccin-Latte&font=Oswald)](#-Catppuccin-Latte)
