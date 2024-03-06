@@ -23,7 +23,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 <br><div align="center"><table><tr><td><img width="60" src="https://icon-library.com/images/theme-icon-png/theme-icon-png-6.jpg"></td><td>
 
-<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/GruvMinimal"></a>
+<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/GruvMinimal-blue"></a>
 [![GruvMinimal](https://placehold.co/130x30/dd7878/eff1f5?text=Catppuccin-Latte&font=Oswald)](#-Catppuccin-Latte)
 </td></tr></table></div><br><table><td><br>
 
