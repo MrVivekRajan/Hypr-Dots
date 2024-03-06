@@ -5,8 +5,8 @@
 
 <p align="center">
     <a href="https://github.com/MrVivekRajan/Hypr-Dots/stargazers"><img src="https://img.shields.io/github/stars/MrVivekRajan/Hypr-Dots?colorA=ebdbb2&colorB=458588&style=for-the-badge"></a>
-     <a href="https://github.com/developer-vivek/Gruvminimal-Dots/contributors"><img src="https://img.shields.io/github/contributors/developer-vivek/Gruvminimal-Dots?colorA=282828&colorB=e6b847&style=for-the-badge"></a>
-    <a href="https://github.com/developer-vivek/Gruvminimal-Dots/issues"><img src="https://img.shields.io/github/issues/developer-vivek/Gruvminimal-Dots?colorA=8f3f71&colorB=427b58&style=for-the-badge"></a>
+     <a href="https://github.com/MrVivekRajan/Hypr-Dots/contributors"><img src="https://img.shields.io/github/contributors/MrVivekRajan/Hypr-Dots?colorA=282828&colorB=e6b847&style=for-the-badge"></a>
+    <a href="https://github.com/MrVivekRajan/Hypr-Dots/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Hypr-Dots?colorA=8f3f71&colorB=427b58&style=for-the-badge"></a>
 </p>
 
 # :notebook_with_decorative_cover: Table of Contents
