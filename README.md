@@ -17,11 +17,11 @@
 - [WorkFlow](#WorkFlow)
 
 ## :star2: About This Project
-A warm welcome to all the people reading out this 🤗. Here at this repo you will find a minimal theme for Hyprland window manager based on gruvbox color palette. 
+A warm welcome to all the people reading out this 🤗. Here at this repo you will find some cool, stylish and minimal themes for Hyprland window manager.
 
 ## Currently Supported Themes
 
-<br><div align="center"><table><tr><td><img width="60" src="https://icon-library.com/images/theme-icon-png/theme-icon-png-6.jpg"></td><td>
+<br><div align="center"><table><tr><td><img width="60" src="https://www.shareicon.net/data/128x128/2016/02/07/281237_theme_512x512.png"></td><td>
 
 <a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Stylish"><img src="https://img.shields.io/badge/Stylish-purple"></a>
 <a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/GruvMinimal-green"></a>
