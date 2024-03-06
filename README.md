@@ -21,10 +21,10 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 ## Currently Supported Themes
 
-<br><div align="center"><table><tr><td><img width="60" src="https://www.shareicon.net/data/128x128/2016/02/07/281237_theme_512x512.png"></td><td>
+<br><div align="center"><table><tr><td><img width="60" src="https://e1.pngegg.com/pngimages/880/650/png-clipart-flatest-icons-miui-theme-psd-multicolored-logo-thumbnail.png"></td><td>
 
 <a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Stylish"><img src="https://img.shields.io/badge/Stylish-purple"></a>
-<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/GruvMinimal-green"></a>
+<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/GruvMinimal-yellow"></a>
 </td></tr></table></div><br><table><td><br>
 
 # Preview
