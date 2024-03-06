@@ -35,7 +35,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 <details>
 <summary>Gruvminimal-Theme</summary>
-<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/2afa2b33-70d0-4bba-9b27-f1b113887e9d"/>
+<img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/cc9a9358-bce1-4be6-ae76-72d48b957f16"/>
 </details>
 
 <details>
