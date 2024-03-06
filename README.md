@@ -12,7 +12,7 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About This Project](#star2-about-the-project)
-- [Discord](https://github.com/developer-vivek/Discord-Themes/) - [Spotify](https://github.com/developer-vivek/Spotify-Themes)  Themes Shown in picture
+- [Discord](https://github.com/developer-vivek/Discord-Themes/) - [Spotify](https://github.com/developer-vivek/Spotify-Themes)  Themes used in Dots can be downloaded from here.
 - [Preview](#Preview)
 - [WorkFlow](#WorkFlow)
 - [Download](#Download)
