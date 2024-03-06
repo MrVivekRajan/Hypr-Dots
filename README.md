@@ -30,7 +30,8 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 # Preview
 <details>
 <summary>Stylish-Theme</summary>
-<img src=""/>
+<img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/56b35710-88d5-4257-8c0f-1e467f39e009"/>
+<img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/845a9602-94d6-4128-86d5-1e4ddc458f5d"/>
 </details>
 
 <details>
