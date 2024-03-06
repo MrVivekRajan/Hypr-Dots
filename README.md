@@ -30,44 +30,15 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 # Preview
 <details>
 <summary>Stylish-Theme</summary>
-<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/220429ac-1d5a-40d2-9598-fe5bb77789f4"/>
+<img src=""/>
 </details>
 
 <details>
 <summary>Gruvminimal-Theme</summary>
 <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/cc9a9358-bce1-4be6-ae76-72d48b957f16"/>
+<img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/3e1d4716-ce05-46ac-b318-3ceafe56bedb"/>
+<img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/82affaf3-0866-400c-b763-a9b8cd8a4be1"/>
 </details>
-
-<details>
-<summary>Terminal</summary>
-<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/5e634b05-e10e-4c0c-a4a5-e4c362a7db38"/>
-</details>
-
-<details>
-<summary>Spotify</summary>
-<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/a2947da9-16fb-4b29-b670-97deddab650d"/>
-</details>
-
-<details>
-<summary>Discord</summary>
-<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/2cf2214d-84e0-48d8-ba61-3497ee882a20"/>
-</details>
-
-<details>
-<summary>Wlogout</summary>
-<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/7eae0085-34d3-411e-8aa9-c15eac4eb049"/>
-</details>
-
-<details>
-<summary>Dolphin</summary>
-<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/52687a2b-1e88-4cf1-9426-b60d0ca0e998"/>
-</details>
-
-<details>
-<summary>Rofi</summary>
-<img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/3fb59fe2-8f95-4a51-9a3e-7a5b0a7cdad5"/>
-</details>
-
 
 # WorkFlow
 https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/48228979-7ab3-4247-9d27-5e304972c98a
