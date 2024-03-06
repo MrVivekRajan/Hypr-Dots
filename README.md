@@ -29,12 +29,12 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 # Preview
 <details>
-<summary>HomeScreen and Waybar</summary>
+<summary>Stylish-Theme</summary>
 <img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/220429ac-1d5a-40d2-9598-fe5bb77789f4"/>
 </details>
 
 <details>
-<summary>Eww</summary>
+<summary>Gruvminimal-Theme</summary>
 <img src="https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/2afa2b33-70d0-4bba-9b27-f1b113887e9d"/>
 </details>
 
