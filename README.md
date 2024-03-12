@@ -47,15 +47,11 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 2. If you want to download individual or your desired theme then download it from [Release-Section](https://github.com/MrVivekRajan/Hypr-Dots/releases) 
 
 # WorkFlow-Stylish
-<details>
-<summary>Stylish-Theme</summary>
 https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/9fd9564b-0aa5-4e26-b74a-584c8ba9390b
-</details>
 
-<details>
-<summary>Gruvminimal-Theme</summary>
+# WorkFlow-Gruvminimal
 https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/48228979-7ab3-4247-9d27-5e304972c98a
-</details>
+
 
 # Thanks for Visiting !! ❤️❤️
 I Hope You Like my project, if yes then don't forget to give it a star as it means a lot.
