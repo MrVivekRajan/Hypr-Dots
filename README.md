@@ -30,7 +30,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </td></tr></table></div><br><table><td><br>
 
 # Preview
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/bbf50191-a462-4a4e-b67d-debd6337aadd" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/fdf878c9-381d-48c6-a7fe-c899fa7ec83e" align="center" width="750"> </p>
 
 <details>
 <summary>Stylish-Theme</summary>
