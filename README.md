@@ -32,6 +32,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 # Preview
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/fcd424ec-4035-42f3-b409-a9dc23fec2a1" align="center" width="750"> </p>
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b59d65bc-734c-4299-b71b-c3ce50d19635" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/3f2adfff-b0e3-4fcd-987f-88c4dac7f304" align="center" width="750"> </p>
 
 <details>
 <summary>Stylish-Theme</summary>
