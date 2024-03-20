@@ -1,23 +1,22 @@
 .quick_settings_button {
     transition: 500ms;
-    background-color: $surfaceVariant;
-    color: $onSurface;
+    background-color: #4f434a;
     border-radius: 1.5rem;
-    padding: 0.75rem;
-    font-size: 1.05rem;
+    padding: 1rem;
+    font-size: 1.02rem;
 }
 
 .quick_settings_button:hover {
-    background-color: mix($surfaceVariant, $onSurfaceVariant, 70%);
+    background-color: mix(#1f1a1d, #eae0e3, 50%);
 }
 
 .quick_settings_button_toggled {
-    background-color: $primary;
-    color: $surface;
+    background-color: #ebdbb3;
+    color: #1f1a1d;
 }
 
 .quick_settings_button_toggled:hover {
-    background-color: mix($primary, $onSurface, 70%);
+    background-color: mix(#1f1a1d, #eae0e3, 50%);
 }
 
 .quick_settings_box {
@@ -34,14 +33,19 @@
 
 .quick-settings-state {
     font-size: 0.9rem;
-    color: $onSurfaceVariant;
+    color: #d2c3ca;
 }
 
 .quick-settings-state-enabled {
-    color: $surfaceVariant;
+    color: #4f434a;
 }
 
 .left-top-plite {
+    margin-right: 0.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.left-center-plite {
     margin-right: 0.25rem;
     margin-bottom: 0.25rem;
 }
@@ -53,7 +57,12 @@
 
 .right-top-plite {
     margin-left: 0.25rem;
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.right-center-plite {
+    margin-left: 0.25rem;
+    margin-bottom: 0.35rem;
 }
 
 .right-bottom-plite {

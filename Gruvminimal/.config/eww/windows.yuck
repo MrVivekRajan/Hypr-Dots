@@ -2,7 +2,7 @@
     :monitor 0
     :stacking "overlay"
     :geometry (geometry
-                    :anchor "top right"
+                    :anchor "bottom right"
                     :width "2px"
                     :height "2px"
                 )
@@ -10,9 +10,21 @@
     (control_center)
 )
 
-(defwindow recorder_menu
+(defwindow osd
     :monitor 0
     :stacking "overlay"
+    :geometry (geometry 
+                    :anchor "bottom center"
+                    :width "2px"
+                    :height "2px"
+                )
+    :namespace "eww"
+    (volume_osd)
+)
+
+(defwindow recorder_menu
+    :monitor 0
+    :stacking "bg"
     :geometry (geometry 
                     :anchor "center"
                     :width "100%"
@@ -20,7 +32,6 @@
     :namespace "eww-blur"
     (recorder_menu)
 )
-
 
 (defwindow bg_widgets
     :monitor 0

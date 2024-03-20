@@ -1,0 +1,9 @@
+(defwidget musicinfo []
+        (box :orientation "h" :class "musicinfo" :space-evenly false 
+                        (label :halign "start" :class "info" :limit-width 15 :text "♫ Now Playing")
+                        (label :halign "start" :class "musicname" :limit-width 13 :text {mpris.title})
+                        (label :halign "start" :class "musicsinger" :limit-width 25 :text {mpris.artist})
+       
+        )
+    
+)

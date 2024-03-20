@@ -62,9 +62,9 @@ scrollable_menu=false
 submenu_delay=250
 
 [GeneralColors]
-window.color=#24201f
-base.color=#26201f
-alt.base.color=#26201f
+window.color=#282828d9
+base.color=#242424d9
+alt.base.color=#242424d9
 button.color=#2e2e2e
 light.color=#504945
 mid.light.color=#3f3f3f

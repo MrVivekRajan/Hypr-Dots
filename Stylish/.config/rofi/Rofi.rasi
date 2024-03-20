@@ -3,14 +3,6 @@
  * Made By              : Vivek Rajan 
  * Github Repo           : https://github.com/MrVivekRajan
  *******************************************************************************/
-
-* {
-    bg2:    #3D3D3D80;
-    fg0:    #E6E6E6;
-    fg1:    #FFFFFF;
-    fg2:    #969696;
-    fg3:    #3D3D3D;
-}
  
 configuration {
 display-drun: "󱓞 Applications";
@@ -22,7 +14,7 @@ icon-theme: "Stylish";
     font:   "SF Pro Display Bold 18";
 
     background-color:   transparent;
-    text-color:         @fg0;
+    text-color:         #E6E6E6;
 
     margin:     0px;
     padding:    0px;
@@ -57,18 +49,18 @@ inputbar {
 }
 
 prompt {
-    text-color: @fg2;
+    text-color: #969696;
 }
 
 entry {
     placeholder:        "Search";
-    placeholder-color:  @fg3;
+    placeholder-color:  #3D3D3D;
 }
 
 message {
     margin:             12px 0 0;
     border-radius:      16px;
-    border-color:       @bg2;
+    border-color:       #3D3D3D80;
     background-image:    linear-gradient(45, #DA025D, #AF1E7B, #A12C92, #8651BB);
 }
 

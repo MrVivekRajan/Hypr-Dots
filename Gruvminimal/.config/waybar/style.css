@@ -7,86 +7,66 @@
     min-height: 10px;
 }
 
-@import "Gruvminimal.css";
-
 window#waybar {
-    background: rgba(21, 18, 27, 0);
-    color: #282828
+    background-color: #242424;
+}
+
+#battery,
+#temperature,
+#clock,
+#workspaces,
+#window,
+#tray,
+#pulseaudio,
+#backlight,
+#workspaces,
+#network,
+#custom-weather.severe,
+#custom-weather.sunnyDay,
+#custom-weather.clearNight,
+#custom-weather.cloudyFoggyDay, 
+#custom-weather.cloudyFoggyNight,
+#custom-weather.rainyDay, 
+#custom-weather.rainyNight,
+#custom-weather.showyIcyDay, 
+#custom-weather.snowyIcyNight,
+#custom-left,
+#custom-right {
+   color: @main-color;
+   background: #32302f;
+   margin: 4px 0px 4px 0px;
+   padding-left: 4px;
+   padding-right: 4px;
+   opacity: 1;
+   border: 0px solid #181825;
 }
 
 tooltip {
     background: @tool-bg;
     color: @tool-color;
-    border-radius: 3px;
+    border-radius: 22px;
     border-width: 2px;
     border-style: solid;
-    border-color: #d5c4a1;  
-}
-
-#workspaces {
-    background: #1d2021;
+    border-color: #11111b;
 }
 
 #workspaces button {
     box-shadow: none;
-	text-shadow: none;
-    padding: 0px;
-    border-radius: 9px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    padding-left: 3px;
-    padding-right: 3px;
-    color: #cc241d;
-    animation: gradient_f 20s ease-in infinite;
-    transition: all 0.5s cubic-bezier(.55,-0.68,.48,1.682);
-}
-
-#workspaces button.active {
-    background: #1d2021;
-    color: #ebdbb2;
-    margin-left: 3px;
-    padding-left: 12px;
-    padding-right: 12px;
-    margin-right: 3px;
-    animation: gradient_f 20s ease-in infinite;
-    transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
-}
-
-#workspaces button:hover {
-    background: #e3242b;
-    color: #e0115f;
-    padding-left: 3px;
-    padding-right: 3px;
-    animation: gradient_f 20s ease-in infinite;
-    transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
-}
-
-#window {
-    background: #1d2021;
-    color: #bdae93;
-    padding-left: 4px;
-    padding-right: 4px;
-    border-radius: 10px;
-    border: 2.5px solid #bdae93; 
-}
-
-#taskbar button {
-    box-shadow: none;
-	text-shadow: none;
+    text-shadow: none;
     padding: 0px;
     border-radius: 9px;
     margin-top: 3px;
     margin-bottom: 3px;
     padding-left: 3px;
     padding-right: 3px;
-    color: #cc241d;
+    color: #ffffff;
     animation: gradient_f 20s ease-in infinite;
     transition: all 0.5s cubic-bezier(.55,-0.68,.48,1.682);
 }
 
-#taskbar button.active {
-    background: #1d2021;
-    color: #cc241d;
+#workspaces button.active {
+    background: #da025d;
+    color: #d5c4a1;
     margin-left: 3px;
     padding-left: 12px;
     padding-right: 12px;
@@ -95,157 +75,79 @@ tooltip {
     transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
 }
 
-#taskbar button:hover {
-    background: #1d2021;
-    color: @wb-hvr-color;
-    padding-left: 3px;
-    padding-right: 3px;
-    animation: gradient_f 20s ease-in infinite;
-    transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
-}
-
-#workspaces,
-#taskbar {
-    padding: 0px;
-    border-radius: 10px;
-    border: 2.5px solid #bdae93;
-}
-
-#clock {
-    color: #f6c177;
-    background: #1d2021;
-    padding-left: 4px;
-    padding-right: 4px;
-    border-radius: 10px;
-    border: 2.5px solid #f6c177;
+#workspaces button:hover {
+    background: #b16286;
+    border: none;
 }
 
 #workspaces {
-    background: #191724;
+    padding: 0px;
 }
 
-#workspaces button {
+#window {
+    color: #38ef7d; 
 }
 
-#workspaces button.active {
-    color: #ebbcba;
+#custom-weather.severe {
+    color: #3ca6a1;
 }
 
-#workspaces button.focused {
-    color: #ffffff;
-    background: #191724;
+#custom-weather.sunnyDay {
+    color: #3ca6a1;
 }
 
-#workspaces button.urgent {
-    color: #ffffff;
-    background: #191724;
+#custom-weather.clearNight {
+    color: #3ca6a1;
 }
 
-#workspaces button:hover {
-    background: #191724;
-    color: #ebbcba;
+#custom-weather.cloudyFoggyDay, #custom-weather.cloudyFoggyNight {
+    color: #3ca6a1;
 }
 
-#cpu {
-    padding-left: 4px;
-    padding-right: 4px;
-    background: #1d2021;
-    border-radius: 10px;
-    border: 2.5px solid #ff671f;
-    color: #ff671f;
+#custom-weather.rainyDay, #custom-weather.rainyNight {
+    color: #3ca6a1;
 }
 
-#memory {
-    padding-left: 4px;
-    padding-right: 4px;
-    background: #1d2021;
-    border-radius: 10px;
-    border: 2.5px solid #ffffff;
-    color: #ffffff;
+#custom-weather.showyIcyDay, #custom-weather.snowyIcyNight {
+    color: #3ca6a1;
+}
+
+#custom-weather.default {
+    color: #3ca6a1;
 }
 
 #temperature {
-    padding-left: 4px;
-    padding-right: 4px;
-    background: #1d2021;
-    border-radius: 10px;
-    border: 2.5px solid #97f993;
-    color: #97f993;
+    color: #eebd35;
 }
 
 #temperature.critical {
     color: #ff0000;
 }
 
+#battery {
+    color: #458588;
+}
+
 #pulseaudio {
-    background: #1d2021;
-    padding-left: 4px;
-    padding-right: 4px;
-    border-radius: 10px;
-    border: 2.5px solid #eb2089;
-    color: #eb2089;
+    color: #ebdbb2;
 }
 
-#disk {
-    background: #1d2021;
-    padding-left: 4px;
-    padding-right: 4px;
-    border-radius: 10px;
-    border: 2.5px solid #fb4934;
-    color: #fb4934;   
+#backlight {
+    color: #ebdbb2;
 }
 
-#battery,
-#tray {
-    background: #1d2021;
-    padding-left: 4px;
-    padding-right: 4px;
-    border-radius: 10px;
-    border: 2.5px solid #6bb0d9;
-    color: #6bb0d9;
+#clock {
+   color: #ebdbb2;
 }
 
-#network {
-    background: #1d2021;
-    padding-left: 4px;
-    padding-right: 4px;
-    border-radius: 10px;
-    border: 2.5px solid #f5a500;
-    color: #f5a500;
-}
-
-#custom-r_end {
+#custom-right {
     border-radius: 0px 22px 22px 0px;
     margin-right: 9px;
     padding-right: 3px;
 }
 
-#custom-l_end {
+#custom-left {
     border-radius: 22px 0px 0px 22px;
-    margin-left: 9px;
-    padding-left: 3px;
-}
-
-#custom-sr_end {
-    border-radius: 0px;
-    margin-right: 9px;
-    padding-right: 3px;
-}
-
-#custom-sl_end {
-    border-radius: 0px;
-    margin-left: 9px;
-    padding-left: 3px;
-}
-
-#custom-rr_end {
-    border-radius: 0px 8px 8px 0px;
-    margin-right: 9px;
-    padding-right: 3px;
-}
-
-#custom-rl_end {
-    border-radius: 8px 0px 0px 8px;
     margin-left: 9px;
     padding-left: 3px;
 }

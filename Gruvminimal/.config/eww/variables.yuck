@@ -34,3 +34,7 @@
 
 (deflisten current_theme :initial "dark" 
 "scripts/material.py --current")
+
+(deflisten notifications :initial '{"count": 0, "notifications": [], "popups": []}'
+"scripts/notifications.sh current")
+

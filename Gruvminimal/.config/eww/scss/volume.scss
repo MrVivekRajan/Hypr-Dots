@@ -1,21 +1,28 @@
 .volume-osd {
-   @include window;
+   border-radius: 1rem;
+   padding: 1rem;
+   color: #000000;
+   box-shadow: 0 0 4px 2px #000000;
+   margin: 1rem;
    min-width: 25rem;
 }
 
 .volume-control-center {
-    margin-top: 1rem;
+        margin-top:    2px;
+        margin-right:  9px;
+        margin-left:   -25px;
+        margin-bottom: 0px;
 }
 
 .volume-scale trough {
-    background-color: $surfaceVariant;
+    background-color: #4f434a;
     border-radius: 1rem;
     min-height: 2.25rem;
 }
 
 
 .volume-scale trough highlight {
-    background-color: $primary;
+    background-color: #ebdbb3;
     border-radius: 1rem;
     min-height: 2.25rem;
 }
@@ -25,46 +32,10 @@
     font-size: 1.5rem;
 
     &.less {
-        color: $onSurface;
+        color: #eae0e3;
     };
 
     &.more {
-        color: $surface;
+        color: #1f1a1d;
     };
-}
-
-.volume-arrow {
-    color: $primary;
-    margin-left: 0.5rem;
-    font-size: 2rem;
-    min-width: 2.25rem;
-    border-radius: 2rem;
-    transition: 0.3s;
-}
-
-.volume-arrow:hover {
-    background-color: mix($surface, $onSurface, 70%);
-}
-
-.volume-mute {
-    background-color: $surfaceVariant;
-    color: $onSurface;
-    margin-left: 0.5rem;
-    font-size: 1.5rem;
-    min-width: 2.25rem;
-    border-radius: 2rem;
-    transition: 0.3s;
-
-    &.active {
-        background-color: $primary;
-        color: $surface;
-    }
-
-    &.active:hover {
-        background-color: mix($primary, $onSurface, 70%);
-    }
-}
-
-.volume-mute:hover {
-    background-color: mix($surfaceVariant, $onSurfaceVariant, 70%);
 }

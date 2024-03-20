@@ -1,5 +1,10 @@
 .music {
-    @include window;
+    border-radius: 1rem;
+    padding: 1rem;
+    color: #ffffff;
+    box-shadow: 0 0 4px 2px #000000;
+    margin: 1rem;
+    background-color: rgba(36, 36, 36, 1);
 }
 
 .music-image {
@@ -16,16 +21,17 @@
 }
 
 .music-title {
+    color: #689d6a;
     font-size: 1.2rem;
 }
 
 .music-artist {
-    color: $onSurfaceVariant;
+    color: #458588;
 }
 
 .music-name {
-    background-color: $primary;
-    color: $surface;
+    background-color: #ebdbb3;
+    color: #32302f;
     padding: 0.25rem 0.5rem;
     border-radius: 1rem;
     font-size: 1rem;
@@ -41,19 +47,19 @@
 }
 
 .music-scale trough {
-    background-color: $surfaceVariant;
+    background-color: #4f434a;
     border-radius: 1rem;
     min-height: 0.5rem;
 }
 
 
 .music-scale highlight {
-    background-color: $primary;
+    background-color: #ebdbb3;
     border-radius: 1rem;
     min-height: 0.5rem;
 }
 
 .music-strtime {
-    color: $onSurfaceVariant;
+    color: #d2c3ca;
     margin-top: 0.25rem;
 }

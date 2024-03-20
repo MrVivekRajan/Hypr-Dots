@@ -1,0 +1,63 @@
+.info-box {
+   margin-top: -22rem;
+   margin-bottom: 0rem;
+   margin-left: -82rem;
+   margin-right: 60rem;
+   font-size : 36px;  
+}
+
+.info_box {
+	padding-top :0px;
+        padding-bottom :0px;
+        padding-right :12px;
+        padding-left :12px;  
+}
+
+.info-circle {
+	border-radius: 100%;
+	padding: 15px;
+        border: 12px solid #d5c4a1;
+}
+
+.cpu-icon {
+	color: #cc241d;
+}
+
+.cpu-text {
+	font-size : 15px;
+        margin-top:    -5px;
+        margin-bottom: 0px;
+        margin-left:   10px;
+        margin-right:  0px;
+	font-weight : bold;
+        color: #cc241d;
+}
+
+.memory-icon {
+	color: #fabd2f;
+}
+
+.memory-text {
+	font-size : 15px;
+        margin-top:    -5px;
+        margin-bottom: 0px;
+        margin-left:   10px;
+        margin-right:  0px;
+	font-weight : bold;
+        color: #fabd2f;
+}
+
+.disk-icon {
+	color: #458588; 
+        font-size : 63px;
+}
+
+.disk-text {
+	font-size : 15px;
+        margin-top:    -5px;
+        margin-bottom: 0px;
+        margin-left:   10px;
+        margin-right:  0px;
+	font-weight : bold;
+        color: #458588;
+}

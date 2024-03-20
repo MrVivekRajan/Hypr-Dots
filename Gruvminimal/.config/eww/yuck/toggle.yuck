@@ -1,0 +1,10 @@
+(defwidget toggle [] 
+		(box :class "togglebox" :orientation "h" :space-evenly "false" :vexpand "false" :hexpand "false" 
+				(button :style "background-image: url('toggle_icons/hotspot.png');" :class "toggleicon" :onclick "firefox www.github.com")
+				(button :style "background-image: url('toggle_icons/airplane.png');" :class  "toggleicon" :onclick "firefox www.github.com")
+				(button :style "background-image: url('toggle_icons/vibrate.png');" :class "toggleicon" :onclick "firefox www.github.com")
+                                (button :style "background-image: url('toggle_icons/flashlight.png');" :class "toggleicon" :onclick "firefox www.github.com")
+                                (button :style "background-image: url('toggle_icons/location.png');" :class "toggleicon" :onclick "firefox www.github.com")
+                               
+                 )
+)

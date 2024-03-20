@@ -1,0 +1,35 @@
+(defpoll cpu :interval "1s" `~/.config/eww/scripts/cpu`)
+(defpoll memory :interval "1s" "~/.config/eww/scripts/memory") 
+(defpoll disk :interval "1s" "~/.config/eww/scripts/disk")
+
+(defwidget info [] 
+		(box :class "info-box" :orientation "h" :space-evenly "true" :hexpand "false" :vexpand "false" 
+			
+				(box :class "info_box" :orientation "v" :valign "center" :halign "center" :spacing 15 :space-evenly "false"
+						(circular-progress :class "cpu-icon" :value cpu :thickness 11
+							(label :class "info-circle" :text "󰍛")
+                                                )
+                                       (label :class "cpu-text" :valign "end" :halign "center" :text "${cpu}%")
+                                )
+
+
+
+				(box :class "info_box" :orientation "v" :valign "center" :halign "center" :spacing 15 :space-evenly "false"
+						(circular-progress :class "memory-icon" :value memory :thickness 11
+							(label :class "info-circle" :text "󰾆")
+                                                )
+					(label :class "memory-text" :valign "end" :halign "center" :text "${memory}%") 
+                                ) 
+
+
+ 
+       				(box :class "info_box" :orientation "v" :valign "center" :halign "center" :spacing 15 :space-evenly "false"
+						(circular-progress :class "disk-icon" :value disk :thickness 11
+							(label :class "info-circle" :text "")
+                                                ) 
+					(label :class "disk-text" :valign "end" :halign "center" :text "${disk}%") 
+                                )
+
+                        
+                )
+)  

@@ -2,15 +2,20 @@
 (include "windows.yuck")
 
 
-(include "modules/control_center.yuck")
+(include "yuck/control_center.yuck")
+(include "yuck/user.yuck")
+(include "yuck/quick_settings.yuck")
+(include "yuck/volume.yuck")
+(include "yuck/music.yuck")
 
-(include "modules/volume.yuck")
-(include "modules/quick_settings.yuck")
-(include "modules/music.yuck")
-(include "modules/user.yuck")
-(include "modules/weather.yuck")
 
-(include "modules/clock.yuck")
-(include "modules/recorder_menu.yuck")
-(include "modules/bg_widgets.yuck")
+(include "yuck/day.yuck")
+(include "yuck/clock.yuck")
+(include "yuck/month-date.yuck")
+(include "yuck/profile.yuck")
+(include "yuck/info.yuck")
+(include "yuck/musicinfo.yuck")
+(include "yuck/toggle.yuck")
+(include "yuck/toggle2.yuck")
+(include "yuck/bg_widgets.yuck")
 
