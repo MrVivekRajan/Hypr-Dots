@@ -31,7 +31,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 # Preview
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8d26306e-cde1-4754-86cc-d31ceef96690" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b59d65bc-734c-4299-b71b-c3ce50d19635" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/36e7d19e-bc08-4bc0-9be0-3db6b17f57a4" width="750"> </p>
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/3f2adfff-b0e3-4fcd-987f-88c4dac7f304" align="center" width="750"> </p>
 
 <details>
