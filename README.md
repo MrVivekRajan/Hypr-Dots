@@ -32,7 +32,10 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 # Preview
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8d26306e-cde1-4754-86cc-d31ceef96690" align="center" width="750"> </p>
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/36e7d19e-bc08-4bc0-9be0-3db6b17f57a4" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/3f2adfff-b0e3-4fcd-987f-88c4dac7f304" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/4276d59e-595b-43f2-ba4e-016265d4ac2b" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/be9683d9-1ef5-4a24-bdf6-11774547bfb6" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/e485926e-60d4-4ded-839a-d1d7e8b66863" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/0a751726-b950-4775-9211-15d796176822" align="center" width="750"> </p>
 
 <details>
 <summary>Gruvminimal-Theme</summary>
