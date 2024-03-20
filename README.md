@@ -50,7 +50,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/9fd9564b-0aa5-4e26-b74a-584c8ba9390b
 
 # WorkFlow-Gruvminimal
-https://github.com/developer-vivek/Gruvminimal-Dots/assets/85994908/48228979-7ab3-4247-9d27-5e304972c98a
+https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/14e6034a-c4ee-4ee9-bf7d-b5340b0180eb
 
 
 # Thanks for Visiting !! ❤️❤️
