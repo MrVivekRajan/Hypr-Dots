@@ -14,7 +14,7 @@
 - [About This Project](#star2-about-the-project)
 - [Discord](https://github.com/developer-vivek/Discord-Themes/) - [Spotify](https://github.com/developer-vivek/Spotify-Themes)  Themes used in Dots can be downloaded from here.
 - [Preview](#Preview)
-- [WorkFlow](#WorkFlow)
+- [WorkFlow](#WorkFlow-Stylish)
 - [Download](#Download)
  
 
