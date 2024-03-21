@@ -1,6 +1,5 @@
 <h3 align="center">
-	<img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f8ad6dad-cfbf-4d50-9442-d1a07fbf8e2f" width="650"/><br/>
-	Dots for <a href="https://hyprland.org/">Hyprland</a>
+	<img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f8ad6dad-cfbf-4d50-9442-d1a07fbf8e2f" width="700"/><br/>
 </h3>
 
 <p align="center">
