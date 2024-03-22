@@ -12,12 +12,12 @@
  <p align="center"> 
    <a = href="https://youtu.be/3zJSO9F9zUA?si=6OF-tALQ5H2b_kY-">
             <img src="https://img.shields.io/badge/Youtube-Video-red.svg?style=for-the-badge&labelColor=32302f&color=fb4934"></a> 
-   <a href="https://github.com/MrVivekRajan/Hypr-Dots/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Hypr-Dots?colorA=32302f&colorB=FEE71F&style=for-the-badge"></a>
+   <a href="https://github.com/MrVivekRajan/Hypr-Dots/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Hypr-Dots?colorA=32302f&colorB=eebd35&style=for-the-badge"></a>
 </p>
 
 <p align="center">
     <a href="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/LICENSE">
-        <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GNU&colorA=32302f&colorB=b16286&logo=unlicense&logoColor=da025d&"/></a>  
+        <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GNU&colorA=32302f&colorB=b16286&logo=unlicense&logoColor=b16286&"/></a>  
 </p>
 
 # :notebook_with_decorative_cover: Table of Contents
@@ -38,7 +38,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 <a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Stylish"><img src="https://img.shields.io/badge/Stylish-Theme-purple.svg?style=for-the-badge&labelColor=da025d&color=8651bb"></a>
 
-<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/Gruv-Minimakl-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"></a>
+<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/Gruv-Minimal-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"></a>
 </td></tr></table></div><br><table><td><br>
 
 # Preview
