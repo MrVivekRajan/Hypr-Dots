@@ -6,7 +6,7 @@
     <a href="https://github.com/MrVivekRajan/Hypr-Dots/stargazers"><img src="https://img.shields.io/github/stars/MrVivekRajan/Hypr-Dots?colorA=32302f&colorB=458588&style=for-the-badge"></a>
      <a href="https://github.com/MrVivekRajan/Hypr-Dots/contributors"><img src="https://img.shields.io/github/contributors/MrVivekRajan/Hypr-Dots?colorA=32302f&colorB=8651BB&style=for-the-badge"></a>
      <a = href="https://hyprland.org">
-            <img src="https://img.shields.io/badge/Arch-Hyprland-blue.svg?style=for-the-badge&labelColor=32302f&logo=&logoColor=&color=689d6a">
+            <img src="https://img.shields.io/badge/Arch-Hyprland-blue.svg?style=for-the-badge&labelColor=32302f&logo=&logoColor=black&color=689d6a">
          </a> 
 </p>
 
