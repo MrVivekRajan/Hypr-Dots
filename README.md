@@ -13,7 +13,7 @@
             <img src="https://img.shields.io/badge/Arch-Hyprland-blue.svg?style=for-the-badge&labelColor=303446&logo=&logoColor=white&color=91D7E3">
          </a> 
      <a href="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/LICENSE">
-            <img src="https://img.shields.io/badge/Arch-Hyprland-blue.svg?style=for-the-badge&labelColor=303446&logo=&logoColor=white&color=91D7E3">
+          <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GNU&colorA=313244&colorB=F5A97F&logo=unlicense&logoColor=F5A97F&"/>  
      </a>
 </p>    
 
