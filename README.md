@@ -6,6 +6,9 @@
     <a href="https://github.com/MrVivekRajan/Hypr-Dots/stargazers"><img src="https://img.shields.io/github/stars/MrVivekRajan/Hypr-Dots?colorA=ebdbb2&colorB=458588&style=for-the-badge"></a>
      <a href="https://github.com/MrVivekRajan/Hypr-Dots/contributors"><img src="https://img.shields.io/github/contributors/MrVivekRajan/Hypr-Dots?colorA=DA025D&colorB=8651BB&style=for-the-badge"></a>
     <a href="https://github.com/MrVivekRajan/Hypr-Dots/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Hypr-Dots?colorA=101820&colorB=FEE71F&style=for-the-badge"></a>
+    <a = href="https://nixos.org">
+            <img src="https://img.shields.io/badge/Arch-Hyprland-blue.svg?style=for-the-badge&labelColor=303446&logo=&logoColor=white&color=91D7E3">
+         </a>
 </p>
 
 # :notebook_with_decorative_cover: Table of Contents
