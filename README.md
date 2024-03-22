@@ -12,6 +12,8 @@
 </p>
 
 <br>
+<div align="center"> 
+	
  <div align="center">   
     <a href="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/LICENSE">
           <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GNU&colorA=313244&colorB=F5A97F&logo=unlicense&logoColor=F5A97F&"/>  
@@ -21,6 +23,8 @@
          </a> 
 </div>
 </br>
+
+</div>
 
 
 # :notebook_with_decorative_cover: Table of Contents
