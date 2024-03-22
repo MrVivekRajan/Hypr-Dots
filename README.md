@@ -17,7 +17,7 @@
 
 <p align="center">
     <a href="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/LICENSE">
-        <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GNU&colorA=32302f&colorB=da025d&logo=unlicense&logoColor=da025d&"/></a>  
+        <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GNU&colorA=32302f&colorB=b16286&logo=unlicense&logoColor=da025d&"/></a>  
 </p>
 
 # :notebook_with_decorative_cover: Table of Contents
@@ -36,8 +36,8 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 <br><div align="center"><table><tr><td><img width="60" src="https://www.shareicon.net/data/2016/02/07/281237_theme_512x512.png"></td><td>
 
-<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Stylish"><img src="https://img.shields.io/badge/Styl-ish-purple.svg?style=for-the-badge&labelColor=da025d&color=8651bb"></a>
-<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/GruvMinimal-yellow"></a>
+<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Stylish"><img src="https://img.shields.io/badge/Stylish-Theme-purple.svg?style=for-the-badge&labelColor=da025d&color=8651bb"></a>
+<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/Gruv-Minimal-yellow.svg"?style=for-the-badge&labelColor=458588&color=689d6a"></a>
 </td></tr></table></div><br><table><td><br>
 
 # Preview
