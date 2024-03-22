@@ -7,7 +7,7 @@
      <a href="https://github.com/MrVivekRajan/Hypr-Dots/contributors"><img src="https://img.shields.io/github/contributors/MrVivekRajan/Hypr-Dots?colorA=32302f&colorB=8651BB&style=for-the-badge"></a>
     <a href="https://github.com/MrVivekRajan/Hypr-Dots/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Hypr-Dots?colorA=32302f&colorB=FEE71F&style=for-the-badge"></a>
     <a = href="https://hyprland.org">
-            <img src="https://img.shields.io/badge/ Arch-Hyprland-blue.svg?style=for-the-badge&labelColor=32302f&logo=&logoColor=white&color=91D7E3">
+            <img src="https://img.shields.io/badge/Arch-Hyprland-blue.svg?style=for-the-badge&labelColor=32302f&logo=&logoColor=white&color=689d6a">
          </a> 
 </p>
 
