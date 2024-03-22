@@ -11,7 +11,7 @@
 
  <p align="center"> 
    <a = href="https://youtu.be/3zJSO9F9zUA?si=6OF-tALQ5H2b_kY-">
-            <img src="https://img.shields.io/badge/Youtube-Video-blue.svg?style=for-the-badge&labelColor=32302f&logo=&logoColor=white&color=91D7E3"></a> 
+            <img src="https://img.shields.io/badge/Youtube-Video-blue.svg?style=for-the-badge&labelColor=32302f&logo=&logoColor&color=91D7E3"></a> 
    <a href="https://github.com/MrVivekRajan/Hypr-Dots/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Hypr-Dots?colorA=32302f&colorB=FEE71F&style=for-the-badge"></a>
 </p>
 
