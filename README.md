@@ -11,8 +11,7 @@
 <p align="center">
     <a = href="https://hyprland.org">
             <img src="https://img.shields.io/badge/Arch-Hyprland-blue.svg?style=for-the-badge&labelColor=303446&logo=&logoColor=white&color=91D7E3">
-         </a>
-	 
+         </a> 
      <a href="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/LICENSE">
             <img src="https://img.shields.io/badge/Arch-Hyprland-blue.svg?style=for-the-badge&labelColor=303446&logo=&logoColor=white&color=91D7E3">
      </a>
