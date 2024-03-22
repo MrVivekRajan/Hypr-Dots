@@ -36,7 +36,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 <br><div align="center"><table><tr><td><img width="60" src="https://www.shareicon.net/data/2016/02/07/281237_theme_512x512.png"></td><td>
 
-<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Stylish"><img src="https://img.shields.io/badge/Stylish-pur-ple.svg"></a>
+<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Stylish"><img src="https://img.shields.io/badge/Sty-Lish-purple.svg?style=for-the-badge&labelColor=32302f&color=d65d0e"></a>
 <a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/GruvMinimal-yellow"></a>
 </td></tr></table></div><br><table><td><br>
 
