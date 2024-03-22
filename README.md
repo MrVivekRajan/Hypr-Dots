@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-    <a = href="https://nixos.org">
+    <a = href="https://hyprland.org">
             <img src="https://img.shields.io/badge/Arch-Hyprland-blue.svg?style=for-the-badge&labelColor=303446&logo=&logoColor=white&color=91D7E3">
          </a>
 	 
-     <a href="https://github.com/0fie/Dotfiles/blob/main/LICENSE">
-            <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=313244&colorB=F5A97F&logo=unlicense&logoColor=F5A97F&">
-</a>
+     <a href="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/LICENSE">
+            <img src="https://img.shields.io/badge/Arch-Hyprland-blue.svg?style=for-the-badge&labelColor=303446&logo=&logoColor=white&color=91D7E3">
+     </a>
 </p>    
 
 # :notebook_with_decorative_cover: Table of Contents
