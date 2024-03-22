@@ -10,15 +10,18 @@
          </a> 
 </p>
 
- <div align="center">   
-    <a href="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/LICENSE">
-          <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GNU&colorA=32302f&colorB=F5A97F&logo=unlicense&logoColor=F5A97F&"/>  
-     </a>
+ <p align="center">    
    <a href="https://github.com/MrVivekRajan/Hypr-Dots/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Hypr-Dots?colorA=32302f&colorB=FEE71F&style=for-the-badge"></a>
     <a = href="https://youtu.be/3zJSO9F9zUA?si=6OF-tALQ5H2b_kY-">
             <img src="https://img.shields.io/badge/Youtube-Video-blue.svg?style=for-the-badge&labelColor=32302f&logo=&logoColor=white&color=91D7E3">
          </a> 
-</div>
+</p>
+
+<p align="center">
+    <a href="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/LICENSE">
+          <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GNU&colorA=32302f&colorB=F5A97F&logo=unlicense&logoColor=F5A97F&"/>  
+     </a>
+</p>
 
 # :notebook_with_decorative_cover: Table of Contents
 
