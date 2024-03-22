@@ -17,7 +17,7 @@
 
 <p align="center">
     <a href="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/LICENSE">
-          <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GNU&colorA=32302f&colorB=F5A97F&logo=unlicense&logoColor=000000&"/></a>
+          <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GNU&colorA=32302f&colorB=F5A97F&logo=unlicense"/></a>
 </p>
 
 # :notebook_with_decorative_cover: Table of Contents
