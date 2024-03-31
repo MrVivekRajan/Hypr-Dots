@@ -23,37 +23,37 @@ button:hover {
 }
 
 #lock {
-    background-image: image(url("/home/vivek/.config/wlogout/icons/lock.png"));
+    background-image: image(url("$HOME/.config/wlogout/icons/lock.png"));
     background-size: 70%;
 }
 #lock:focus {
-    background-image: image(url("/home/vivek/.config/wlogout/icons/lock-hover.png"));
+    background-image: image(url("$HOME/.config/wlogout/icons/lock-hover.png"));
 }
 
 #logout {
-    background-image: image(url("/home/vivek/.config/wlogout/icons/logout.png"));
+    background-image: image(url("$HOME/.config/wlogout/icons/logout.png"));
 }
 #logout:focus {
-    background-image: image(url("/home/vivek/.config/wlogout/icons/logout-hover.png"));
+    background-image: image(url("$HOME/.config/wlogout/icons/logout-hover.png"));
 }
 
 #suspend {
-    background-image: image(url("/home/vivek/.config/wlogout/icons/sleep.png"));
+    background-image: image(url("$HOME/.config/wlogout/icons/sleep.png"));
 } 
 #suspend:focus {
-    background-image: image(url("/home/vivek/.config/wlogout/icons/sleep-hover.png"));
+    background-image: image(url("$HOME/.config/wlogout/icons/sleep-hover.png"));
 }
 
 #shutdown {
-    background-image: image(url("/home/vivek/.config/wlogout/icons/power.png"));
+    background-image: image(url("$HOME/.config/wlogout/icons/power.png"));
 }
 #shutdown:focus {
-    background-image: image(url("/home/vivek/.config/wlogout/icons/power-hover.png"));
+    background-image: image(url("$HOME/.config/wlogout/icons/power-hover.png"));
 }
 
 #reboot {
-    background-image: image(url("/home/vivek/.config/wlogout/icons/restart.png"));
+    background-image: image(url("$HOME/.config/wlogout/icons/restart.png"));
 }
 #reboot:focus {
-    background-image: image(url("/home/vivek/.config/wlogout/icons/restart-hover.png"));
+    background-image: image(url("$HOME/.config/wlogout/icons/restart-hover.png"));
 }
