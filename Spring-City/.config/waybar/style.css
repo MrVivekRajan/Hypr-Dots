@@ -1,0 +1,146 @@
+* {
+    border: none;
+    border-radius: 0px;
+    font-family: "JetBrainsMono Nerd Font";
+    font-weight: bold;
+    font-size: 13px;
+    min-height: 10px;
+}
+
+window#waybar {
+  background: rgba(21, 18, 27, 0);
+}
+
+#cpu,
+#memory,
+#temperature,
+#tray,
+#battery,
+#network,
+#window,
+#workspaces,
+#pulseaudio,
+#backlight,
+#disk,
+#custom-control-center,
+#network {
+   margin: 4px 0px;
+   padding: 4px 4px;
+   opacity: 1;
+}
+
+tooltip {
+    background: @tool-bg;
+    color: @tool-color;
+    border-radius: 22px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #11111b;
+}
+
+#workspaces button {
+    box-shadow: none;
+    text-shadow: none;
+    padding: 0px;
+    border-radius: 9px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    color: #d5c4a1;
+    animation: gradient_f 20s ease-in infinite;
+    transition: all 0.5s cubic-bezier(.55,-0.68,.48,1.682);
+}
+
+#workspaces button.active {
+    background: #4774bf;
+    color: #FDE6D5;
+    margin-left: 3px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-right: 3px;
+    animation: gradient_f 20s ease-in infinite;
+    transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
+}
+
+#workspaces button:hover {
+    background: #b16286;
+    border: none;
+}
+
+#workspaces {
+    background-color: #082C6C;
+    padding: 0px;
+    border-radius: 0px 6px 20px 0px;
+}
+
+#window {
+    background-color: #082C6C;
+    border-radius: 20px 0px 0px 6px;
+    color: #38ef7d; 
+}
+
+#tray {
+   background-color: #405253;
+   border-radius: 20px 0px 0px 6px;
+   color: #ebdbb2; 
+}
+
+#pulseaudio {
+    background-color: #405253;
+    border-radius: 0px 6px 20px 0px;
+    color: #ebdbb2;
+}
+
+#cpu {
+   background-color: #286076;
+   color: #ebdbb2;
+   border-radius: 20px 0px 0px 6px; 
+}
+
+#memory {
+   background-color: #286076;
+   color: #ebdbb2;
+   border-radius: 0px 0px 0px 0px;
+}
+
+#temperature { 
+   background-color: #286076;
+   color: #ebdbb2;
+   border-radius: 0px 6px 20px 0px;
+}
+
+#temperature.critical {
+    color: #ff0000;
+}
+
+#backlight {
+    background-color: #052E44;
+    border-radius: 20px 0px 0px 6px;
+    color: #D6CC99;
+}
+
+#disk {
+    background-color: #052E44;
+    border-radius: 0px 6px 20px 0px;
+    color: #ebdbb2;
+}
+
+#battery {
+   background-color: #5E2A7C;
+   border-radius: 20px 0px 0px 6px;
+   color: #FDE6D5;
+}
+
+#network {
+  border-radius: 0px 6px 20px 0px;
+  background-color: #5E2A7C;
+  color: #FDE6D5;
+}
+
+
+#custom-control-center {
+  background-color: #C53C2C;
+  border-radius: 20px 6px 20px 6px; 
+  color: #FDE5D4;
+}

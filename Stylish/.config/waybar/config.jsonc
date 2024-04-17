@@ -37,17 +37,6 @@
         "tooltip-format": " {used:0.1f}GB/{total:0.1f}GB"
     },
 
-    "user": {
-        "open-on-click": true,
-        "open-path": "~/.config/eww/scripts/toggle_control_center.sh",
-        "format": "{user}",
-        "interval": 60,
-        "height": 30,
-        "width": 30,
-        "icon": true,
-        "avatar": "/home/vivek/.config/eww/vivek.jpg"
-    },
-
     "temperature": {
     // "thermal-zone": 2,
     // "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
@@ -134,8 +123,6 @@
    "custom/power": {
         "format": "(◕‿◕)",
         "on-click": "~/.config/eww/scripts/toggle_control_center.sh",
-        "icon": true,
-        "avatar": "/home/vivek/.config/eww/vivek.jpg",
         "interval" : 86400, // once every day
         "tooltip": true
     },
