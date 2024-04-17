@@ -36,7 +36,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 <br><div align="center"><table><tr><td><img width="60" src="https://www.shareicon.net/data/2016/02/07/281237_theme_512x512.png"></td><td>
 
-<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Spring-City"><img src="https://img.shields.io/badge/Spring-City-blue.svg?style=for-the-badge&labelColor=31313a&color=5677fc"></a>
+<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Spring-City"><img src="https://img.shields.io/badge/Spring-City-blue.svg?style=for-the-badge&labelColor=5677fc&color=b95cb9"></a>
  
 <a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Stylish"><img src="https://img.shields.io/badge/Stylish-Theme-purple.svg?style=for-the-badge&labelColor=da025d&color=8651bb"></a>
 
