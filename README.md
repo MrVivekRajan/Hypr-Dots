@@ -77,7 +77,7 @@ https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/2ce79aa9-1cd7-47de-9a5
 https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/28cbb965-87d5-435e-93b8-00207cff8f54
 
 # WorkFlow-Gruvminimal
-https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/368128dc-ca9a-4af4-8291-5c23ac23eb6f
+https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/7648d750-a375-4def-8eee-bb6406804087
 
 
 # Thanks for Visiting !! ❤️❤️
