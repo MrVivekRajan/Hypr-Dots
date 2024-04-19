@@ -74,7 +74,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/c0516c5f-2f91-419e-8d77-f303d5086b1f
 
 # WorkFlow-Stylish
-https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/9fd9564b-0aa5-4e26-b74a-584c8ba9390b
+https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/28cbb965-87d5-435e-93b8-00207cff8f54
 
 # WorkFlow-Gruvminimal
 https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/368128dc-ca9a-4af4-8291-5c23ac23eb6f
