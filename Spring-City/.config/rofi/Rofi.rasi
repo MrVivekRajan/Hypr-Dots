@@ -24,14 +24,14 @@ icon-theme: "Gruvminimal";
 window {
     location:       center;
     width:          1000;
-    height:         600;
+    height:         515;
     border-radius:  24px;
 
     border-color:    #b95cb9;
     border:             3px;
     background-color:   rgba(30, 30, 62, 60%);
     x-offset: 8px;
-    y-offset: -70px;
+    y-offset: -40px;
 }
 
 mainbox {
@@ -43,7 +43,7 @@ mainbox {
 imagebox {
     padding:                     2px;
     background-color:            transparent;
-    background-image:            url("~/.config/rofi/pokemon.png", height);
+    background-image:            url("~/.config/rofi/Rofi.png", width);
     orientation:                 horizontal;
 }
 
