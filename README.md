@@ -71,7 +71,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 2. If you want to download individual or your desired theme then download it from [Release-Section](https://github.com/MrVivekRajan/Hypr-Dots/releases) 
 
 # WorkFlow-Spring-City
-https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/bdec22a7-f036-486c-87db-374f917a7b60
+https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8f2c5a0f-59b4-47de-a63f-00cfb75db057
 
 # WorkFlow-Stylish
 https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/41292727-750d-4d24-b1fe-d2627027f158
