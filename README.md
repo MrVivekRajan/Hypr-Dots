@@ -52,11 +52,11 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/39909301-7932-4f37-b03a-8441d5be6087" align="center" width="750"> </p>
 
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/4f1bed38-a709-477b-a094-882ac2452d5f" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/97e9bf53-186b-4a8d-b4eb-139ad93c61bf" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/670f8381-0765-4d28-925c-a13a729dfdd0" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f12bff1c-c21e-4b2e-9997-733373fd0ac8" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b232e3f5-10a2-4fcf-8602-9dd7bd197372" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/78de3314-621a-4549-9151-551a2858e11f" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/35d2b845-0b71-43c8-83f2-2c4da6360987" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b7a5869a-5aad-445f-92fc-dd49af55ae3b" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f6a5e1ae-f61e-4366-86a4-2313a2ab3956" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/567a442e-a628-4897-9523-63795b423e70" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/592f7358-624a-4063-94a2-8df618f0348c" align="center" width="750"> </p>
 
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/5c7144b1-ed2f-4dd0-aba2-cc42b1b92d55" align="center" width="750"> </p>
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/3d6a83b8-85ae-4d06-afdb-1d747e92af61" width="750"> </p>
