@@ -20,18 +20,6 @@
   <defs
      id="defs2">
     <linearGradient
-       id="linearGradient1"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#da025d;stop-opacity:1;"
-         offset="0"
-         id="stop1" />
-      <stop
-         style="stop-color:#8651bb;stop-opacity:1;"
-         offset="1"
-         id="stop2" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        id="linearGradient835">
       <stop
@@ -65,24 +53,6 @@
        x2="-196.91447"
        y2="219.36513"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1"
-       id="linearGradient2"
-       x1="0.52916664"
-       y1="290.1208"
-       x2="16.404167"
-       y2="290.1208"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1"
-       id="linearGradient4"
-       x1="1.5875"
-       y1="285.88748"
-       x2="15.345833"
-       y2="285.88748"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -92,13 +62,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.8951138"
-     inkscape:cx="36.112529"
+     inkscape:cx="35.749954"
      inkscape:cy="31.689107"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1260"
+     inkscape:window-width="893"
      inkscape:window-height="664"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -137,7 +107,7 @@
        inkscape:connector-curvature="0"
        id="rect4538"
        d="m 3.4395833,282.44788 c -0.2931528,0 -0.3943929,0.26884 -0.5291667,0.52917 h -0.79375 c -0.2931605,0 -0.5291666,0.236 -0.5291666,0.52916 v 5.29167 c 0,0.29316 0.2360061,0.52917 0.5291666,0.52917 H 14.816666 c 0.293161,0 0.529167,-0.23601 0.529167,-0.52917 v -5.29167 c 0,-0.29316 -0.236006,-0.52916 -0.529167,-0.52916 H 7.6729166 c -0.1553681,-0.24859 -0.2360139,-0.52917 -0.5291667,-0.52917 z"
-       style="opacity:1;fill:url(#linearGradient4);fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19607843;paint-order:markers stroke fill" />
+       style="opacity:1;fill:#7006ae;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19607843;paint-order:markers stroke fill" />
     <path
        style="opacity:0.18;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19607843;paint-order:markers stroke fill"
        d="m 3.4395833,282.44788 c -0.2931528,0 -0.3943929,0.26884 -0.5291667,0.52917 h -0.79375 c -0.2931605,0 -0.5291666,0.236 -0.5291666,0.52916 v 5.29167 c 0,0.29316 0.2360061,0.52917 0.5291666,0.52917 H 14.816666 c 0.293161,0 0.529167,-0.23601 0.529167,-0.52917 v -5.29167 c 0,-0.29316 -0.236006,-0.52916 -0.529167,-0.52916 H 7.6729166 c -0.1553681,-0.24859 -0.2360139,-0.52917 -0.5291667,-0.52917 z"
@@ -152,7 +122,7 @@
        y="283.77078"
        ry="0.26459754" />
     <rect
-       style="opacity:1;fill:url(#linearGradient2);fill-opacity:1;stroke:none;stroke-width:0.25100571;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19607843;paint-order:markers stroke fill"
+       style="opacity:1;fill:#7006ae;fill-opacity:1;stroke:none;stroke-width:0.25100571;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19607843;paint-order:markers stroke fill"
        id="rect822"
        width="15.875"
        height="9.5249939"
@@ -160,7 +130,7 @@
        y="285.35831"
        ry="0.52915645" />
     <rect
-       style="opacity:0.25;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.71899027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.71899027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
        id="rect817"
        width="3.1749997"
        height="0.52915847"

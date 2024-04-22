@@ -9,9 +9,8 @@
 (include "yuck/music.yuck")
 (include "yuck/recorder_menu.yuck")
 
-(include "yuck/day.yuck")
+(include "yuck/day-month-date.yuck")
 (include "yuck/clock.yuck")
-(include "yuck/line.yuck")
 (include "yuck/weather.yuck")
 (include "yuck/apps.yuck")
 (include "yuck/bg_widgets.yuck")

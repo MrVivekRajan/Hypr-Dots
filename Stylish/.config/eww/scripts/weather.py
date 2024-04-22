@@ -5,7 +5,7 @@ import requests, json, sys, time
 API_TOKEN = "69c655f5c49d7a1612da1c5a0617d786"
 UNITS = 'metric'
 LANG = 'en'
-CITY = "Delhi"
+CITY = "Karnataka"
 
 def get_icon(code):
     icons = {

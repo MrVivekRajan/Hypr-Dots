@@ -1,66 +1,63 @@
+.musicbox {
+ background-color: rgba(30, 30, 45, .60); 
+  box-shadow: 0 0 4px 2px #000000;
+  margin-top: 8px;
+  margin-left: 12px;
+  margin-right: 12px;
+  border-radius: 10px;
+}
+
 .music {
-    background-color: #ffffff;
-    border-radius: 1rem;
-    padding: 1rem;
-    color: #ffffff;
-    box-shadow: 0 0 4px 2px #000000;
-    margin: 1rem;
-    background-color: rgba(34, 34, 34, .50);
+  border-radius: 50px;
+  padding: 0px 11px;
+  margin: 5px 0px;
+  min-height: 30px;
+  font-weight: 500;
 }
 
-.music-image {
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    min-height: 6rem;
-    min-width: 6rem;
-    border-radius: 1rem;
+.musicart {
+  min-width: 80px;
+  min-height: 80px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 3px;
+  margin-right: 3px;
+  border-radius: 10px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: unset;
 }
 
-.music-text {
-    margin-left: 1rem;
+.musiccontrols{
+  min-width: 170px;
+  padding: 5px 20px;
+  border-radius: 20px;
 }
-
-.music-title {
-    color: #FFFFFF;
-    font-size: 1.2rem;
+.musicbutton{
+  margin-top: 0px;
+  font-size: 20px;
 }
-
-.music-artist {
-    color: #8651BB;
+.musictitle{
+  margin-top: 5px;
+  font-size:15px;
+  font-weight: 600;
 }
-
-.music-name {
-    background-color: #DA025D;
-    color: #f6c177;
-    padding: 0.25rem 0.5rem;
-    border-radius: 1rem;
-    font-size: 1rem;
+.musicscale scale trough highlight {
+  all: unset;
+  background-color: #d6d6d6;
+  color: white;
+  border-radius: 10px;
+  min-width: 10px;
 }
-
-.music-action {
-    font-size: 2rem;
-    min-width: 3rem;
+.musicscale scale trough {
+  all: unset;
+  background-color: rgba(30, 30, 45, .45); 
+  border-radius: 50px;
+  min-height: 10px;
+  min-width: 140px;
+  margin: 0px 10px;
 }
-
-.music-scale {
-    margin-top: 1rem;
-}
-
-.music-scale trough {
-    background-color: #da025d;
-    border-radius: 1rem;
-    min-height: 0.5rem;
-}
-
-
-.music-scale highlight {
-    background-color: #8651bb;
-    border-radius: 1rem;
-    min-height: 0.5rem;
-}
-
-.music-strtime {
-    color: #ffffff;
-    margin-top: 0.25rem;
+.musicscale label{
+  font-size: 13px;
 }

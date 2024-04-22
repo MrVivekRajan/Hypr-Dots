@@ -25,7 +25,7 @@ window#waybar {
 #custom-power,
 #workspaces  {
    color: @main-color;
-   background-image: linear-gradient(45deg, #DA025D 50%, #A12C92 45%, #8651BB 60%);
+   background-image: linear-gradient(45deg, #1E024D 50%, #3A07A0 50%);
    border-radius: 4px;
    margin: 4px 2px;
    padding: 4px 4px;
@@ -55,7 +55,7 @@ tooltip {
 }
 
 #workspaces button.active {
-    background: #281e5d;
+    background: #7006AE;
     color: #ffffff;
     margin-left: 3px;
     padding-left: 12px;
@@ -75,23 +75,23 @@ tooltip {
 }
 
 #window {
-    color: #38ef7d; 
+    color: #D6CC99; 
 }
 
 #cpu {
-    color: #ffbf00;
+    color: #ebdbb2;
 }
 
 #temperature {
-    color: #ffffff;
+    color: #ebdbb2;
 }
 
 #memory {
-    color: #97f993;
+    color: #ebdbb2;
 }
 
 #disk {
-    color: #fff001;
+    color: #ebdbb2;
 }
 
 #temperature.critical {
@@ -99,18 +99,18 @@ tooltip {
 }
 
 #pulseaudio {
-    color: #fff001;
+    color: #ebdbb2;
 }
 
 #backlight {
-    color: #b3d648;
+    color: #D6CC99;
 }
 
 #battery {
-    color: #73c2fb;
+    color: #ebdbb2;
 }
 
 #custom-power {
    font-size: 14px;
-   color: #000045;
+   color: #D6CC99;
 }

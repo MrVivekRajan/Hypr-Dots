@@ -1,5 +1,5 @@
 .recorder_menu_box {
-    background-color: rgba(34, 34, 34, .80);
+    background-color: rgba(30, 30, 46, .60);
     border-radius: 1rem;
     padding: 1rem;
     color: #ffffff;
@@ -8,7 +8,7 @@
 }
 
 .recorder_menu_icon {
-    color: #DA025D;
+    color: #7006AE;
     font-size: 3rem;
 }
 
@@ -31,7 +31,7 @@
 
 .recorder_menu_checkbox check:checked {
     background-color: #ffffff;
-    color: #da025d;
+    color: #3A07A0;
 }
 
 .record_menu_buttons {
@@ -40,13 +40,13 @@
 }
 
 .record_menu_button_cancel {
-    border: 1px solid #da025d;
+    border: 1px solid #3A07A0;
     border-radius: 1rem;
     min-width: 6rem;
 }
 
 .record_menu_button_start {
-    border: 1px solid #da025d;
+    border: 1px solid #3A07A0;
     border-radius: 1rem;
     min-width: 6rem;
 }

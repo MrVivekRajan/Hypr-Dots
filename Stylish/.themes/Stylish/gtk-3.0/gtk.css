@@ -201,7 +201,7 @@ treeview.view:selected:not(.progressbar):not(.trough),
 modelbutton.flat:selected,
 .menuitem.button.flat:selected {
   color: #f5e0dc;
-  background-color: #8651bb;
+  background-color: #3a07a0;
 }
 
 .nemo-window .view selection,
@@ -3549,7 +3549,7 @@ menu menuitem:hover,
 .menu menuitem:hover,
 .context-menu menuitem:hover {
   transition: none;
-  background-color: #8651bb;
+  background-color: #3a07a0;
   color: #cba6f7;
   font-weight: 500;
 }
@@ -3682,7 +3682,7 @@ popover.background {
 
 popover.background,
 .csd popover.background {
-  border: 2px solid #da025d;
+  border: 2px solid #7006ae;
   box-shadow: none;
 }
 
@@ -6012,7 +6012,7 @@ decoration:backdrop {
 
 .csd.popup decoration {
   border-radius: 12px;
-  border: 2px solid #da025d;
+  border: 2px solid #7006ae;
   background-clip: border-box;
 }
 
@@ -9495,7 +9495,7 @@ window.background.chromium decoration {
 
 window.background.chromium entry,
 window.background.chromium > button {
-  border: 1px solid #8651bb;
+  border: 1px solid #3a07a0;
 }
 
 window.background.chromium > button {
@@ -9529,7 +9529,7 @@ window.background.chromium treeview.view.cell:selected:focus {
 }
 
 window.background.chromium treeview.view button {
-  border: 1px solid #8651bb;
+  border: 1px solid #3a07a0;
   background-color: #1e1e2e;
 }
 
@@ -9672,11 +9672,11 @@ tooltip.background.chromium {
 }
 
 #MozillaGtkWidget > widget > frame {
-  color: #8651bb;
+  color: #3a07a0;
 }
 
 #MozillaGtkWidget menu > separator {
-  color: #8651bb;
+  color: #3a07a0;
 }
 
 window.background:not(.csd) > window > menu menuitem {

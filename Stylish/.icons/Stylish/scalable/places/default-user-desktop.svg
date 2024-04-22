@@ -23,18 +23,6 @@
      id="defs4566">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient2">
-      <stop
-         style="stop-color:#da025d;stop-opacity:1;"
-         offset="0"
-         id="stop1" />
-      <stop
-         style="stop-color:#8651bb;stop-opacity:1;"
-         offset="1"
-         id="stop2" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient827">
       <stop
          style="stop-color:#66bcff;stop-opacity:1"
@@ -45,16 +33,6 @@
          offset="1"
          id="stop825" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2"
-       id="linearGradient829"
-       x1="13.229166"
-       y1="297"
-       x2="2.1166666"
-       y2="280.06668"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0714286,0,0,1,-0.60476187,0)" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath862">
@@ -86,7 +64,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.433039"
-     inkscape:cx="21.296311"
+     inkscape:cx="21.218587"
      inkscape:cy="45.157506"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -189,7 +167,7 @@
      id="layer1"
      transform="translate(0,-280.06667)">
     <rect
-       style="opacity:1;fill:url(#linearGradient829);fill-opacity:1;stroke:none;stroke-width:0.55379206;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
+       style="opacity:1;fill:#7006ae;fill-opacity:1;stroke:none;stroke-width:0.55379206;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
        id="rect821"
        width="15.875"
        height="12.170833"

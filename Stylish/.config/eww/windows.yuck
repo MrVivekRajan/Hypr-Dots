@@ -43,3 +43,15 @@
     :namespace "eww"
     (bg_widgets)
 )
+
+
+(defwindow apps
+    :monitor 0
+    :stacking "bg"
+    :geometry (geometry 
+                    :anchor "center"
+                    :width "50%"
+                    :height "50%")
+    :namespace "eww"
+    (apps)
+)

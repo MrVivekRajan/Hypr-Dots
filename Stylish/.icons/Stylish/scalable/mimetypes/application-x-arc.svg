@@ -9,7 +9,6 @@
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -40,7 +39,7 @@
      id="namedview39"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24"
+     inkscape:cx="23.898305"
      inkscape:cy="24.101695"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -56,7 +55,7 @@
      id="desc4">Created with Sketch.</desc>
   <g
      id="g829"
-     style="fill:url(#linearGradient2);fill-opacity:1">
+     style="fill:#7006ae;fill-opacity:1">
     <rect
        rx="2"
        ry="1.9047618"
@@ -65,27 +64,15 @@
        height="40"
        width="36"
        id="rect834"
-       style="opacity:1;fill:url(#linearGradient2);fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
+       style="opacity:1;fill:#7006ae;fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
     <path
        inkscape:connector-curvature="0"
        id="rect866"
        d="M 42,17.242188 A 40,40 0 0 1 23.494141,44 H 40 c 1.108,0 2,-0.849059 2,-1.904297 z"
-       style="opacity:0.15;fill:url(#linearGradient2);fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
+       style="opacity:0.15;fill:#7006ae;fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
   </g>
   <defs
      id="defs11">
-    <linearGradient
-       id="linearGradient1"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#da025d;stop-opacity:1;"
-         offset="0"
-         id="stop1" />
-      <stop
-         style="stop-color:#8651bb;stop-opacity:1;"
-         offset="1"
-         id="stop2" />
-    </linearGradient>
     <linearGradient
        x1="90.7002767%"
        y1="6.56534831%"
@@ -101,15 +88,6 @@
          offset="100%"
          id="stop8" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1"
-       id="linearGradient2"
-       x1="6"
-       y1="24"
-       x2="42"
-       y2="24"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="Page-1"

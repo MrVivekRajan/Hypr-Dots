@@ -54,7 +54,7 @@ prompt {
 
 entry {
     placeholder:        "Search";
-    placeholder-color:  #3D3D3D;
+    placeholder-color:  #FFFFFF66;
 }
 
 message {
@@ -89,7 +89,7 @@ element normal active {
 }
 
 element selected normal, element selected active {
-    background-image:    linear-gradient(45, #DA025D, #AF1E7B, #A12C92, #8651BB);
+    background-color:    #7006ae;
 }
 
 element-icon {

@@ -1,0 +1,10 @@
+(defwidget day-month-date []
+  (box
+    :class "day-month-date"
+    :orientation "horizontal"
+    :space-evenly "false"
+    (label :class "date-month-date-logo" :text " │")
+    (label :class "day-month-date-label" :text {formattime(EWW_TIME, "%A, %B %d")})
+  )
+) 
+

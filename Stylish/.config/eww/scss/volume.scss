@@ -20,7 +20,7 @@
 
 
 .volume-scale trough highlight {
-    background-image: linear-gradient(#8651BB, #DA025D);
+    background-color: #7006AE;
     border-radius: 1rem;
     min-height: 2.25rem;
 }
@@ -48,15 +48,15 @@
     transition: 0.3s;
 
     &.active {
-        background-image: linear-gradient(#8651BB, #DA025D);
+        background-color: #7006AE;
         color: #ffffff;
     }
 
     &.active:hover {
-        background-color: mix(#DA025D, #8651BB, 50%);
+        background-color: #3A07A0;
     }
 }
 
 .volume-mute:hover {
-    background-color: mix(#DA025D, #8651BB, 50%);
+    background-color: #3A07A0;
 }

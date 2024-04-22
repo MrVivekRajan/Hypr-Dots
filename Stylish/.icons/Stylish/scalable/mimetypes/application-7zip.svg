@@ -40,7 +40,7 @@
      id="namedview41"
      showgrid="false"
      inkscape:zoom="3.4766083"
-     inkscape:cx="39.981496"
+     inkscape:cx="39.837677"
      inkscape:cy="30.920941"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -55,7 +55,7 @@
   <desc
      id="desc4">Created with Sketch.</desc>
   <rect
-     style="opacity:1;fill:url(#linearGradient2);fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill"
+     style="opacity:1;fill:#7006ae;fill-opacity:1;stroke:none;stroke-width:0.92582005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill"
      id="rect834"
      width="36"
      height="40"
@@ -65,18 +65,6 @@
      rx="2" />
   <defs
      id="defs11">
-    <linearGradient
-       id="linearGradient1"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#da025d;stop-opacity:1;"
-         offset="0"
-         id="stop1" />
-      <stop
-         style="stop-color:#8651bb;stop-opacity:1;"
-         offset="1"
-         id="stop2" />
-    </linearGradient>
     <linearGradient
        x1="41.842774"
        y1="5.8005371"
@@ -115,15 +103,6 @@
          offset="1"
          id="stop873" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1"
-       id="linearGradient2"
-       x1="6"
-       y1="24"
-       x2="42"
-       y2="24"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
