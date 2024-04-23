@@ -51,7 +51,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/eebb9b4e-5dba-46e8-85dc-40ed3cdfa32f" align="center" width="750"> </p>
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/39909301-7932-4f37-b03a-8441d5be6087" align="center" width="750"> </p>
 
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/4f1bed38-a709-477b-a094-882ac2452d5f" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/456dfbaf-8b76-434d-9923-7a2461c35539" align="center" width="750"> </p>
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/35d2b845-0b71-43c8-83f2-2c4da6360987" width="750"> </p>
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b7a5869a-5aad-445f-92fc-dd49af55ae3b" width="750"> </p>
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f6a5e1ae-f61e-4366-86a4-2313a2ab3956" align="center" width="750"> </p>
