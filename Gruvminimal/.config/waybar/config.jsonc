@@ -4,21 +4,21 @@
     "layer": "bottom",
     "position": "bottom",
     "mod": "dock",
-    "height": 35,
+    "height": 40,
     "exclusive": true,
     "passthrough": false,
     "gtk-layer-shell": true,
 
 
-	"modules-left": ["custom/left","hyprland/window","custom/right","custom/left","custom/weather","custom/right","custom/left","temperature","custom/right","custom/left","tray","custom/right",],
+	"modules-left": ["custom/left","custom/rofi","temperature","backlight","pulseaudio","battery","custom/right"],
 	"modules-center": ["custom/left","hyprland/workspaces","custom/right"],
-	"modules-right": ["custom/left","battery","custom/right","custom/left","network","custom/right","custom/left","backlight","pulseaudio","clock","custom/right"],
+	"modules-right": ["custom/left","tray","network","clock","custom/right"],
 
  
    "network": {
         "tooltip": true,
-        "format-wifi": "<span foreground='#689d6a'> {bandwidthDownBytes}</span> <span foreground='#fabd2f'> {bandwidthUpBytes}</span>",
-        "format-ethernet": "<span foreground='#99ffdd'> {bandwidthDownBytes}</span> <span foreground='#ffcc66'> {bandwidthUpBytes}</span>",
+        "format-wifi": "<span foreground='#FF8B49'> {bandwidthDownBytes}</span> <span foreground='#FF6962'> {bandwidthUpBytes}</span>",
+        "format-ethernet": "<span foreground='#FF8B49'> {bandwidthDownBytes}</span> <span foreground='#FF6962'> {bandwidthUpBytes}</span>",
         "tooltip-format": "Network: <big><b>{essid}</b></big>\nSignal strength: <b>{signaldBm}dBm ({signalStrength}%)</b>\nFrequency: <b>{frequency}MHz</b>\nInterface: <b>{ifname}</b>\nIP: <b>{ipaddr}/{cidr}</b>\nGateway: <b>{gwaddr}</b>\nNetmask: <b>{netmask}</b>",
         "format-linked": "󰈀 {ifname} (No IP)",
         "format-disconnected": " 󰖪 ",
@@ -36,20 +36,9 @@
     "format": "{temperatureC}°C "
     },
 
-     "hyprland/window": {
+     "custom/rofi": {
         "format": "  {}",
-        "separate-outputs": true,
-        "rewrite": {
-            "vivek@ArchVivek:(.*)": "$1 ",
-            "(.*) — Mozilla Firefox": "$1 󰈹",
-            "(.*)Mozilla Firefox": "Firefox 󰈹",
-            "(.*) - Visual Studio Code": "$1 󰨞",
-            "(.*)Visual Studio Code": "Code 󰨞",
-            "(.*) Dolphin": "$1 󰉋",
-            "(.*)Spotify": "Spotify 󰓇",
-            "(.*)Steam": "Steam 󰓓",
-            "on-click": "~/.config/hypr/scripts/Rofi-launcher.sh"
-        }
+        "on-click": "~/.config/hypr/scripts/Rofi-launcher.sh"
 	},
 
     "hyprland/workspaces": {
@@ -65,14 +54,6 @@
         }
     },
 
-    "custom/weather": {
-    "exec": "python ~/.config/waybar/weather.py",
-    "restart-interval": 100,
-    "return-type": "json",
-    "on-click": "xdg-open https://weather.com/en-IN/weather/today/l/c3e96d6cc4965fc54f88296b54449571c4107c73b9638c16aafc83575b4ddf2e"
-    // "format-alt": "{alt}",
-    },   
-
     "battery": {
         "states": {
             "good": 95,
@@ -87,13 +68,13 @@
     },
  
     "pulseaudio": {
-        "format": "{icon}",
+        "format": "{icon} {volume}",
         "format-muted": "婢",
         "on-click": "pavucontrol -t 3",
         "on-click-middle": "~/.config/hypr/scripts/volumecontrol.sh -o m",
         "on-scroll-up": "~/.config/hypr/scripts/volumecontrol.sh -o i",
         "on-scroll-down": "~/.config/hypr/scripts/volumecontrol.sh -o d",
-        "tooltip-format": "{icon}",
+        "tooltip-format": "{icon} {desc} // {volume}%",
         "scroll-step": 5,
         "format-icons": {
             "headphone": "",
@@ -106,6 +87,7 @@
    }
     },
 
+
     "tray": {
       "icon-size": 20,
         "spacing": 9
@@ -113,18 +95,16 @@
 
 
   "clock": {
-    "interval": 60,
-    "format": "{:%H:%M}",
-    "max-length": 25,
-    "on-click": "~/.config/eww/scripts/toggle_control_center.sh"
- },
+        "format": " {:%H:%M}",
+        "on-click": "~/.config/eww/scripts/toggle_control_center.sh"
+      },
 
 
    "backlight": {
     "device": "intel_backlight",
     "on-scroll-up": "light -A 7",
     "on-scroll-down": "light -U 7",
-    "format": "{icon}",
+    "format": "{icon} {percent}%",
     "format-icons": [
       "",
       "",
@@ -132,6 +112,7 @@
       ""
     ]
     },
+
 
 // modules for padding //
 
