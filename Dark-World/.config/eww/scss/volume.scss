@@ -1,0 +1,42 @@
+.volume-osd {
+   background-color: #ffffff;
+   border-radius: 1rem;
+   padding: 1rem;
+   color: #ffffff;
+   box-shadow: 0 0 4px 2px #000000;
+   margin: 1rem;
+   min-width: 25rem;
+}
+
+.volume-control-center {
+    margin-top: -60px;
+    margin-right: 20px;
+    margin-left:   20px;
+    margin-bottom: 0px;
+}
+
+.volume-scale trough {
+    background-color: rgba(255, 255, 255, .6);
+    border-radius: 1rem;
+    min-height: 2.25rem;
+}
+
+
+.volume-scale trough highlight {
+    background-color: rgba(110, 114, 125, 1);
+    border-radius: 1rem;
+    min-height: 2.25rem;
+}
+
+.volume-icon {
+    margin-left: 0.75rem;
+    font-size: 1.5rem;
+
+    &.less {
+        color: #ffffff;
+    };
+
+    &.more {
+        color: #ffffff;
+    };
+}

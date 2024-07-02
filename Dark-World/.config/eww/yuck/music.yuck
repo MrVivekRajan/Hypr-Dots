@@ -1,0 +1,35 @@
+(defpoll musicartlink :interval "1s"
+  `playerctl metadata --format "{{ mpris:artUrl }}" | sed 's/b273/1e02/'`)
+(defpoll musiclength :interval "10s"
+  `playerctl metadata --format "{{ duration(mpris:length)}}"`)
+(defpoll musicpositionpercentage :interval "1s"
+  `playerctl metadata --format "{{ position / (mpris:length / 100)  }}"`)
+(defpoll playingorpaused :interval "0" 
+  `playerctl status`)
+(defpoll music :interval "1s"
+  "playerctl metadata --format '{{ title }} - {{ artist }}' || true")
+(defpoll musicshort :interval "1s"
+  `playerctl metadata --format '{{ title }}' | cut -c1-30`)
+
+
+(defwidget music []
+  (box :class "musicbox" :orientation "h" :space-evenly "false" :style "background-image: url('control_center_icons/music.png');"
+    (box :class "musicart" :style {musicartlink != "" ? `background-image: url("${musicartlink}"); min-height:90px; min-width: 90px; margin-right: 0px;` :  `min-height:0px; min-width: 0px; border:unset;`})
+    (box :class "musiccontrols" :orientation "v" :space-evenly "false" :spacing 2
+      (label :class "musictitle" :text {musicshort} :valign "start" :halign "start")
+      (box :orientation "h"
+          :class "musicscale"
+          :space-evenly false
+          :halign "center"
+        (scale :min 0
+              :max 101
+              :value musicpositionpercentage)
+        )
+      (box :class "musicbuttons" :orientation "h" :halign "center" :spacing 30
+        (button :class "musicbutton" :onclick "playerctl previous &" "󰒮")
+        (button :class "musicbutton" :onclick "playerctl play-pause &" {playingorpaused != "Paused" ? "󰏤" : "󰐊" })
+        (button :class "musicbutton" :onclick "playerctl next &" "󰒭")
+      )
+    )
+  )
+)

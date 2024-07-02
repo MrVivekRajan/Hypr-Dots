@@ -1,0 +1,23 @@
+(include "variables.yuck")
+(include "windows.yuck")
+
+(include "yuck/apps.yuck")
+(include "yuck/bg_widgets.yuck")
+(include "yuck/clock.yuck")
+(include "yuck/control_center.yuck")
+(include "yuck/day.yuck")
+
+(include "yuck/month-date.yuck")
+(include "yuck/music.yuck")
+(include "yuck/quick_settings.yuck")
+(include "yuck/volume.yuck")
+(include "yuck/weather.yuck")
+
+
+
+
+
+
+
+
+
