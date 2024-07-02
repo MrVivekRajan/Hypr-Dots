@@ -38,7 +38,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 <a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/Gruv-Minimal-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"></a>
 
-<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Dark-World"><img src="https://img.shields.io/badge/Dark-World-black.svg?style=for-the-badge&labelColor=FFB900&color=FFFFFF"></a>
+<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Dark-World"><img src="https://img.shields.io/badge/Dark-World-black.svg?style=for-the-badge&labelColor=FFB900&color=b6b6b8"></a>
 
 <a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Spring-City"><img src="https://img.shields.io/badge/Spring-City-blue.svg?style=for-the-badge&labelColor=5677fc&color=b95cb9"></a>
  
