@@ -36,14 +36,21 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 <br><div align="center"><table><tr><td><img width="60" src="https://www.shareicon.net/data/2016/02/07/281237_theme_512x512.png"></td><td>
 
+<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/Gruv-Minimal-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"></a>
+
 <a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Spring-City"><img src="https://img.shields.io/badge/Spring-City-blue.svg?style=for-the-badge&labelColor=5677fc&color=b95cb9"></a>
  
 <a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Stylish"><img src="https://img.shields.io/badge/Stylish-Theme-purple.svg?style=for-the-badge&labelColor=da025d&color=8651bb"></a>
-
-<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/Gruv-Minimal-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"></a>
 </td></tr></table></div><br><table><td><br>
 
 # Preview
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f50ea261-99aa-46d1-8d0f-cbd42b6ae544" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8da22897-df06-4b2f-8c7e-7ecf8d4ae15d" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/775911af-f1c4-463a-b393-0178c6ade53b" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/56c69f95-f10c-4e7d-9b21-610e7eb83512" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b81f5fcf-21b2-40c5-8c8b-bc42adce1774" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/ca8ebf75-c4f1-4d06-bec6-c89c6f7dfd7b" align="center" width="750"> </p>
+
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/c384fe3f-3b08-4dee-866b-67e44917ce49" align="center" width="750"> </p>
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/3a2c8850-7143-4aa7-89fa-20f195d723ab" align="center" width="750"> </p>
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/1fdf4853-7a22-4ebb-a770-4d6f337f07e0" align="center" width="750"> </p>
@@ -57,13 +64,6 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f6a5e1ae-f61e-4366-86a4-2313a2ab3956" align="center" width="750"> </p>
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/567a442e-a628-4897-9523-63795b423e70" align="center" width="750"> </p>
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/592f7358-624a-4063-94a2-8df618f0348c" align="center" width="750"> </p>
-
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f50ea261-99aa-46d1-8d0f-cbd42b6ae544" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8da22897-df06-4b2f-8c7e-7ecf8d4ae15d" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/775911af-f1c4-463a-b393-0178c6ade53b" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/56c69f95-f10c-4e7d-9b21-610e7eb83512" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b81f5fcf-21b2-40c5-8c8b-bc42adce1774" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/ca8ebf75-c4f1-4d06-bec6-c89c6f7dfd7b" align="center" width="750"> </p>
 
 # Download
 1. If you want to download all the themes at once then simply clone/download this [Repository](https://github.com/MrVivekRajan/Hypr-Dots)
