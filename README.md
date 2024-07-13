@@ -47,8 +47,8 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 # Preview
 <div align="center"><table><tr><a href="https://github.com/hyprwm/hyprlock">Hyprlock</a></tr>
-<tr><td><img src="https://raw.githubusercontent.com/FireDrop6000/hyprland-mydots/master/.config/assets/hyprlock-1.png"/></td>
-<td><img src="https://raw.githubusercontent.com/FireDrop6000/hyprland-mydots/master/.config/assets/hyprlock-2.png"/></td></tr>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
 </table></div>
 
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f50ea261-99aa-46d1-8d0f-cbd42b6ae544" align="center" width="750"> </p>
