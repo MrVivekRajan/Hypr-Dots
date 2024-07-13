@@ -119,18 +119,18 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 # STYLISH-THEME
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/456dfbaf-8b76-434d-9923-7a2461c35539"/></td>
-<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/35d2b845-0b71-43c8-83f2-2c4da6360987"/></td></tr>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b7a5869a-5aad-445f-92fc-dd49af55ae3b"/></td>
-<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f6a5e1ae-f61e-4366-86a4-2313a2ab3956"/></td></tr>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/567a442e-a628-4897-9523-63795b423e70"/></td>
-<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/592f7358-624a-4063-94a2-8df618f0348c"/></td></tr>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
 </table></div>
 
 # Download
