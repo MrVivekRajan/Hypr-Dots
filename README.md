@@ -70,18 +70,18 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b81f5fcf-21b2-40c5-8c8b-bc42adce1774"/></td>
-<td><img src=""/></td></tr>
+<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/58f42f10-2621-4ae6-bb6c-c7b33a1b416e"/></td>
+<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8ee63534-28b0-4533-8513-2f2996c5b006"/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/ca8ebf75-c4f1-4d06-bec6-c89c6f7dfd7b"/></td>
-<td><img src=""/></td></tr>
+<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/1ab0d209-833c-4b4d-aab9-78f34aabb2b6"/></td>
+<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/203f9d55-e62e-4328-be23-34a49a0f263b"/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src=""/></td>
-<td><img src=""/></td></tr>
+<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/6f04bdfc-b31c-4dc8-8f10-c14970d360d1"/></td>
+<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b98045ae-9a77-45f6-94ea-325bb8187a7b"/></td></tr>
 </table></div>
 
 <div align="center"><table>
