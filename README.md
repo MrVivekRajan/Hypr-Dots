@@ -70,6 +70,11 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </table></div>
 
 <div align="center"><table>
+<tr><td><img src="https://github.com/user-attachments/assets/303c3086-73bd-4ff0-80a3-a295ca342d99"/></td>
+<td><img src="https://github.com/user-attachments/assets/ecbf549e-3790-449c-ba44-9d4e6a4dd364"/></td></tr>
+</table></div>
+
+<div align="center"><table>
 <tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/58f42f10-2621-4ae6-bb6c-c7b33a1b416e"/></td>
 <td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8ee63534-28b0-4533-8513-2f2996c5b006"/></td></tr>
 </table></div>
