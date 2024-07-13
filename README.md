@@ -101,6 +101,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b98045ae-9a77-45f6-94ea-325bb8187a7b"/></td></tr>
 </table></div>
 
+# SPRING-CITY
 <div align="center"><table>
 <tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/c384fe3f-3b08-4dee-866b-67e44917ce49"/></td>
 <td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/3a2c8850-7143-4aa7-89fa-20f195d723ab"/></td></tr>
@@ -116,6 +117,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/39909301-7932-4f37-b03a-8441d5be6087"/></td></tr>
 </table></div>
 
+# STYLISH-THEME
 <div align="center"><table>
 <tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/456dfbaf-8b76-434d-9923-7a2461c35539"/></td>
 <td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/35d2b845-0b71-43c8-83f2-2c4da6360987"/></td></tr>
