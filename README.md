@@ -46,7 +46,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </td></tr></table></div><br><table><td><br>
 
 # Preview
-<div align="center"><table><tr><a href="https://github.com/hyprwm/hyprlock">Hyprlock</a></tr>
+<div align="center"><table>
 <tr><td><img src="https://github.com/user-attachments/assets/f0cd58f8-6dd6-4fe6-8159-b4a9e5ef3142"/></td>
 <td><img src=""/></td></tr>
 </table></div>
