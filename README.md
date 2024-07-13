@@ -33,17 +33,25 @@
 A warm welcome to all the people reading out this 🤗. Here at this repo you will find some cool, stylish and minimal themes for Hyprland window manager.
 
 ## Currently Supported Themes
+<div align="center"><table>
+<td><img width="60" src="https://www.shareicon.net/data/2016/02/07/281237_theme_512x512.png"/></td>
+</table></div>
 
-<br><div align="center"><table><tr><td><img width="60" src="https://www.shareicon.net/data/2016/02/07/281237_theme_512x512.png"></td><td>
+<div align="center"><table>
+<tr><td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/Gruv-Minimal-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"/></a></td>
+  
+<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Dark-World"><img src="https://img.shields.io/badge/Dark-World-black.svg?style=for-the-badge&labelColor=FFB900&color=ffffff"/></a></td></tr>
+</table></div>
 
-<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/Gruv-Minimal-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"></a>
+<div align="center"><table>
+<tr><td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Spring-City"><img src="https://img.shields.io/badge/Spring-City-blue.svg?style=for-the-badge&labelColor=5677fc&color=b95cb9"/></a></td>
+  
+<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Stylish"><img src="https://img.shields.io/badge/Stylish-Theme-purple.svg?style=for-the-badge&labelColor=da025d&color=8651bb"/></a></td></tr>
+</table></div>
 
-<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Dark-World"><img src="https://img.shields.io/badge/Dark-World-black.svg?style=for-the-badge&labelColor=FFB900&color=ffffff"></a>
-
-<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Spring-City"><img src="https://img.shields.io/badge/Spring-City-blue.svg?style=for-the-badge&labelColor=5677fc&color=b95cb9"></a>
- 
-<a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Stylish"><img src="https://img.shields.io/badge/Stylish-Theme-purple.svg?style=for-the-badge&labelColor=da025d&color=8651bb"></a>
-</td></tr></table></div><br><table><td><br>
+<div align="center"><table>
+<td><a href=""><img src=""/></a></td>
+</table></div>
 
 # Preview
 <div align="center"><table>
