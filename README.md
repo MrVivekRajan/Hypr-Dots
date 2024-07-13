@@ -89,6 +89,31 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <td><img src=""/></td></tr>
 </table></div>
 
+<div align="center"><table>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
+</table></div>
+
+<div align="center"><table>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
+</table></div>
+
+<div align="center"><table>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
+</table></div>
+
+<div align="center"><table>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
+</table></div>
+
+<div align="center"><table>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
+</table></div>
+
 # Download
 1. If you want to download all the themes at once then simply clone/download this [Repository](https://github.com/MrVivekRajan/Hypr-Dots)
 
