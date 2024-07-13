@@ -1,0 +1,9 @@
+(defwidget profile [] 
+	(box :class "profile" :orientation "v" :spacing 15 :space-evenly "false" :vexpand "false" :hexpand "false" :style "background-image: url('icons/user.png');"
+		(box :style "background-image: url('vivek.png');" :class "face" :halign "center")
+		(label :class "greetings" :halign "center" :wrap "true" :limit-width 25 :text "Hi,")
+                (label :class "name" :halign "center" :wrap "true" :limit-width 25 :text "VIVEK RAJAN")
+               
+         )
+)
+ 

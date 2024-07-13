@@ -1,0 +1,7 @@
+(defwidget icons5 []
+    (box :orientation "h" :space-evenly true :class "icons-box"
+        (box :orientation "h" :space-evenly false :halign "start"
+            (button :style "background-image: url('icons/netflix.png');" :class "icons5" :onclick "netflix &")
+        )  
+    )
+)
