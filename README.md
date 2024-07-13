@@ -53,7 +53,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <td><a href=""><img src=""/></a></td>
 </table></div>
 
-# Preview
+# GRUV-MINIMAL
 <div align="center"><table>
 <tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f50ea261-99aa-46d1-8d0f-cbd42b6ae544"/></td>
 <td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8da22897-df06-4b2f-8c7e-7ecf8d4ae15d"/></td></tr>
@@ -69,6 +69,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/ca8ebf75-c4f1-4d06-bec6-c89c6f7dfd7b"/></td></tr>
 </table></div>
 
+# NORDIC-THEME
 <div align="center"><table>
 <tr><td><img src="https://github.com/user-attachments/assets/303c3086-73bd-4ff0-80a3-a295ca342d99"/></td>
 <td><img src="https://github.com/user-attachments/assets/ecbf549e-3790-449c-ba44-9d4e6a4dd364"/></td></tr>
