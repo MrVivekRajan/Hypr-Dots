@@ -87,18 +87,18 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 # DARK-WORLD
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/58f42f10-2621-4ae6-bb6c-c7b33a1b416e"/></td>
-<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8ee63534-28b0-4533-8513-2f2996c5b006"/></td></tr>
+<tr><td><img src="https://github.com/user-attachments/assets/eb9de7a8-ce29-45fc-9b73-b93c8e7c8fac"/></td>
+<td><img src="https://github.com/user-attachments/assets/2a1e8e52-4bc0-407a-9df4-bc7f37dcf36c"/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/1ab0d209-833c-4b4d-aab9-78f34aabb2b6"/></td>
-<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/203f9d55-e62e-4328-be23-34a49a0f263b"/></td></tr>
+<tr><td><img src="https://github.com/user-attachments/assets/565bab92-3ad7-4d8d-8dfe-9bf1ae9d6fb4"/></td>
+<td><img src="https://github.com/user-attachments/assets/6cea034d-fa89-434a-987f-2f4a1df05510"/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/6f04bdfc-b31c-4dc8-8f10-c14970d360d1"/></td>
-<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b98045ae-9a77-45f6-94ea-325bb8187a7b"/></td></tr>
+<tr><td><img src="https://github.com/user-attachments/assets/54539710-43e4-4b51-8417-5dc049178772"/></td>
+<td><img src="https://github.com/user-attachments/assets/a151e3a4-886c-4950-833e-2f682b872807"/></td></tr>
 </table></div>
 
 # SPRING-CITY
