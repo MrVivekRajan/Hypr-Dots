@@ -103,18 +103,18 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 # SPRING-CITY
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/c384fe3f-3b08-4dee-866b-67e44917ce49"/></td>
-<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/3a2c8850-7143-4aa7-89fa-20f195d723ab"/></td></tr>
+<tr><td><img src="https://github.com/user-attachments/assets/ff8af98e-34c0-4928-be3e-e5de8e0ac9b6"/></td>
+<td><img src="https://github.com/user-attachments/assets/55d17a05-d844-4ee9-9c8f-50e1d1cf6466"/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/1fdf4853-7a22-4ebb-a770-4d6f337f07e0"/></td>
-<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/9d12abf3-5b7d-4dc4-9938-bf0b0e0fcb2e"/></td></tr>
+<tr><td><img src="https://github.com/user-attachments/assets/5d8aafde-70ec-4a80-9bbc-0f62679c5ff9"/></td>
+<td><img src="https://github.com/user-attachments/assets/ab663081-e6bb-4a3e-8476-659cd424b450"/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/eebb9b4e-5dba-46e8-85dc-40ed3cdfa32f"/></td>
-<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/39909301-7932-4f37-b03a-8441d5be6087"/></td></tr>
+<tr><td><img src="https://github.com/user-attachments/assets/956d16bb-e445-47d6-9321-d2454efffc2a"/></td>
+<td><img src="https://github.com/user-attachments/assets/254f630c-1e89-4d3e-8e16-eaddaf9130ef"/></td></tr>
 </table></div>
 
 # STYLISH-THEME
