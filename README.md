@@ -76,6 +76,17 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </table></div>
 
 <div align="center"><table>
+<tr><td><img src="https://github.com/user-attachments/assets/7cd0f4e8-3274-4029-8a21-128807c2fd91"/></td>
+<td><img src="https://github.com/user-attachments/assets/c8489303-09f8-4391-a1b2-8b0d93ef1a9f"/></td></tr>
+</table></div>
+
+<div align="center"><table>
+<tr><td><img src="https://github.com/user-attachments/assets/29b0051d-b619-427d-ac43-f75b555bb377"/></td>
+<td><img src="https://github.com/user-attachments/assets/11275f96-c27c-49c0-ba35-15606e9444f4"/></td></tr>
+</table></div>
+
+# DARK-WORLD
+<div align="center"><table>
 <tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/58f42f10-2621-4ae6-bb6c-c7b33a1b416e"/></td>
 <td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8ee63534-28b0-4533-8513-2f2996c5b006"/></td></tr>
 </table></div>
