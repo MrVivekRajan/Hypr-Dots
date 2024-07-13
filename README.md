@@ -55,18 +55,18 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 # GRUV-MINIMAL
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f50ea261-99aa-46d1-8d0f-cbd42b6ae544"/></td>
-<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8da22897-df06-4b2f-8c7e-7ecf8d4ae15d"/></td></tr>
+<tr><td><img src="https://github.com/user-attachments/assets/90b0970e-7910-49e5-8947-cfc7171ebd81"/></td>
+<td><img src="https://github.com/user-attachments/assets/c6072fbf-edeb-45ef-a3f6-bb975cd6e8db"/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/775911af-f1c4-463a-b393-0178c6ade53b"/></td>
-<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/56c69f95-f10c-4e7d-9b21-610e7eb83512"/></td></tr>
+<tr><td><img src="https://github.com/user-attachments/assets/f4d43ded-c184-4fce-964c-ad577a9696bd"/></td>
+<td><img src="https://github.com/user-attachments/assets/6cd15dfa-a43b-4424-a58d-88b1ef7148c3"/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b81f5fcf-21b2-40c5-8c8b-bc42adce1774"/></td>
-<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/ca8ebf75-c4f1-4d06-bec6-c89c6f7dfd7b"/></td></tr>
+<tr><td><img src="https://github.com/user-attachments/assets/d3616262-9df3-492c-8d3e-bcf5677064db"/></td>
+<td><img src="https://github.com/user-attachments/assets/1c3860e7-0d7e-4fae-b594-7e16a63144bb"/></td></tr>
 </table></div>
 
 # NORDIC-THEME
