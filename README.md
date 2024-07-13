@@ -46,16 +46,10 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </td></tr></table></div><br><table><td><br>
 
 # Preview
-
-<div align="center"><table><tr><td><a href="https://nvchad.com/docs/quickstart/install">NvChad</a></td><td><a href="https://github.com/spicetify/spicetify-themes/blob/master/THEMES.md#lunar">Spicetify Lunar</a></td></tr><tr><td>
-<img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f50ea261-99aa-46d1-8d0f-cbd42b6ae544"/></td><td>
-<img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8da22897-df06-4b2f-8c7e-7ecf8d4ae15d"/></td></tr>
-<img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/775911af-f1c4-463a-b393-0178c6ade53b"/></td><td>
-<img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/56c69f95-f10c-4e7d-9b21-610e7eb83512"/></td><td>
-<img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b81f5fcf-21b2-40c5-8c8b-bc42adce1774"/></td><td>
-<img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/ca8ebf75-c4f1-4d06-bec6-c89c6f7dfd7b"/></td><td>
+<div align="center"><table><tr><a href="https://github.com/hyprwm/hyprlock">Hyprlock</a></tr>
+<tr><td><img src="https://raw.githubusercontent.com/FireDrop6000/hyprland-mydots/master/.config/assets/hyprlock-1.png"/></td>
+<td><img src="https://raw.githubusercontent.com/FireDrop6000/hyprland-mydots/master/.config/assets/hyprlock-2.png"/></td></tr>
 </table></div>
-
 
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f50ea261-99aa-46d1-8d0f-cbd42b6ae544" align="center" width="750"> </p>
 <p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8da22897-df06-4b2f-8c7e-7ecf8d4ae15d" width="750"> </p>
