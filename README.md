@@ -50,7 +50,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </table></div>
 
 <div align="center"><table>
-<td><a href=""><img src=""/></a></td>
+<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Nordic"><img src="https://img.shields.io/badge/Nord-Theme-blue.svg?style=for-the-badge&labelColor=2e3440&color=5e81ac"/></a></td>
 </table></div>
 
 # GRUV-MINIMAL
