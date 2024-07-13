@@ -47,37 +47,13 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 # Preview
 <div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/f0cd58f8-6dd6-4fe6-8159-b4a9e5ef3142"/></td>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
+<tr><td><img src=""/></td>
 <td><img src=""/></td></tr>
 </table></div>
-
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f50ea261-99aa-46d1-8d0f-cbd42b6ae544" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8da22897-df06-4b2f-8c7e-7ecf8d4ae15d" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/775911af-f1c4-463a-b393-0178c6ade53b" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/56c69f95-f10c-4e7d-9b21-610e7eb83512" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b81f5fcf-21b2-40c5-8c8b-bc42adce1774" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/ca8ebf75-c4f1-4d06-bec6-c89c6f7dfd7b" align="center" width="750"> </p>
-
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/58f42f10-2621-4ae6-bb6c-c7b33a1b416e" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8ee63534-28b0-4533-8513-2f2996c5b006" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/1ab0d209-833c-4b4d-aab9-78f34aabb2b6" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/203f9d55-e62e-4328-be23-34a49a0f263b" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/6f04bdfc-b31c-4dc8-8f10-c14970d360d1" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b98045ae-9a77-45f6-94ea-325bb8187a7b" align="center" width="750"> </p>
-
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/c384fe3f-3b08-4dee-866b-67e44917ce49" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/3a2c8850-7143-4aa7-89fa-20f195d723ab" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/1fdf4853-7a22-4ebb-a770-4d6f337f07e0" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/9d12abf3-5b7d-4dc4-9938-bf0b0e0fcb2e" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/eebb9b4e-5dba-46e8-85dc-40ed3cdfa32f" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/39909301-7932-4f37-b03a-8441d5be6087" align="center" width="750"> </p>
-
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/456dfbaf-8b76-434d-9923-7a2461c35539" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/35d2b845-0b71-43c8-83f2-2c4da6360987" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b7a5869a-5aad-445f-92fc-dd49af55ae3b" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/f6a5e1ae-f61e-4366-86a4-2313a2ab3956" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/567a442e-a628-4897-9523-63795b423e70" align="center" width="750"> </p>
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/592f7358-624a-4063-94a2-8df618f0348c" align="center" width="750"> </p>
 
 # Download
 1. If you want to download all the themes at once then simply clone/download this [Repository](https://github.com/MrVivekRajan/Hypr-Dots)
