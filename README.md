@@ -119,18 +119,18 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 # STYLISH-THEME
 <div align="center"><table>
-<tr><td><img src=""/></td>
-<td><img src=""/></td></tr>
+<tr><td><img src="https://github.com/user-attachments/assets/cd10908b-4008-4951-bd0a-9fbeb3cc8fcb"/></td>
+<td><img src="https://github.com/user-attachments/assets/cbdc5ed8-a216-4022-84c3-744382d9e548"/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src=""/></td>
-<td><img src=""/></td></tr>
+<tr><td><img src="https://github.com/user-attachments/assets/4ef391a6-d3cd-48b0-a666-ff920786de1e"/></td>
+<td><img src="https://github.com/user-attachments/assets/85b3b366-cace-4fab-8595-5910ea90cf29"/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src=""/></td>
-<td><img src=""/></td></tr>
+<tr><td><img src="https://github.com/user-attachments/assets/ff217d92-2f64-4391-8e8f-55d641abf40e"/></td>
+<td><img src="https://github.com/user-attachments/assets/66bebe9c-1928-44dd-b577-c51acbc65d3c"/></td></tr>
 </table></div>
 
 # Download
