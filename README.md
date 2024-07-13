@@ -55,15 +55,36 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 # Preview
 <div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/f0cd58f8-6dd6-4fe6-8159-b4a9e5ef3142"/></td>
-<td><img src="https://github.com/user-attachments/assets/f0cd58f8-6dd6-4fe6-8159-b4a9e5ef3142"/></td></tr>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
 </table></div>
 
 <div align="center"><table>
 <tr><td><img src=""/></td>
 <td><img src=""/></td></tr>
+</table></div>
+
+<div align="center"><table>
 <tr><td><img src=""/></td>
 <td><img src=""/></td></tr>
+</table></div>
+
+<div align="center"><table>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
+</table></div>
+
+<div align="center"><table>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
+</table></div>
+
+<div align="center"><table>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
+</table></div>
+
+<div align="center"><table>
 <tr><td><img src=""/></td>
 <td><img src=""/></td></tr>
 </table></div>
