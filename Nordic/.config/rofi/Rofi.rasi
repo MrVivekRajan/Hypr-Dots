@@ -1,6 +1,6 @@
 configuration {
         show-icons:              true;
-        icon-theme:              "Dark-Icon";
+        icon-theme:              "Nordic-icon";
         font:                    "SF Pro Display Bold 12";
 }
 
