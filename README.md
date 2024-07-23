@@ -45,7 +45,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <div align="center"><table>
 <tr><td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Spring-City"><img src="https://img.shields.io/badge/Spring-City-blue.svg?style=for-the-badge&labelColor=5677fc&color=b95cb9"/></a></td>
   
-<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/CuteCat"><img src="https://img.shields.io/badge/Cute-Cat-golden.svg?style=for-the-badge&labelColor=073259&color=040416"/></a></td></tr>
+<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/CuteCat"><img src="https://img.shields.io/badge/Cute-Cat-golden.svg?style=for-the-badge&labelColor=073259&color=1D6682"/></a></td></tr>
 </table></div>
 
 <div align="center"><table>
