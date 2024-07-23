@@ -81,8 +81,8 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src=""/></td>
-<td><img src=""/></td></tr>
+<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/Assets/Cute-5.png?raw=true"/></td>
+<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/Assets/Cute-6.gif?raw=true"/></td></tr>
 </table></div>
 
 # DARK-WORLD
