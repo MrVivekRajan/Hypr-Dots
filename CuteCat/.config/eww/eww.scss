@@ -1,0 +1,21 @@
+* {
+    all: unset;
+    font-family: JetBrainsMono;
+    font-weight: bold;
+}
+
+@import "scss/brightness.scss";
+@import "scss/clock.scss";
+@import "scss/control_center.scss";
+@import "scss/day.scss";
+
+@import "scss/month-date.scss";
+@import "scss/music.scss";
+@import "scss/powermenu.scss";
+@import "scss/quick_settings.scss";
+
+@import "scss/toggle.scss";
+@import "scss/user.scss";
+@import "scss/volume.scss";
+@import "scss/weather.scss";
+

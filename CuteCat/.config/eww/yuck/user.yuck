@@ -1,0 +1,19 @@
+(defwidget user []
+    (box :orientation "h" :space-evenly true
+        (box :orientation "h" :space-evenly false :halign "start" :style "background-image: url('assets/vivek.png');" :class "user"
+        )
+
+        (box :orientation "h" :space-evenly false :halign "start"
+           (label :class "name" :text "Vivek Rajan")
+           (label :class "wm" :text "@HyprlandWM")
+        )      
+  
+        (box :orientation "h" :space-evenly false :halign "end"
+            (box :orientation "h" :space-evenly false
+            (button :class "network" :onclick "XDG_CURRENT_DESKTOP=gnome gnome-control-center wifi &")
+            (button :class "open-settings-button" :onclick "XDG_CURRENT_DESKTOP=gnome gnome-control-center &")
+            (button :class "open-powermenu-button" :onclick "~/.config/eww/scripts/toggle_powermenu.sh")
+            )
+        )
+    )
+)

@@ -1,0 +1,138 @@
+configuration {
+        show-icons:              true;
+        icon-theme:              "CuteCat-Icon";
+        font:                    "SF Pro Display Bold 12";
+}
+
+/*****----- Main Window -----*****/
+window {
+    transparency:                "real";
+    location:                    center;
+    anchor:                      center;
+    fullscreen:                  true;
+    x-offset:                    0px;
+    y-offset:                    0px;
+
+    enabled:                     true;
+    margin:                      0px;
+    padding:                     0px;
+    background-color:            black / 10%;
+    cursor:                      "default";
+}
+
+/*****----- Main Box -----*****/
+mainbox {
+    enabled:                     true;
+    spacing:                     100px;
+    margin:                      0px;
+    padding:                     10px 200px;
+    background-color:            transparent;
+    children:                    [ "inputbar", "listview" ];
+}
+
+/*****----- Inputbar -----*****/
+inputbar {
+   enabled:                      true;
+    spacing:                     10px;
+    margin:                      1% 18%;
+    padding:                     10px;
+    border:                      2px solid;
+    border-radius:               10px;
+    border-color:                #bdae93;
+    background-color:            black / 5%;
+    text-color:                  #d8dee9;
+    children:                    [ "textbox-prompt-colon", "entry" ];
+}
+
+textbox-prompt-colon {
+    enabled:                     true;
+    expand:                      false;
+    padding:                     2px 11px;
+    border-radius:               100%;
+    str:                         "";
+    background-color:            transparent;
+    text-color:                  inherit;
+}
+entry {
+    enabled:                     true;
+    background-color:            transparent;
+    text-color:                  inherit;
+    cursor:                      text;
+    placeholder:                 "Search";
+    placeholder-color:           inherit;
+}
+
+/*****----- Listview -----*****/
+listview {
+    enabled:                     true;
+    columns:                     5;
+    lines:                       5;
+    cycle:                       true;
+    dynamic:                     true;
+    scrollbar:                   false;
+    layout:                      vertical;
+    reverse:                     false;
+    fixed-height:                true;
+    fixed-columns:               true;
+    
+    spacing:                     0px;
+    margin:                      0px;
+    padding:                     0px;
+    background-color:            transparent;
+    text-color:                  #d8dee9;
+    cursor:                      "default";
+}
+
+/*****----- Elements -----*****/
+element {
+    enabled:                     true;
+    spacing:                     15px;
+    margin:                      0px;
+    padding:                     20px 10px;
+    border-radius:               10px;
+    background-color:            transparent;
+    text-color:                  #d8dee9;
+    orientation:                 vertical;
+    cursor:                      pointer;
+}
+element normal.normal {
+    background-color:            transparent;
+    text-color:                  #d8dee9;
+}
+element selected.normal {
+    border:                      2px solid;
+    border-color:                #bdae93;
+    background-color:            white / 5%;
+    text-color:                  #d8dee9;
+}
+element-icon {
+    background-color:            transparent;
+    text-color:                  inherit;
+    size:                        55px;
+    cursor:                      inherit;
+}
+element-text {
+    background-color:            transparent;
+    text-color:                  inherit;
+    highlight:                   inherit;
+    cursor:                      inherit;
+    vertical-align:              0.5;
+    horizontal-align:            0.5;
+}
+
+/*****----- Message -----*****/
+error-message {
+    padding:                     15px;
+    border:                      2px solid;
+    border-radius:               10px;
+    border-color:                #bdae93;
+    background-color:            black / 10%;
+    text-color:                  #d8dee9;
+}
+textbox {
+    background-color:            transparent;
+    text-color:                  #d8dee9;
+    vertical-align:              0.5;
+    horizontal-align:            0.0;
+    highlight:                   none;
+}

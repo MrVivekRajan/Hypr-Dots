@@ -1,0 +1,71 @@
+.quick_settings_button {
+    transition: 500ms;
+    background-color: #3A404C;
+    border-radius: 1rem;
+    padding: 1rem;
+    font-size: 1.02rem;
+}
+
+.quick_settings_button:hover {
+    background-color: mix(#1f1a1d, #eae0e3, 50%);
+}
+
+.quick_settings_button_toggled {
+    background-color: #86AAEC;
+    color: #1f1a1d;
+}
+
+.quick_settings_button_toggled:hover {
+    background-color: mix(#1f1a1d, #eae0e3, 50%);
+}
+
+.quick_settings_box {
+    margin-top: 1rem;
+}
+
+.quick-settings-icon {
+    font-size: 1.3rem;
+}
+
+.quick-settings-info {
+    margin-left: 1rem;
+}
+
+.quick-settings-state {
+    font-size: 0.9rem;
+    color: #d2c3ca;
+}
+
+.quick-settings-state-enabled {
+    color: #4f434a;
+}
+
+.left-top-plite {
+    margin-right: 0.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.left-center-plite {
+    margin-right: 0.25rem;
+    margin-bottom: 0.25rem;
+}
+
+.left-bottom-plite {
+    margin-right: 0.25rem;
+    margin-top: 0.25rem;
+}
+
+.right-top-plite {
+    margin-left: 0.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.right-center-plite {
+    margin-left: 0.25rem;
+    margin-bottom: 0.35rem;
+}
+
+.right-bottom-plite {
+    margin-left: 0.25rem;
+    margin-top: 0.25rem;
+}

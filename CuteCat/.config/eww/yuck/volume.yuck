@@ -1,0 +1,21 @@
+(defpoll volume_icon :interval "1s" "~/.config/eww/scripts/volume.sh icon")
+(defpoll volume_value :interval "1s" "~/.config/eww/scripts/volume.sh vol")
+(defpoll is_muted :interval "1s" "~/.config/eww/scripts/volume.sh muted")
+
+
+(defwidget volume []
+    (box :orientation "h"
+         :space-evenly "false"
+         :class "vol-slider"
+      (overlay
+        (scale :value volume_value
+               :onchange "~/.config/eww/scripts/volume.sh set {}"
+               :min 0
+               :max 101)
+        (label :class "vol-label"
+               :text "${volume_icon} "
+               :valign "top"
+               :halign "start")
+      )
+   )  
+) 

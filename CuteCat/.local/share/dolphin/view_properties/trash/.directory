@@ -1,0 +1,7 @@
+[Dolphin]
+SortOrder=1
+SortRole=deletiontime
+Timestamp=2024,7,12,22,34,47.076
+Version=4
+ViewMode=1
+VisibleRoles=Details_text,Details_path,Details_deletiontime,CustomizedDetails

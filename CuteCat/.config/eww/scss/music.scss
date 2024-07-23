@@ -1,0 +1,62 @@
+.musicbox {
+    border-radius: 1rem;
+    color: #eae0e3;
+    box-shadow: 0 0 4px 2px #000000;
+    background-color: rgba(40, 40, 40, .8);
+    margin-top: 1rem;
+}
+
+.music {
+  border-radius: 50px;
+  padding: 0px 11px;
+  margin: 5px 0px;
+  min-height: 30px;
+  font-weight: 500;
+}
+
+.musicart {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 3px;
+  margin-right: 3px;
+  border-radius: 1rem;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: unset;
+}
+
+.musiccontrols{
+  color: rgba(255, 255, 255, .75);
+  min-width: 170px;
+  padding: 5px 20px;
+  border-radius: 20px;
+}
+.musicbutton{
+  margin-top: 0px;
+  font-size: 20px;
+}
+.musictitle{
+  color: rgba(255, 255, 255, .75);
+  margin-top: 5px;
+  font-size:15px;
+  font-weight: 600;
+}
+.musicscale scale trough highlight {
+  all: unset;
+  background-color: rgba(255, 255, 255, .75);
+  color: white;
+  border-radius: 10px;
+  min-width: 10px;
+}
+.musicscale scale trough {
+  all: unset;
+  background-color: #3A404C; 
+  border-radius: 50px;
+  min-height: 10px;
+  min-width: 140px;
+  margin: 0px 10px;
+}
+.musicscale label{
+  font-size: 13px;
+}

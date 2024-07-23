@@ -1,0 +1,9 @@
+(defwidget toggle [] 
+		(box :class "toggle2box" :orientation "h" :space-evenly "false" :vexpand "false" :hexpand "false" 
+				(button :style "background-image: url('toggle_icons/nightlight.png');" :class "toggleicon" :onclick "XDG_CURRENT_DESKTOP='gnome' gnome-control-center &")
+				(button :style "background-image: url('toggle_icons/screencast.png');" :class "toggleicon" :onclick "XDG_CURRENT_DESKTOP='gnome' gnome-control-center Displays &")
+                                (button :style "background-image: url('toggle_icons/airplane.png');" :class "toggleicon" :onclick "XDG_CURRENT_DESKTOP='gnome' gnome-control-center &")
+				
+                 )
+)
+ 

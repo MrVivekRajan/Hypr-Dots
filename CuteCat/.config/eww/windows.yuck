@@ -1,0 +1,33 @@
+(defwindow control_center
+    :monitor 0
+    :stacking "overlay"
+    :geometry (geometry
+                    :anchor "top right"
+                    :width "10%"
+                    :height "10%"
+                )
+    :namespace "eww"
+    (control_center)
+)
+
+(defwindow widgets
+    :monitor 0
+    :stacking "bg"
+    :geometry (geometry 
+                    :anchor "center"
+                    :width "155%"
+                    :height "100%")
+    :namespace "eww"
+    (widgets)
+)
+
+(defwindow powermenu
+    :monitor 0
+    :stacking "overlay"
+    :geometry (geometry 
+                    :anchor "center"
+                    :width "140%"
+                    :height "140%")
+    :namespace "eww-blur"
+    (powermenu)
+)

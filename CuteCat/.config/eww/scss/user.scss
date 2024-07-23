@@ -1,0 +1,66 @@
+.name {
+   font-size: 1.5rem;
+   margin-left: -3.5rem;
+   margin-top: -1rem;  
+}
+
+.wm {
+   font-size: .8rem;
+   margin-left: -8rem;  
+   margin-top: 2rem;
+   color: rgba(255, 255, 255, .7);
+}
+
+.user {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+	background-size: 60px;
+        min-width:  60px;
+        min-height: 60px;
+        border-radius: 100%;
+        border: 2rem;
+        border-color: #000000;
+}
+
+.network {
+    background-image: url("assets/signal.png");
+    background-repeat: no-repeat;
+    background-size: 1.5rem;
+    background-position: center;
+    min-height: 3rem;
+    min-width: 3rem;
+    border-radius: 100%;
+}
+
+.network:hover {
+    background-color: mix(#1f1a1d, #eae0e3, 70%);
+}
+
+.open-powermenu-button {
+    background-image: url("assets/logout.png");
+    background-repeat: no-repeat;
+    background-size: 1.5rem;
+    background-position: center;
+    min-height: 3rem;
+    min-width: 3rem;
+    border-radius: 100%;
+}
+
+.open-powermenu-button:hover {
+    background-color: mix(#1f1a1d, #eae0e3, 70%);
+}
+
+.open-settings-button {
+    background-image: url("assets/settings.png");
+    background-repeat: no-repeat;
+    background-size: 1.5rem;
+    background-position: center;
+    min-height: 3rem;
+    min-width: 3rem;
+    border-radius: 100%;
+}
+
+.open-settings-button:hover {
+    background-color: mix(#1f1a1d, #eae0e3, 70%);
+}

@@ -1,0 +1,17 @@
+; VARS
+
+(defvar open_control_center false)
+(defvar ANIM_DURATION "500ms")
+
+; LISTENS
+
+(deflisten network :initial '{"essid": "lo", "signal": ""}'
+"scripts/network.sh")
+
+
+(deflisten weather :initial "null"
+"scripts/weather.py")
+
+(deflisten current_theme :initial "dark" 
+"scripts/material.py --current")
+

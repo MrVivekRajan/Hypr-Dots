@@ -1,0 +1,28 @@
+        .vol-slider { 
+           margin: 1rem;
+          .vol-label {
+            font-size: 16px;
+            color: #000000;
+            margin-left: 10px;
+          }
+          & scale trough {
+            all: unset;
+            border-radius: 10px;
+            background-color: #3A404C;
+            border: none;
+            min-height: 30px;
+            min-width: 150px;
+            margin-left: 0px;
+            & highlight {
+              all: unset;
+              background: #86AAEC;
+              color: #000000;
+              border-radius: 10px;
+            }
+          }
+        }
+     
+   
+   
+    
+    

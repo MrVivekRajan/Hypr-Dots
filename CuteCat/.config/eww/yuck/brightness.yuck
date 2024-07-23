@@ -1,0 +1,20 @@
+(defpoll br_icon :interval "1s" "~/.config/eww/scripts/brightness.sh icon")
+(defpoll br :interval "1s" "~/.config/eww/scripts/brightness.sh br")
+
+(defwidget brightness []
+    (box :orientation "h"
+         :space-evenly "false"
+         :class "br-slider"
+      (overlay
+          (scale :value br
+               :onchange "~/.config/eww/scripts/brightness.sh set {}"
+               :min 0
+               :max 101)
+           (label :class "br-label"
+               :text "${br_icon} "
+               :valign "top"
+               :halign "start")
+      )
+    )
+    
+) 

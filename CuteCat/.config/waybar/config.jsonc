@@ -1,0 +1,83 @@
+{
+    "position": "bottom",
+    "layer": "bottom",
+    "height": 15,
+    "margin-top": 0,
+    "margin-bottom": 0,
+    "margin-left": 0,
+    "margin-right": 0,
+    "modules-left": ["cpu","custom/space","memory","custom/space","temperature","custom/space","battery"],
+    "modules-center": ["hyprland/workspaces"],
+    "modules-right": ["tray","custom/space","clock"],
+
+
+    // Modules list
+
+    "custom/space": {
+        "format": "┃ {}",
+        "on-click": "~/.config/hypr/scripts/Rofi-launcher.sh"
+     },
+
+
+     "cpu": {
+        "format": "󰻠 {usage}%",
+        "format-alt": "󰻠 {avg_frequency} GHz",
+        "interval": 5
+     },
+     
+     
+     "memory": {
+        "format": "󰍛 {}%",
+        "format-alt": "󰍛 {used}/{total} GiB",
+        "interval": 5
+     },
+
+
+     "temperature": {
+        "format": " {temperatureC}°C"
+      },
+
+
+      "battery": {
+          "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 20
+          },
+           "format": "{icon} {capacity}%",
+           "format-charging": " {capacity}%",
+           "format-plugged": " {capacity}%",
+           "format-alt": "{time} {icon}",
+           "format-icons": ["󰂎", "󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"]
+      },
+
+      
+      "hyprland/workspaces": {
+         "active-only": false,
+         "all-outputs": true,
+         "disable-scroll": false,
+         "on-scroll-up": "hyprctl dispatch workspace -1",
+         "on-scroll-down": "hyprctl dispatch workspace +1",
+		"format": "{icon}",
+		"on-click": "activate",
+		"format-icons": {
+		"urgent": "",
+	        "active": "",
+		"default": "󰧞",
+         "sort-by-number": true
+            },
+      },
+   
+
+      "tray": {
+	  "icon-size": 17,
+	  "spacing": 6
+      },
+
+
+      "clock": {
+	  "format": " {:%I:%M %p   %a %d}",
+           "on-click": "~/.config/eww/scripts/toggle_control_center.sh",
+      },
+  
+}

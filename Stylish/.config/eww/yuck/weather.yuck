@@ -1,8 +1,0 @@
-(defwidget weather []
-    (box :orientation "h" :space-evenly false :class "weather"
-        (label :class "weather-logo" :halign "start" :text "➤│")
-        (label :class "weather-error" :text "󰤨 Connect to the internet" :visible {weather == "null" ? true : false})
-        (label :class "weather-icon" :halign "start" :text {weather.icon})
-        (label :class "weather-temp" :halign "start" :text {weather.temp})
-    )
-)

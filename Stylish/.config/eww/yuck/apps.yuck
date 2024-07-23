@@ -1,8 +1,0 @@
-(defwidget apps [] 
-		(box :class "appbox" :orientation "h" :space-evenly "false" :vexpand "false" :hexpand "false" 
-                                (button :style "background-image: url('icons/spotify.png');" :class "appicon" :onclick "spotify &") 
-				(button :style "background-image: url('icons/discord.png');" :class "appicon" :onclick "discord &")
-                                (button :style "background-image: url('icons/github.png');" :class "appicon" :onclick "firefox www.github.com &")
-				
-                 )
-)
