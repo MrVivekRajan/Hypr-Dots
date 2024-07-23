@@ -72,7 +72,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 # CUTE-CAT
 <div align="center"><table>
 <tr><td><img src="https://github.com/user-attachments/assets/cb3006bd-b732-4316-87b7-9b1898078e17"/></td>
-<td><img src=""/></td></tr>
+<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/Assets/Cute-2.gif?raw=true"/></td></tr>
 </table></div>
 
 <div align="center"><table>
