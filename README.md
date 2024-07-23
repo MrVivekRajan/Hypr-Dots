@@ -69,20 +69,20 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <td><img src="https://github.com/user-attachments/assets/1c3860e7-0d7e-4fae-b594-7e16a63144bb"/></td></tr>
 </table></div>
 
-# NORDIC-THEME
+# CUTE-CAT
 <div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/bd5f9f6c-92b2-427a-81ad-45ec020c2b8b"/></td>
-<td><img src="https://github.com/user-attachments/assets/ecbf549e-3790-449c-ba44-9d4e6a4dd364"/></td></tr>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/7cd0f4e8-3274-4029-8a21-128807c2fd91"/></td>
-<td><img src="https://github.com/user-attachments/assets/c8489303-09f8-4391-a1b2-8b0d93ef1a9f"/></td></tr>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/29b0051d-b619-427d-ac43-f75b555bb377"/></td>
-<td><img src="https://github.com/user-attachments/assets/11275f96-c27c-49c0-ba35-15606e9444f4"/></td></tr>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
 </table></div>
 
 # DARK-WORLD
@@ -101,6 +101,22 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <td><img src="https://github.com/user-attachments/assets/a151e3a4-886c-4950-833e-2f682b872807"/></td></tr>
 </table></div>
 
+# NORDIC-THEME
+<div align="center"><table>
+<tr><td><img src="https://github.com/user-attachments/assets/bd5f9f6c-92b2-427a-81ad-45ec020c2b8b"/></td>
+<td><img src="https://github.com/user-attachments/assets/ecbf549e-3790-449c-ba44-9d4e6a4dd364"/></td></tr>
+</table></div>
+
+<div align="center"><table>
+<tr><td><img src="https://github.com/user-attachments/assets/7cd0f4e8-3274-4029-8a21-128807c2fd91"/></td>
+<td><img src="https://github.com/user-attachments/assets/c8489303-09f8-4391-a1b2-8b0d93ef1a9f"/></td></tr>
+</table></div>
+
+<div align="center"><table>
+<tr><td><img src="https://github.com/user-attachments/assets/29b0051d-b619-427d-ac43-f75b555bb377"/></td>
+<td><img src="https://github.com/user-attachments/assets/11275f96-c27c-49c0-ba35-15606e9444f4"/></td></tr>
+</table></div>
+
 # SPRING-CITY
 <div align="center"><table>
 <tr><td><img src="https://github.com/user-attachments/assets/ff8af98e-34c0-4928-be3e-e5de8e0ac9b6"/></td>
@@ -115,22 +131,6 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <div align="center"><table>
 <tr><td><img src="https://github.com/user-attachments/assets/956d16bb-e445-47d6-9321-d2454efffc2a"/></td>
 <td><img src="https://github.com/user-attachments/assets/254f630c-1e89-4d3e-8e16-eaddaf9130ef"/></td></tr>
-</table></div>
-
-# STYLISH-THEME
-<div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/cd10908b-4008-4951-bd0a-9fbeb3cc8fcb"/></td>
-<td><img src="https://github.com/user-attachments/assets/cbdc5ed8-a216-4022-84c3-744382d9e548"/></td></tr>
-</table></div>
-
-<div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/4ef391a6-d3cd-48b0-a666-ff920786de1e"/></td>
-<td><img src="https://github.com/user-attachments/assets/85b3b366-cace-4fab-8595-5910ea90cf29"/></td></tr>
-</table></div>
-
-<div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/ff217d92-2f64-4391-8e8f-55d641abf40e"/></td>
-<td><img src="https://github.com/user-attachments/assets/66bebe9c-1928-44dd-b577-c51acbc65d3c"/></td></tr>
 </table></div>
 
 # Download
