@@ -25,7 +25,6 @@
 - [About This Project](#star2-about-the-project)
 - [Discord](https://github.com/developer-vivek/Discord-Themes/) - [Spotify](https://github.com/developer-vivek/Spotify-Themes) - [FireFox](https://github.com/Haruzona/penguinFox)  Themes used in Dots can be downloaded from here.
 - [Preview](#GRUV-MINIMAL)
-- [WorkFlow](#WorkFlow-Stylish)
 - [Download](#Download)
  
 
@@ -77,7 +76,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 <div align="center"><table>
 <tr><td><img src=""/></td>
-<td><img src=""/></td></tr>
+<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/Assets/Cute-4.gif"/></td></tr>
 </table></div>
 
 <div align="center"><table>
@@ -137,16 +136,6 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 1. If you want to download all the themes at once then simply clone/download this [Repository](https://github.com/MrVivekRajan/Hypr-Dots)
 
 2. If you want to download individual or your desired theme then download it from [Release-Section](https://github.com/MrVivekRajan/Hypr-Dots/releases) 
-
-# WorkFlow-Spring-City
-https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8f2c5a0f-59b4-47de-a63f-00cfb75db057
-
-# WorkFlow-Stylish
-https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/b34a2778-b865-45a4-9161-3dd8dcdfdb31
-
-# WorkFlow-Gruvminimal
-https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/eac19a7b-a3d8-4ef5-a7a2-37bc8a2c47fa
-
 
 # Thanks for Visiting !! ❤️❤️
 I Hope You Like my project, if yes then don't forget to give it a star as it means a lot.
