@@ -75,7 +75,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src=""/></td>
+<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/Assets/Cute-3.gif?raw=true"/></td>
 <td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/Assets/Cute-4.gif"/></td></tr>
 </table></div>
 
