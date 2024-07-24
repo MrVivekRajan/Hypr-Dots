@@ -107,7 +107,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/7cd0f4e8-3274-4029-8a21-128807c2fd91"/></td>
+<tr><td><img src="https://github.com/user-attachments/assets/d34e349f-bfd9-405c-94be-a082e942424a"/></td>
 <td><img src="https://github.com/user-attachments/assets/c8489303-09f8-4391-a1b2-8b0d93ef1a9f"/></td></tr>
 </table></div>
 
