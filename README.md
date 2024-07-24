@@ -112,7 +112,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src=""/></td>
+<tr><td><img src="https://github.com/user-attachments/assets/481cbfe9-742d-454b-b4e8-a490dc3b1d63"/></td>
 <td><img src="https://github.com/user-attachments/assets/11275f96-c27c-49c0-ba35-15606e9444f4"/></td></tr>
 </table></div>
 
