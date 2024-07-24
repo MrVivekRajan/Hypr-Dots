@@ -26,7 +26,7 @@
 - [Discord](https://github.com/developer-vivek/Discord-Themes/) - [Spotify](https://github.com/developer-vivek/Spotify-Themes) - [FireFox](https://github.com/Haruzona/penguinFox)  Themes used in Dots can be downloaded from here.
 - [Preview](#GRUV-MINIMAL)
 - [Download](#Download)
-- [Applications/Tools Used and Keybindings can be found here.](https://github.com/MrVivekRajan/Hypr-Dots/wiki)
+- [Applications/Tools](https://github.com/MrVivekRajan/Hypr-Dots/wiki) Used and [Keybindings](https://github.com/MrVivekRajan/Hypr-Dots/wiki/Keybindings) can be found here.
  
 
 ## :star2: About This Project
