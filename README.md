@@ -103,7 +103,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 # NORDIC-THEME
 <div align="center"><table>
 <tr><td><img src="https://github.com/user-attachments/assets/bd5f9f6c-92b2-427a-81ad-45ec020c2b8b"/></td>
-<td><img src="https://github.com/user-attachments/assets/ecbf549e-3790-449c-ba44-9d4e6a4dd364"/></td></tr>
+<td><img src="https://github.com/user-attachments/assets/6230ea8c-10da-4f7e-a03e-8a4755801164"/></td></tr>
 </table></div>
 
 <div align="center"><table>
@@ -112,7 +112,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/29b0051d-b619-427d-ac43-f75b555bb377"/></td>
+<tr><td><img src=""/></td>
 <td><img src="https://github.com/user-attachments/assets/11275f96-c27c-49c0-ba35-15606e9444f4"/></td></tr>
 </table></div>
 
