@@ -119,7 +119,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 # SPRING-CITY
 <div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/ff8af98e-34c0-4928-be3e-e5de8e0ac9b6"/></td>
+<tr><td><img src="https://github.com/user-attachments/assets/364f3e9c-a903-4b93-96b5-445027df1c74"/></td>
 <td><img src="https://github.com/user-attachments/assets/55d17a05-d844-4ee9-9c8f-50e1d1cf6466"/></td></tr>
 </table></div>
 
