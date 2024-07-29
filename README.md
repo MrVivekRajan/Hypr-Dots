@@ -55,7 +55,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 # GRUV-MINIMAL
 <div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/90b0970e-7910-49e5-8947-cfc7171ebd81"/></td>
+<tr><td><img src="https://github.com/user-attachments/assets/593b076d-6a91-4a92-bb99-707997be5b69"/></td>
 <td><img src="https://github.com/user-attachments/assets/c6072fbf-edeb-45ef-a3f6-bb975cd6e8db"/></td></tr>
 </table></div>
 
