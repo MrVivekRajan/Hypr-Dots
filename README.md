@@ -52,10 +52,8 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <div align="center"><table>
 <tr><td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Spring-City"><img src="https://img.shields.io/badge/Spring-City-blue.svg?style=for-the-badge&labelColor=5677fc&color=b95cb9"/></a></td>
   
-<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/CuteCat"><img src="https://img.shields.io/badge/Cute-Cat-golden.svg?style=for-the-badge&labelColor=073259&color=1D6682"/></a></td></tr>
-</table></div>
+<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Dark-World"><img src="https://img.shields.io/badge/Dark-World-black.svg?style=for-the-badge&labelColor=FFB900&color=282828"/></a></td></tr>
 
-<div align="center"><table>
 <td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Nordic"><img src="https://img.shields.io/badge/Nord-Theme-blue.svg?style=for-the-badge&labelColor=2e3440&color=5e81ac"/></a></td>
 </table></div>
 
