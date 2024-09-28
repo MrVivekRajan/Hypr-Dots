@@ -44,7 +44,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <div align="center"><table>
 <tr><td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/Type-1/Gruvminimal"><img src="https://img.shields.io/badge/Gruv-Minimal-yellow.svg?style=for-the-badge&labelColor=458588&color=eebd35"/></a></td>
 
-<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/Type-1/Golden-Hour"><img src="https://img.shields.io/badge/Golden-Hour-golden.svg?style=for-the-badge&labelColor=FFB900&color=282828"/></a></td>
+<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/Type-1/Golden-Hour"><img src="https://img.shields.io/badge/Golden-Hour-golden.svg?style=for-the-badge&labelColor=EBA33F&color=282828"/></a></td>
  
 <td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/Type-1/CuteCat"><img src="https://img.shields.io/badge/Cute-Cat-golden.svg?style=for-the-badge&labelColor=073259&color=1D6682"/></a></td></tr>
 </table></div>
