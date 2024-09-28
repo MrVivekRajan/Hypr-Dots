@@ -42,7 +42,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </table></div>
 
 <div align="center"><table>
-<tr><td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/Gruv-Minimal-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"/></a></td>
+<tr><td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/Type-1-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"/></a></td>
   
 <td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Dark-World"><img src="https://img.shields.io/badge/Dark-World-black.svg?style=for-the-badge&labelColor=FFB900&color=282828"/></a></td></tr>
 </table></div>
