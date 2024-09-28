@@ -16,7 +16,7 @@
          :class "vol-slider"
       (overlay
         (scale :value volume_value
-               :onchange "~/.config/eww/scripts/1volume.sh set {}"
+               :onchange "~/.config/eww/scripts/volume.sh set {}"
                :min 0
                :max 101)
         (label :class "vol-label"
