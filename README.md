@@ -38,11 +38,11 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </table></div>
 
 <div align="center"><table>
-<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/Type-1-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"/></a></td>
+<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/Type-1-yellow.svg?style=for-the-badge&labelColor=32302f&color=689d6a"/></a></td>
 </table></div>
 
 <div align="center"><table>
-<tr><td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/Type-1/Gruvminimal"><img src="https://img.shields.io/badge/Gruv-Minimal-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"/></a></td>
+<tr><td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/Type-1/Gruvminimal"><img src="https://img.shields.io/badge/Gruv-Minimal-yellow.svg?style=for-the-badge&labelColor=458588&color=eebd35"/></a></td>
 
 <td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/Type-1/Golden-Hour"><img src="https://img.shields.io/badge/Golden-Hour-golden.svg?style=for-the-badge&labelColor=5A0F2E&color=143d59"/></a></td>
  
@@ -50,7 +50,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </table></div>
 
 <div align="center"><table>
-<td><a href="https://github.com/MrVivekRajan/Hypr-Dots"><img src="https://img.shields.io/badge/Type-2-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"/></a></td>
+<td><a href="https://github.com/MrVivekRajan/Hypr-Dots"><img src="https://img.shields.io/badge/Type-2-yellow.svg?style=for-the-badge&labelColor=32302f&color=689d6a"/></a></td>
 </table></div>
 
 <div align="center"><table>
