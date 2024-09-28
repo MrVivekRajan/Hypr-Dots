@@ -38,7 +38,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </table></div>
 
 <div align="center"><table>
-<td><a href="https://github.com/MrVivekRajan/Hypr-Dots"><img src="https://img.shields.io/badge/Type-1-yellow.svg?style=for-the-badge&labelColor=32302f&color=8651BB"/></a></td>
+<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/Type-1"><img src="https://img.shields.io/badge/Type-1-yellow.svg?style=for-the-badge&labelColor=32302f&color=8651BB"/></a></td>
 </table></div>
 
 <div align="center"><table>
@@ -50,7 +50,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </table></div>
 
 <div align="center"><table>
-<td><a href="https://github.com/MrVivekRajan/Hypr-Dots"><img src="https://img.shields.io/badge/Type-2-yellow.svg?style=for-the-badge&labelColor=32302f&color=b16286"/></a></td>
+<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/Type-2"><img src="https://img.shields.io/badge/Type-2-yellow.svg?style=for-the-badge&labelColor=32302f&color=b16286"/></a></td>
 </table></div>
 
 <div align="center"><table>
