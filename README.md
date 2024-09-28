@@ -22,11 +22,11 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 - [About This Project](#star2-about-the-project)
-- [Type-1](https://github.com/MrVivekRajan/Hypr-Dots/Type-1) and [Type-2](https://github.com/MrVivekRajan/Hypr-Dots/Type-2) Themes Supported
 - [Discord](https://github.com/developer-vivek/Discord-Themes/) - [Spotify](https://github.com/developer-vivek/Spotify-Themes) - [FireFox](https://github.com/Haruzona/penguinFox)  Themes used in Dots can be downloaded from here.
 - [Preview](#GRUV-MINIMAL)
 - [Download](#Download)
 - [Applications/Tools](https://github.com/MrVivekRajan/Hypr-Dots/wiki) Used and [Keybindings](https://github.com/MrVivekRajan/Hypr-Dots/wiki/Keybindings) can be found here.
+- Just switch among the two branches to access diffenrent themes.
  
 
 ## :star2: About This Project
