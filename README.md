@@ -85,52 +85,20 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/Type-1/Assets/Cute-6.gif?raw=true"/></td></tr>
 </table></div>
 
-# DARK-WORLD
+# GOLDEN-HOUR
 <div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/eb9de7a8-ce29-45fc-9b73-b93c8e7c8fac"/></td>
-<td><img src="https://github.com/user-attachments/assets/2a1e8e52-4bc0-407a-9df4-bc7f37dcf36c"/></td></tr>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/565bab92-3ad7-4d8d-8dfe-9bf1ae9d6fb4"/></td>
-<td><img src="https://github.com/user-attachments/assets/6cea034d-fa89-434a-987f-2f4a1df05510"/></td></tr>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/54539710-43e4-4b51-8417-5dc049178772"/></td>
-<td><img src="https://github.com/user-attachments/assets/a151e3a4-886c-4950-833e-2f682b872807"/></td></tr>
-</table></div>
-
-# NORDIC-THEME
-<div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/bd5f9f6c-92b2-427a-81ad-45ec020c2b8b"/></td>
-<td><img src="https://github.com/user-attachments/assets/6230ea8c-10da-4f7e-a03e-8a4755801164"/></td></tr>
-</table></div>
-
-<div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/d34e349f-bfd9-405c-94be-a082e942424a"/></td>
-<td><img src="https://github.com/user-attachments/assets/c8489303-09f8-4391-a1b2-8b0d93ef1a9f"/></td></tr>
-</table></div>
-
-<div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/481cbfe9-742d-454b-b4e8-a490dc3b1d63"/></td>
-<td><img src="https://github.com/user-attachments/assets/11275f96-c27c-49c0-ba35-15606e9444f4"/></td></tr>
-</table></div>
-
-# SPRING-CITY
-<div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/364f3e9c-a903-4b93-96b5-445027df1c74"/></td>
-<td><img src="https://github.com/user-attachments/assets/55d17a05-d844-4ee9-9c8f-50e1d1cf6466"/></td></tr>
-</table></div>
-
-<div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/5d8aafde-70ec-4a80-9bbc-0f62679c5ff9"/></td>
-<td><img src="https://github.com/user-attachments/assets/ab663081-e6bb-4a3e-8476-659cd424b450"/></td></tr>
-</table></div>
-
-<div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/956d16bb-e445-47d6-9321-d2454efffc2a"/></td>
-<td><img src="https://github.com/user-attachments/assets/254f630c-1e89-4d3e-8e16-eaddaf9130ef"/></td></tr>
+<tr><td><img src=""/></td>
+<td><img src=""/></td></tr>
 </table></div>
 
 # Download
