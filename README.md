@@ -44,9 +44,13 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <div align="center"><table>
 <tr><td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/Gruv-Minimal-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"/></a></td>
 
-<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Golden-Hour"><img src="https://img.shields.io/badge/Cute-Cat-golden.svg?style=for-the-badge&labelColor=073259&color=1D6682"/></a></td>
+<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Golden-Hour"><img src="https://img.shields.io/badge/Golden-Hour-golden.svg?style=for-the-badge&labelColor=073259&color=1D6682"/></a></td>
  
-<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/CuteCat"><img src="https://img.shields.io/badge/Golden-Hour-golden.svg?style=for-the-badge&labelColor=073259&color=1D6682"/></a></td></tr>
+<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/CuteCat"><img src="https://img.shields.io/badge/Cute-Cat-golden.svg?style=for-the-badge&labelColor=073259&color=1D6682"/></a></td></tr>
+</table></div>
+
+<div align="center"><table>
+<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/Type-2-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"/></a></td>
 </table></div>
 
 <div align="center"><table>
