@@ -38,7 +38,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </table></div>
 
 <div align="center"><table>
-<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img width="10" src="https://img.shields.io/badge/Type-1-Themes-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"/></a></td>
+<td><a href="https://github.com/MrVivekRajan/Hypr-Dots/tree/main/Gruvminimal"><img src="https://img.shields.io/badge/Type-1-Themes-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"/></a></td>
 </table></div>
 
 <div align="center"><table>
