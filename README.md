@@ -69,6 +69,22 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <td><img src="https://github.com/user-attachments/assets/1c3860e7-0d7e-4fae-b594-7e16a63144bb"/></td></tr>
 </table></div>
 
+# GOLDEN-HOUR
+<div align="center"><table>
+<tr><td><img src="https://github.com/user-attachments/assets/960cb149-dc30-4fbb-9bb2-7e4f256966e4"/></td>
+<td><img src="https://github.com/user-attachments/assets/c28eec92-4d25-45e8-9f91-c57f581e7281"/></td></tr>
+</table></div>
+
+<div align="center"><table>
+<tr><td><img src="https://github.com/user-attachments/assets/bd2288f2-6227-4aa9-9f41-ca4740a5e2a5"/></td>
+<td><img src="https://github.com/user-attachments/assets/338470c8-91a1-426e-a3d8-25c529254d41"/></td></tr>
+</table></div>
+
+<div align="center"><table>
+<tr><td><img src="https://github.com/user-attachments/assets/0a66b6dc-2636-4b06-91c6-21a1d579847d"/></td>
+<td><img src="https://github.com/user-attachments/assets/95c3e79d-4896-467e-a3d3-5d0fcfc7d000"/></td></tr>
+</table></div>
+
 # CUTE-CAT
 <div align="center"><table>
 <tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/Type-1/Assets/Cute-1.png?raw=true"/></td>
@@ -83,22 +99,6 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <div align="center"><table>
 <tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/Type-1/Assets/Cute-5.png?raw=true"/></td>
 <td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/Type-1/Assets/Cute-6.gif?raw=true"/></td></tr>
-</table></div>
-
-# GOLDEN-HOUR
-<div align="center"><table>
-<tr><td><img src=""/></td>
-<td><img src=""/></td></tr>
-</table></div>
-
-<div align="center"><table>
-<tr><td><img src=""/></td>
-<td><img src=""/></td></tr>
-</table></div>
-
-<div align="center"><table>
-<tr><td><img src=""/></td>
-<td><img src=""/></td></tr>
 </table></div>
 
 # Download
