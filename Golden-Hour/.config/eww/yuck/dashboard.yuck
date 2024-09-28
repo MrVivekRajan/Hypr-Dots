@@ -1,0 +1,120 @@
+(defwidget dashboard []
+ (revealer :transition "slideup" :reveal {open_dashboard == true ? true : false} :duration {ANIM_DURATION}
+  (box :class "dashboardbox"
+       :orientation "v"
+       :space-evenly false
+    (header)
+    (power)
+    (content)
+  )
+ )
+)
+
+
+(defwidget header []
+  (box :class "headerbox"
+       :orientation "h"
+       :space-evenly false
+    (box :class "userbox"
+         :orientation "h"
+         :space-evenly false
+         :halign "start"
+         :valign "center"
+         :spacing 10
+      (box :class "pfp"
+           :style "background-image: url('vivek.png');")
+      (box :class "pcname"
+           :orientation "h"
+           :space-evenly false
+        (label :text "${rawuser}" :class "username")
+        (label :text "@" :class "seprator")
+        (label :text "${hostname}" :class "hostname")
+        (label :text "${uptime}" :class "uptime" :halign "start")
+      )
+    )
+  )
+)
+
+(defwidget power []
+    (box :class "user-powerbuttons"
+         :orientation "h"
+         :space-evenly false
+         :hexpand true
+         :halign "end"
+         :valign "end"
+         :spacing 5
+      (button :class "reboot"
+              :onclick "systemctl reboot"
+        "勒"
+      )
+      (button :class "poweroff"
+              :onclick "systemctl poweroff"
+        "襤"
+      )
+    )
+)
+
+(defwidget content []
+    (box :class "contentbox"
+         :orientation "h"
+         :space-evenly true
+         :spacing 30
+         :vexpand true
+      (box :class "firstcol"
+           :orientation "v"
+           :space-evenly false
+           :spacing 0
+           (launcher)
+         
+           
+      )
+      (box :class "lastcol"
+           :orientation "v"
+           :space-evenly false
+           :spacing 0
+           (info)
+          
+      )
+    )
+)
+
+(defwidget info []
+  (box :class "info"
+       :orientation "v"
+       :space-evenly false
+    (time-date-day-month)
+    (cal)
+    (music)
+  )
+)
+
+(defwidget time-date-day-month []
+  (box :class "timebox"
+       :orientation "v"
+       :space-evenly false
+    (box :class "time-container"
+         :orientation "h"
+         :space-evenly false
+         :halign "center"
+         :valign "center"
+      (label :text {formattime(EWW_TIME, "%I : %M")} :class "content")
+     )
+      (box :class "date-container"
+         :orientation "h"
+         :space-evenly true
+         :halign "center"
+      (label :text "${day-date-month}" :class "content")
+    )
+  )
+)
+
+(defwidget cal []
+  (box :class "cal-box"
+       :orientation "v"
+       :space-evenly false
+    (calendar :class "cal"
+              :day calendar_day
+              :month calendar_month
+              :year calendar_year)
+  )
+)

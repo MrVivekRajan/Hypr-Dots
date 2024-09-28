@@ -1,0 +1,49 @@
+(defwidget music []
+  (box :class "musicbox"
+       :orientation "h"
+       :space-evenly false
+       :spacing 10
+    (box :class "pic-container"
+         :orientation "v"
+         :space-evenly false
+      (box :class "picbox"
+           :style "background-image: url('${music_url}');"
+           :orientation "h"
+           :space-evenly true
+        (box :class "left"
+             :orientation "v"
+             :space-evenly false
+             :halign "start"
+             :spacing 4
+          (label :halign "start" :text "${music_title}" :class "title")
+          (label :halign "start" :text "${music_artist}" :class "artist")
+        )
+      )
+      (box :class "hidden"
+        music_pic
+      )
+    )
+    (box :class "musiccontrolsbox"
+         :orientation "v"
+         :space-evenly true
+      (button :valign "start"
+              :halign "center"
+              :onclick "~/.config/eww/scripts/music/control.sh prev"
+              :class "previousbutton"
+        "玲"
+      )
+      (button :valign "center"
+              :halign "center"
+              :onclick "~/.config/eww/scripts/music/control.sh play-pause"
+              :class "pausebutton"
+        "${music_status == 'Playing' ? '' : ''}"
+      )
+      (button :valign "end"
+              :halign "center"
+              :onclick "~/.config/eww/scripts/music/control.sh next"
+              :class "nextbutton"
+        "怜"
+      )
+    )
+  )
+)

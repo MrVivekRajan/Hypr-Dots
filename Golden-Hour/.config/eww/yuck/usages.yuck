@@ -1,0 +1,35 @@
+(defwidget usages [] 
+		
+			(centerbox :orientation "h"
+                                
+				(box :class "Usage_box" :orientation "v" :valign "center" :halign "center" :spacing 15 :space-evenly "false"
+                 
+					(box :class "usage_circle" :orientation "v" :valign "center" :halign "center"
+						(circular-progress :class "usage_cpu" :value cpu :thickness 5
+							(label :class "usage_small_circle" :text "󰍛")
+                                                )
+                                        )
+					(label :class "cpu_text" :valign "end" :halign "center" :text "${cpu}%")
+                                )
+                               
+				(box :class "Usage_box" :orientation "v" :valign "center" :halign "center" :spacing 15 :space-evenly "false"
+					(box :class "usage_circle" :orientation "v" :valign "center" :halign "center"
+						(circular-progress :class "usage_mem" :value memory :thickness 5
+							(label :class "usage_small_circle" :text "󰾆")
+                                                )
+                                        )
+					(label :class "mem_text" :valign "end" :halign "center" :text "${memory}%")
+                                )
+
+				(box :class "Usage_box" :orientation "v" :valign "center" :halign "center" :spacing 15 :space-evenly "false"
+					(box :class "usage_circle" :orientation "v" :valign "center" :halign "center"
+						(circular-progress :class "usage_temp" :value temp :thickness 5
+							(label :class "usage_small_circle" :text "")
+                                                )
+                                        )
+					(label :class "temp_text" :valign "end" :halign "center" :text "${temp}%")
+                                )
+                 
+                        )
+               
+)

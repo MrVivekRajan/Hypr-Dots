@@ -1,0 +1,34 @@
+.indicator {
+    background-color: rgba($color: #323733, $alpha: .65);
+    box-shadow: 0 0 4px 2px #DAA520;
+    border-radius: 1rem;
+    padding: 0 1.3rem;
+    margin-right: 1.5rem;
+    margin-left: 0.5rem;
+    transition: 0.3s;
+    color: rgba($color: #FFFFFF, $alpha: .70);
+}
+
+.indicator:hover {
+    background-color: rgba($color: #DAA520, $alpha: .60);
+}
+
+.net {
+  font-size: 1.2rem; 
+  margin-left: -0.8rem;
+}
+
+.vol {
+  font-size: 1.2rem;
+  margin-left: 1rem;
+}
+
+.blt {
+  font-size: 1.5rem;
+  margin-left: 1rem
+}
+
+.bat {
+  font-size: 1.6rem;
+  margin-left: 0.5rem
+}

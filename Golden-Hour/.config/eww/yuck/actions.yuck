@@ -1,0 +1,160 @@
+(defwidget actions []
+  (box :class "actions"
+       :orientation "v"
+       :space-evenly false
+       :spacing 10
+    (top)
+    (sysbuttons)
+    (controls)
+  )
+)
+
+(defwidget top []
+    (box :orientation "h" :space-evenly true 
+       
+       (box :orientation "h" :space-evenly false :halign "start"
+           (label :class "top-text" :text "Control Center")
+        )      
+  
+        (box :orientation "h" :space-evenly false :halign "end"
+            (box :orientation "h" :space-evenly false
+            (battery)
+            (button :class "open-powermenu-button" :onclick "XDG_CURRENT_DESKTOP=gnome gnome-control-center system &" "⚙️")
+            )
+        )
+    )
+)
+
+(defwidget battery []
+  (box :class "battery_box"
+       :spacing 6
+  (label :class "battery_box_icon" :text "${battery_icon}")
+  (label :valign "center" :class "battery_box_percent" :text "${battery}%"))
+)
+
+(defwidget sysbuttons []
+  (box :class "sysbuttonsbox"
+       :orientation "v"
+       :space-evenly false
+       :spacing 8
+    (box :class "firstrow"
+         :orientation "h"
+         :space-evenly true
+         :spacing 8
+      (box :halign "start"
+           :orientation "h"
+           :space-evenly true
+        (sysblock 
+        :icon "${network_icon}"
+        :onclick "XDG_CURRENT_DESKTOP=gnome gnome-control-center wifi &"
+        :active "${network_status == 'Connected' ? true : false}"
+        :label "${network_ssid}"
+        )
+      )
+      (box :halign "end"
+           :orientation "h"
+           :space-evenly true
+        (sysblock :icon "${bluetooth_state == 'on' ? '' : ''}"
+                  :onclick "~/.config/eww/scripts/bluetooth toggle"
+                  :active "${bluetooth_state == 'on' ? true : false}"
+                  :label "Bluetooth")
+      )
+    )
+    (box :class "lastrow"
+         :orientation "h"
+         :space-evenly true
+      (box :halign "start"
+           :orientation "h"
+           :space-evenly true
+        (sysblock :icon "${redshift_state == 'on' ? '' : ''}"
+                  :onclick "~/.config/eww/scripts/redshift toggle"
+                  :active "${redshift_state == 'on' ? true : false}"
+                  :label "Night Light")
+      )
+      (box :halign "end"
+           :orientation "h"
+           :space-evenly true
+        (sysblock :icon "${mic_status == 'yes' ? '' : ''}"
+                  :label "Micro"
+                  :onclick "~/.config/eww/scripts/mic toggle"
+                  :active "${mic_status == 'yes' ? true : false}"
+                  )
+      )
+    )
+  )
+)
+
+(defwidget sysblock [icon onclick active label]
+  (box :class "block-container"
+       :orientation "h"
+       :space-evenly true
+       :spacing 1
+    (button :class "block ${active ? 'active' : ''}" :onclick "${onclick}"
+      (box :orientation "h"
+            :spacing 1
+           :valign "start"
+           :space-evenly false
+            (box :class "iconbox"
+                 :halign "start"
+                 :valign "center"
+                 :space-evenly true
+                 :orientation "h"
+              (label :text "${icon}" :class "icon")
+            )
+            (box :class "labelbox"
+                 :halign "start"
+                 :valign "start"
+                 :orientation "v"
+              (label :halign "center" :text "${label}" :class "label")
+              (label :halign "start" :text "${active ? 'On' : 'Off'}" :class "label__status")
+           )
+        (box :class "chevronbox"
+             :halign "end"
+             :hexpand true
+             :valign "center"
+             :space-evenly false
+             :orientation "h"
+          (label :halign "end" :text "")
+        )
+      )
+    )
+  )
+)
+
+(defwidget controls []
+  (box :class "controlsbox"
+       :orientation "v"
+       :space-evenly false
+       :spacing 16
+    (box :orientation "h"
+         :space-evenly "false"
+         :class "slider active"
+      (box :class "label"
+            volume_icon
+      )
+      (scale :value volume_value
+             :hexpand true
+             :onchange "~/.config/eww/scripts/volume.sh set {}"
+             :min 0
+             :max 101)
+      (box :class "scale-label"
+           "${volume_value}%")
+    )
+    (box :orientation "h"
+         :space-evenly "false"
+         :class "slider active"
+      (box :class "label"
+            br_icon
+      )
+      (scale 
+             :hexpand true
+             :value br
+             :onchange "brightnessctl set {}%"
+             :min 0
+             :max 101)
+      (box :class "scale-label"
+             :halign "start"
+           "${br}%")
+    )
+  )
+)

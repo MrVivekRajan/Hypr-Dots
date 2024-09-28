@@ -1,0 +1,13 @@
+(defwidget control_center []
+    (revealer :transition "slideleft" :reveal {open_control_center == true ? true : false} :duration {ANIM_DURATION}
+        (box :orientation "v" :space-evenly false
+               (actions)
+
+          (box :orientation "v" :space-evenly false :class "control-center"
+                (usages)
+          )
+            
+        )
+    )  
+)
+

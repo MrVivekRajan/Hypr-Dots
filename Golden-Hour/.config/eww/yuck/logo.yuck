@@ -1,0 +1,5 @@
+(defwidget logo []
+    (button :class "logo" :onclick "~/.config/eww/scripts/toggle_powermenu.sh"
+        (label :text "󰣇" :class "logoarch")
+    )
+)

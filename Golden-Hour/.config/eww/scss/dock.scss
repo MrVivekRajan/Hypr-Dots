@@ -1,0 +1,24 @@
+.dockbox {
+  border-radius: 1rem;
+  box-shadow: 0 0 4px 2px #DAA520;
+  background-color: rgba($color: #323733, $alpha: .65);
+  padding: 3 0rem;
+  margin-top:    0rem;
+  margin-right:  0rem;
+  margin-left:   0rem;
+  margin-bottom: 0rem;
+}
+
+.dockicon {
+        background-repeat: no-repeat;
+	background-size: 28px;
+	min-height: 28px;
+	min-width: 28px;
+	margin: 0px 5px 0px 5px;
+}
+
+.dockicon:hover {
+    background-color: rgba($color: #DAA520, $alpha: .85);
+    border-radius: 0.35rem;
+}
+

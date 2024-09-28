@@ -1,0 +1,127 @@
+.dashboardbox {
+  background-color: rgba($color: #211b00, $alpha: .55);
+  padding: 1rem;
+  box-shadow: 0 0 4px 2px #DAA520;
+  margin: 1rem;
+  border-radius: 20px;
+  color: #a5b6cf;
+}
+
+
+.headerbox {
+  margin-bottom: -12px;
+  padding: 0px 0px 0px;
+  .userbox {
+    .pfp {
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      min-height: 40px;
+      min-width: 40px;
+      border-radius: 50px;
+    }
+    .pcname {
+      font-size: 1.5rem;
+      font-family: Product Sans;
+      .seprator {
+        color: rgba($color: #DAA520, $alpha: .55);
+          font-family: Product Sans;
+          font-size: 1.5rem;
+          }
+         .uptime {
+           margin-bottom: -30px;
+           margin-left: -170px;
+           font-size: 13px;
+           }
+    }
+  }
+}
+
+             .user-powerbuttons {
+               margin-top: -20px;
+               margin-bottom: 20px;
+               button {
+               background-color: rgba($color: #000000, $alpha: .65);
+               border-radius: 7px;
+               padding: 2px 10px 2px 7px;
+               font-family: Caskaydia Cove Nerd Font;
+               font-size: 0px;
+               transition: all ease .2s;
+               &:hover { background-color: #262831; }
+               &:active { background-color: #1a1c25; }
+               }
+              .poweroff { color: #dd6777; 
+                          font-size: 23px;   
+                         }
+              .reboot { color: #c296eb;
+                        font-size: 23px;     
+                      }
+             }
+
+.info {
+  padding: 0rem;
+  margin-top: 0rem;
+}
+
+.timebox {
+  margin: 10px 0px;
+  .time-container {
+    .content {
+      font-family: Product Sans;
+      font-weight: bolder;
+      font-size: 35px;
+    }
+  }
+  .date-container {
+    font-family: Product Sans;
+    font-size: 18px;
+    margin-top: 2px;
+  }
+}
+
+.cal-box {
+  box-shadow: 0 0 4px 2px #DAA520;
+  font-family: Product Sans;
+  font-size: 15px;
+  background-color: #0d0f18;
+  border-radius: 1rem;
+  padding: 0 1rem .2rem;
+  color: #a5b6cf;
+  background-color: rgba($color: #1f1a1d, $alpha: .4); 
+  margin-top: 10px;
+
+  .cal {
+    padding: .5rem .10rem 0rem;
+    margin-left: 10px;
+
+    & > * {
+      border: solid 0px transparent;
+    }
+    
+    &.highlight {
+      padding: 10rem;
+    }
+  }
+}
+
+calendar:selected {
+  color: #DAA520;
+}
+
+calendar.header {
+  color: #93cee9;
+  font-weight: bold;
+}
+
+calendar.button {
+  color: #93cee9;
+}
+
+calendar.highlight {
+  color: #90ceaa;
+  font-weight: bold;
+}
+
+calendar:indeterminate {
+  color: rgba($color: #a5b6cf, $alpha: .55);
+}

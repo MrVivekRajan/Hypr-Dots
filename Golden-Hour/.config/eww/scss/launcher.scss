@@ -1,0 +1,51 @@
+.launcher-box {
+    padding: 1rem;
+    box-shadow: 0 0 4px 2px #DAA520;
+    margin-top: 1.5rem;
+    border-radius: 1rem;
+    background-color: rgba($color: #1f1a1d, $alpha: .4);
+}
+
+.launcher-scroll {
+    min-height: 27.5rem;
+    min-width: 12rem;
+    margin-top: 1rem;
+}
+
+.launcher-item {
+    color: #FFFFFF;
+    padding: 0.25rem;
+    border-radius: 1rem;
+    transition: 0.3s;
+}
+
+.launcher-item:hover {
+    background-color: #9E7100;
+}
+
+.launcher-search {
+    background-color: rgba($color: #323733, $alpha: .25);
+    border-radius: 1rem;
+    padding: 0.45rem;
+    box-shadow: 0 0 4px 2px #DAA520;
+}
+
+.launcher-search-icon {
+    font-size: 1rem;
+    color: rgba($color: #ffffff, $alpha: .35);
+}
+
+.launcher-search-input {
+    font-size: 1rem;
+    margin-left: 0rem;
+}
+
+.launcher-app-label {
+    margin-left: 0.5rem;
+    font-size: 1rem;
+}
+
+.launcher-category {  
+    margin-bottom: -0.15rem;
+    font-size: 1.55rem;
+}

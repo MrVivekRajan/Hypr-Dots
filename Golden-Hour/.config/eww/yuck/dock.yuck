@@ -1,0 +1,8 @@
+(defwidget dock [] 
+		(box :class "dockbox" :orientation "h" :space-evenly "false" :vexpand "false" :hexpand "false" 
+				(button :style "background-image: url('icons/spotify.png');" :class "dockicon" :onclick "spotify &")
+                                (button :style "background-image: url('icons/discord.png');" :class "dockicon" :onclick "discord &")
+				(button :style "background-image: url('icons/firefox.png');" :class "dockicon" :onclick "firefox &")
+				
+                 )
+)

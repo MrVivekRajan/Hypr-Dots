@@ -1,0 +1,37 @@
+.usage_circle {
+	background-color: rgba($color: #dd9e00, $alpha: .2);
+	border: 0px solid #161616;
+	border-radius: 100%;
+	padding: 0px;
+}
+
+.usage_small_circle {
+	background-color: rgba($color: #000000, $alpha: .4);
+	border-radius: 100%;
+	padding: 40px;
+        font-size: 22px;
+}
+
+
+.cpu_text, .mem_text, .temp_text {
+	background-color: rgba($color: #0a0a09, $alpha: .80);
+        border: 1px solid #161616;
+	border-radius: 16px;
+	font-size : 15px;
+	padding: 0px 8px 0px 8px;
+	margin: 0px 0px 0px 0px;
+	font-weight : bold;
+}
+
+.usage_cpu, .cpu_text {
+        color: #DAA520;
+}
+
+
+.usage_mem, .mem_text {
+	color: #DAA520;
+}
+
+.usage_temp, .temp_text {
+	color: #DAA520;
+}

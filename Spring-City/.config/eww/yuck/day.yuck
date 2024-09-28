@@ -1,8 +1,0 @@
-(defwidget day []
-  (box
-    :class "day"
-    :orientation "horizontal"
-    :space-evenly "false"
-    (label :class "day_label" :text {formattime(EWW_TIME, "%A")})
-  )
-)

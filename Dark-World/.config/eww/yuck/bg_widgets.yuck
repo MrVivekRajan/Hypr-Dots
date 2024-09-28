@@ -1,7 +1,0 @@
-(defwidget bg_widgets []
-        (box :orientation "h" :space-evenly false :valign "center"
-        (clock)
-        (day)
-        (month-date) 
-        )
- )

@@ -1,0 +1,16 @@
+.logo {
+    font-size: 1.5rem;
+    background-color: rgba($color: #323733, $alpha: .65);
+    box-shadow: 0 0 4px 2px #DAA520;
+    color: rgba($color: #FFFFFF, $alpha: .70);
+    border-radius: 2rem;
+    padding: 0 1rem;
+    transition: 0.3s;
+}
+
+.logoarch {
+   margin-left: -0.3rem;
+}
+.logo:hover {
+    background-color: rgba($color: #DAA520, $alpha: .60);
+}

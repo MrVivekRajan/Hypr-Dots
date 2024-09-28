@@ -1,0 +1,48 @@
+(deflisten apps :initial "{}"
+"scripts/apps.py")
+
+(defwidget launcher_item [app]
+    (button :onclick "cd ~ && gtk-launch ${app.desktop} &" :class "launcher-item"
+        (box :orientation "h" :space-evenly false
+            (image :path {app.icon} :image-width 40 :image-height 40)
+            (label :class "launcher-app-label" :text {app.name})
+        )
+    )
+)
+
+(defwidget launcher []
+            (box :orientation "v" :space-evenly false :class "launcher-box"
+                (box :orientation "h" :space-evenly false :class "launcher-search"
+                    (label :class "launcher-search-icon" :text " ")
+                    (input :class "launcher-search-input" :hexpand true :onchange "scripts/apps.py --query '{}' &" :onaccept "cd ~ && gtk-launch ${apps.filtered[0].desktop} &")
+                )
+                (scroll :vscroll true :class "launcher-scroll"
+                    (box :orientation "v" :space-evenly false
+                        (box :orientation "v" :space-evenly false :visible {apps.search == false ? true : false}
+                            (label :class "launcher-category" :halign "start" :text "All Apps")
+                            (for app in {apps.pinned}
+                                (eventbox :onrightclick "scripts/apps.py --remove-pin ${app.desktop} &"
+                                    (launcher_item :app app)
+                                )
+                            )
+                        )
+                        (box :orientation "v" :space-evenly false :visible {apps.search == false ? true : false}
+                            (label :class "launcher-category" :halign "start" :text "")
+                            (for app in {apps.apps}
+                                (eventbox :onrightclick "scripts/apps.py --add-pin '${app.name}' '${app.icon}' '${app.desktop}' &"
+                                    (launcher_item :app app)
+                                )
+                            )
+                        )
+                        (box :orientation "v" :space-evenly false :visible {apps.search == false ? false : true}
+                            (label :class "launcher-category" :halign "start" :text "Search")
+                            (for app in {apps.filtered}
+                                (eventbox :onrightclick "scripts/apps.py --add-pin ${app.desktop} &"
+                                    (launcher_item :app app)
+                                )
+                            )
+                        )
+                    )
+                )
+            )
+)

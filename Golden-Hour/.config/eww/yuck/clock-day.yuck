@@ -1,0 +1,17 @@
+(defwidget clock []
+    (box :class "clock" :orientation "h" :space-evenly false 
+        (label :class "time" :text {formattime(EWW_TIME, "%I:%M %P")})
+    )
+)
+
+(defwidget day []
+  (box
+   (button
+    :onclick "scripts/toggle_dashboard.sh &"
+    :class "day"
+    :orientation "horizontal"
+    :space-evenly "false"
+    (label :class "day-label" :text {formattime(EWW_TIME, "%d  ┃ %b  ┃  %A")})
+   )
+  )
+) 

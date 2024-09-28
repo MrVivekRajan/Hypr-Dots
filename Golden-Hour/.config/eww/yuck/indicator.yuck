@@ -1,0 +1,21 @@
+(defwidget indicator []
+    (button :onclick "scripts/toggle_control_center.sh" :class "indicator"
+        (box :orientation "h" :space-evenly false
+            (informations)
+        )
+    )
+)
+
+(defwidget informations []
+  (button :class "informationsbox" :onclick "eww -c ~/.config/eww open --toggle actions"
+    (box :orientation "h"
+        :space-evenly false
+        :spacing 6
+      ; margin are used to fix issues with nerd fonts widths :/
+      (label :text "${network_icon}" :style "margin-right: ${network_status == 'Connected' ? '3px' : '0px'};" :class "net")
+      (label :text "${volume_icon}" :style "margin-right: 3px;" :class "vol")
+      (label :text "${bluetooth_state == 'on' ? '' : ''}" :class "blt") 
+      (label :text {EWW_BATTERY.BAT0.capacity > 90 ? "" : EWW_BATTERY.BAT0.capacity > 75 ? "" : EWW_BATTERY.BAT0.capacity > 50 ? "" : EWW_BATTERY.BAT0.capacity > 25 ? "" : ""} :class "bat")
+    )
+  )
+)

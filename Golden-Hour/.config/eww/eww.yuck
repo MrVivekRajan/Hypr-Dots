@@ -1,0 +1,31 @@
+(include "variables.yuck")
+(include "windows.yuck")
+
+(include "yuck/actions.yuck")
+(include "yuck/bar.yuck")
+(include "yuck/clock-day.yuck") 
+
+(include "yuck/control_center.yuck")
+(include "yuck/dashboard.yuck")
+(include "yuck/dock.yuck")
+
+(include "yuck/indicator.yuck")
+(include "yuck/launcher.yuck")
+(include "yuck/logo.yuck")
+
+(include "yuck/music.yuck")
+(include "yuck/powermenu.yuck")
+(include "yuck/usages.yuck")
+
+(include "yuck/weather.yuck")
+(include "yuck/workspaces.yuck")
+
+
+
+
+
+
+
+
+
+

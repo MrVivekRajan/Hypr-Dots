@@ -1,0 +1,27 @@
+* {
+    all: unset;
+    font-family: JetBrainsMono;
+    font-weight: bold;
+}
+
+@import "scss/actions.scss"
+@import "scss/bar.scss"
+@import "scss/clock-day.scss";
+
+@import "scss/control_center.scss";
+@import "scss/dashboard.scss"
+@import "scss/dock.scss"
+
+@import "scss/indicator.scss"
+@import "scss/launcher.scss"
+@import "scss/logo.scss"
+
+@import "scss/music.scss";
+@import "scss/powermenu.scss"
+@import "scss/usages.scss"
+
+@import "scss/weather.scss"
+@import "scss/workspaces.scss"
+
+
+

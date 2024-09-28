@@ -1,0 +1,49 @@
+(defwindow bar
+    :monitor 0
+    :geometry (geometry :x "0px"
+                        :y "5px"
+                        :width "130%"
+                        :height "0px"
+                        :anchor "bottom center"
+                    )
+    :wm-ignore false
+    :exclusive true
+    :namespace "eww"
+    (bar)
+)
+
+(defwindow control_center
+    :monitor 0
+    :stacking "overlay"
+    :geometry (geometry
+                    :x "10px"
+                    :y "66px"
+                    :anchor "top right")
+    :namespace "eww"
+    (control_center)
+)
+
+(defwindow dashboard
+  :monitor 0
+  :stacking "bg"
+  :geometry (geometry :x "0px"
+                      :y "20px" 
+                      :width "78%"
+                      :anchor "bottom center")
+  :focusable true
+  :namespace "eww"
+  (dashboard)
+)
+
+(defwindow powermenu
+    :monitor 0
+    :stacking "overlay"
+    :geometry (geometry 
+                    :anchor "bottom left"
+                    :x "0px"
+                    :y "20px"
+                    :width "0%"
+                    )
+    :namespace "eww-blur"
+    (powermenu)
+)

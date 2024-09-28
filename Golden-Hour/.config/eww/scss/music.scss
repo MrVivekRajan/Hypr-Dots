@@ -1,0 +1,35 @@
+.musicbox {
+   background-color: rgba($color: #1f1a1d, $alpha: .4); 
+   box-shadow: 0 0 4px 2px #DAA520;
+   margin-top: 2rem;
+   border-radius:1rem;
+   padding: 0.35rem;
+  .pic-container {
+    .picbox {
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      min-height: 100px;
+      min-width: 225px;
+      border-radius: 7px;
+      padding: 10px;
+    }
+    // i've to make it hidden, so i'll translate it to the INFINITE! LMFAO
+    .hidden {
+      margin-top: -100px;
+    }
+  }
+  .musiccontrolsbox {
+    background-color: rgba($color: #1f1a1d, $alpha: .6); 
+    border-radius: 7px;
+    padding: 7px 15px;
+    margin-left: -8px;
+    font-family: Caskaydia Cove Nerd Font;
+    .previousbutton, .nextbutton {
+      font-size: 23px;
+    }
+    .pausebutton {
+      padding: 0px 10px 0px 4px;
+    }
+  }
+}

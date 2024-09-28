@@ -1,0 +1,44 @@
+.clock {
+    background-color: rgba($color: #323733, $alpha: .65);
+    box-shadow: 0 0 4px 2px #DAA520;
+    border-radius: 1rem;
+    margin-top:    0rem;
+    margin-bottom: 0rem;
+    margin-right:  0rem;
+    margin-left:   0rem;
+
+}
+
+.time {
+    font-family: Quicksand Medium;
+    color: rgba($color: #FFFFFF, $alpha: .70);
+    font-size:     1.26rem;
+    margin-top:    0.2rem;
+    margin-bottom: 0.2em;
+    margin-left:   0.5rem;
+    margin-right:  0.5rem;
+    border-radius: 0rem;
+}
+
+
+.day {
+    background-color: rgba($color: #323733, $alpha: .65);
+    box-shadow: 0 0 4px 2px #DAA520;
+    border-radius: 1rem;
+    padding: 0 1rem;
+    margin-top:    0rem;
+    margin-right:  0rem;
+    margin-left:   0rem;
+    margin-bottom: 0rem;
+
+}
+
+.day-label {
+    font-family: Quicksand Medium;
+    color: rgba($color: #FFFFFF, $alpha: .70);
+    font-size: 1.2rem;
+}
+
+.day:hover {
+    background-color: rgba($color: #DAA520, $alpha: .60);
+}

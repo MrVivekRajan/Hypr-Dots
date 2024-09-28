@@ -1,0 +1,27 @@
+.workspaces {
+    border-radius: 1rem;
+    box-shadow: 0 0 4px 2px #DAA520;
+    padding: 0.5rem;
+    margin: 0 1rem;
+    background-color: rgba($color: #323733, $alpha: .65);
+}
+
+.workspace {
+    border-radius: 1rem;
+    background-color: rgba($color: #fdfffd, $alpha: .1);
+    margin: 0 0.25rem;
+    padding: 0 0.7rem;
+    transition: 0.3s;
+
+    &.current {
+        background-color: rgba($color: #FFFFFF, $alpha: .70);
+        padding: 0 2rem;
+    }
+}
+
+.workspace:hover {
+    background-color: mix(#AE6E2B, #EBAB53, 70%);
+    &.current {
+        background-color: mix(#AE6E2B, #EBAB53, 70%);
+    }
+}

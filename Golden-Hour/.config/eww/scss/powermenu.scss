@@ -1,0 +1,39 @@
+.powermenu-box {
+    background-color: rgba($color: #1f1a1d, $alpha: .55);
+    padding: 1rem;
+    box-shadow: 0 0 4px 2px #DAA520;
+    margin: 1rem;
+    border-radius: 2rem;
+}
+
+.powermenu-entry {
+    margin: -6 0rem;
+}
+
+.powermenu-button {
+    background-color: rgba($color: #be8900, $alpha: .40);
+    border-radius: 2rem;
+    transition: 0.3s;
+    padding: 0rem 1rem;
+}
+
+.powermenu-button:hover {
+    background-color: rgba($color: #000000, $alpha: .4);
+}
+
+.powermenu-icon {
+    font-size: 3rem;
+    margin-right:15rem;
+}
+
+.power-text {
+   color: rgba($color: #FFFFFF, $alpha: .8);
+   margin-bottom: -2rem;
+   font-size: 2rem;
+}
+
+.label {
+  margin-bottom: -5.7rem;
+  font-size: 1.4rem;
+  color: #FFFFFF;
+}
