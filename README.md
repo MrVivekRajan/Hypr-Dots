@@ -71,18 +71,18 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 # CUTE-CAT
 <div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/cb3006bd-b732-4316-87b7-9b1898078e17"/></td>
-<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/Assets/Cute-2.gif?raw=true"/></td></tr>
+<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/Type-1/Assets/Cute-1.png?raw=true"/></td>
+<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/Type-1/Assets/Cute-2.gif?raw=true"/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/Assets/Cute-3.gif?raw=true"/></td>
-<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/Assets/Cute-4.gif"/></td></tr>
+<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/Type-1/Assets/Cute-3.gif?raw=true"/></td>
+<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/Type-1/Assets/Cute-4.gif?raw=true"/></td></tr>
 </table></div>
 
 <div align="center"><table>
-<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/Assets/Cute-5.png?raw=true"/></td>
-<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/main/Assets/Cute-6.gif?raw=true"/></td></tr>
+<tr><td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/Type-1/Assets/Cute-5.png?raw=true"/></td>
+<td><img src="https://github.com/MrVivekRajan/Hypr-Dots/blob/Type-1/Assets/Cute-6.gif?raw=true"/></td></tr>
 </table></div>
 
 # DARK-WORLD
