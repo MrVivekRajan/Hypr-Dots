@@ -79,7 +79,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 # GOLDEN-HOUR
 <div align="center"><table>
-<tr><td><img src="https://github.com/user-attachments/assets/960cb149-dc30-4fbb-9bb2-7e4f256966e4"/></td>
+<tr><td><img src="https://github.com/user-attachments/assets/b83dcc31-dbca-4f20-9682-f5893e56d499"/></td>
 <td><img src="https://github.com/user-attachments/assets/c28eec92-4d25-45e8-9f91-c57f581e7281"/></td></tr>
 </table></div>
 
