@@ -1,0 +1,76 @@
+.info-box {
+   border-radius: 2rem;
+   padding: 1rem;
+   box-shadow: 0 0 4px 2px #000000;
+   margin: 1rem;
+   background-color: rgba(46, 52, 64, 1);
+}
+
+.cpu-icon, .memory-icon {
+	font-size : 23px;
+	font-weight : normal;
+}
+.cpu-icon {
+	color: #BF616A;
+}
+.memory-icon {
+	color: #A3BE8C;
+}
+.disk-icon {
+        font-size : 25px;
+	font-weight : normal;
+	color: #EBCB8B;
+        margin-left: 6px;
+}
+
+.cpu-bar, .memory-bar, scale trough {
+	all: unset;
+	background-color: #3A404C;
+	border-radius: 16px;
+	min-height: 8px;
+	min-width: 250px;
+}
+
+.cpu-bar, .memory-bar, .disk-bar scale, scale trough highlight {
+	all: unset;
+	border-radius: 16px;
+}
+
+.cpu-bar scale trough highlight {
+	background-color: #BF616A;
+}
+.memory-bar scale trough highlight {
+	background-color: #A3BE8C;
+}
+
+.disk-bar scale trough {
+        all: unset;
+	background-color: #3A404C;
+	border-radius: 16px;
+	min-height: 8px;
+	min-width: 250px;
+        margin-left: 4.5px;
+}
+
+.disk-bar scale trough highlight  {
+        background-color: #EBCB8B;
+}
+
+.cpu-text, .memory-text, {
+  font-size : 16px;
+  margin-bottom : 5px;
+}
+
+.cpu-text {
+  color: #BF616A;
+}
+
+.memory-text {
+  color: #A3BE8C;
+}
+
+.disk-text {
+  font-size : 16px;
+  margin-bottom : 8px;
+  color: #EBCB8B;
+}

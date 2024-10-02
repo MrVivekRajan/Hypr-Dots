@@ -1,0 +1,23 @@
+(defwindow control_center
+    :monitor 0
+    :stacking "overlay"
+    :geometry (geometry
+                    :anchor "top right"
+                    :width "41%"
+                    :height "130%"
+                )
+    :namespace "eww"
+    (control_center)
+)
+
+(defwindow menu
+    :monitor 0
+    :stacking "overlay"
+    :geometry (geometry
+                    :anchor "top left"
+                    :width "41%"
+                    :height "130%"
+                )
+    :namespace "eww"
+    (menu)
+)

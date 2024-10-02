@@ -1,0 +1,14 @@
+(defwidget menu []
+    (revealer :transition "slideright" :reveal {open_menu == true ? true : false} :duration {ANIM_DURATION}
+        (box :orientation "v" :space-evenly false
+                (icons1)
+                (profile)
+                (clock)
+                (icons3)
+                (weather)
+                (icons4)
+                (icons5)
+                (icons6)
+        )
+    )
+)

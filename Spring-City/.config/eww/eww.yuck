@@ -1,0 +1,16 @@
+(include "variables.yuck")
+(include "windows.yuck")
+
+
+(include "yuck/control_center.yuck")
+(include "yuck/quick_settings.yuck")
+(include "yuck/volume.yuck")
+(include "yuck/music.yuck")
+
+
+(include "yuck/day.yuck")
+(include "yuck/clock.yuck")
+(include "yuck/weather.yuck")
+(include "yuck/dock.yuck")
+(include "yuck/bg_widgets.yuck")
+

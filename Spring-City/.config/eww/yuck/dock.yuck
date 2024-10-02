@@ -1,0 +1,12 @@
+(defwidget dock [] 
+		(box :class "dockbox" :orientation "h" :space-evenly "false" :vexpand "false" :hexpand "false" 
+				(button :style "background-image: url('icons/launcher.png');" :class "dockicon" :onclick "~/.config/hypr/scripts/Rofi-launcher.sh")
+				(button :style "background-image: url('icons/firefox.png');" :class "dockicon" :onclick "firefox &")
+				(button :style "background-image: url('icons/terminal.png');" :class "dockicon" :onclick "kitty &")
+                                (button :style "background-image: url('icons/file.png');" :class "dockicon" :onclick "dolphin &")
+				(button :style "background-image: url('icons/discord.png');" :class "dockicon" :onclick "discord &")
+				(button :style "background-image: url('icons/spotify.png');" :class "dockicon" :onclick "spotify &")
+				(button :style "background-image: url('icons/power.png');" :class "dockicon" :onclick "~/.config/hypr/scripts/wlogout.sh 2")
+				
+                 )
+)

@@ -1,0 +1,47 @@
+(defpoll volume_icon :interval "1s" "~/.config/eww/scripts/volume.sh icon")
+(defpoll volume_value :interval "1s" "~/.config/eww/scripts/volume.sh vol")
+(defpoll is_muted :interval "1s" "~/.config/eww/scripts/volume.sh muted")
+
+
+(defpoll br_icon :interval "1s" "~/.config/eww/scripts/brightness.sh icon")
+(defpoll br :interval "1s" "~/.config/eww/scripts/brightness.sh br")
+
+(defwidget sliders []
+  (box :class "slidersbox"
+       :orientation "v"
+       :space-evenly false
+       :spacing 25
+    (box :orientation "h"
+         :space-evenly "false"
+         :class "vol-slider"
+      (overlay
+        (scale :value volume_value
+               :onchange "~/.config/eww/scripts/volume.sh set {}"
+               :min 0
+               :max 101)
+        (label :class "vol-label"
+               :text "${volume_icon} "
+               :valign "top"
+               :halign "start")
+      )
+        (label :class "vol-text" :valign "end" :halign "end" :text "${volume_value}%")
+    )
+    (box :orientation "h"
+         :space-evenly "false"
+         :class "br-slider"
+      (overlay
+        (scale :value br
+               :onchange "~/.config/eww/scripts/brightness.sh set {}"
+               :min 0
+               :max 101)
+        (label :class "br-label"
+               :text "${br_icon} "
+               :valign "top"
+               :halign "start")
+       )
+         (label :class "br-text" :valign "end" :halign "end" :text "${br}%")
+    )
+    
+    
+  )
+) 

@@ -1,0 +1,31 @@
+.weather {
+        background-repeat: no-repeat;
+	background-size: 208px;
+	min-height: 120px;
+        margin-top:    10px;
+        margin-right:  0px;
+        margin-left:   120px;
+        margin-bottom: 0px;
+}
+
+.weather-icon {
+    font-family: Gilroy ExtraBold;
+    color: rgba(255, 255, 255, .75);
+    font-size: 4.2rem;
+    margin-left: 3rem;
+    margin-bottom: 1rem;
+}
+
+.weather-temp {
+    font-family: Gilroy ExtraBold;
+    color: rgba(255, 255, 255, .75);
+    font-size: 3.5rem;
+    margin-left: 2rem;
+    margin-right: 0rem;
+    margin-bottom: 1rem;
+}
+
+.weather-error {
+    font-family: Gilroy ExtraBold;
+    font-size: 1.2rem;
+}

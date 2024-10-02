@@ -1,0 +1,7 @@
+(defwidget clock []
+    (box :class "clock" :orientation "h" :space-evenly false :style "background-image: url('icons/clock.png');"
+        (label :class "time" :text {formattime(EWW_TIME, "%I:%M %P")})    
+        (label :class "day" :text {formattime(EWW_TIME, "%a")})
+        (label :class "date-month" :text {formattime(EWW_TIME, "%d, %B")})
+    )
+)

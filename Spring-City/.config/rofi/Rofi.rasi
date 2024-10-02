@@ -1,0 +1,121 @@
+/*******************************************************************************
+ * THEME FOR ROFI 
+ * Made By              : Vivek Rajan 
+ * Github Repo           : https://github.com/MrVivekRajan
+ *******************************************************************************/
+ 
+configuration {
+display-drun: "󱓞 Applications";
+show-icons: true;
+icon-theme: "Gruvminimal";
+}
+
+* {
+    font:   "SF Pro Display Bold 18";
+
+    background-color:   transparent;
+    text-color:         #ebdbb3;
+
+    margin:     0px;
+    padding:    0px;
+    spacing:    0px;
+}
+
+window {
+    location:       center;
+    width:          1000;
+    height:         515;
+    border-radius:  24px;
+
+    border-color:    #b95cb9;
+    border:             3px;
+    background-color:   rgba(30, 30, 62, 60%);
+    x-offset: 8px;
+    y-offset: -40px;
+}
+
+mainbox {
+    padding:    12px;
+    orientation:                 horizontal;
+    children:                    [ "imagebox", "listbox" ];
+}
+
+imagebox {
+    padding:                     2px;
+    background-color:            transparent;
+    background-image:            url("~/.config/rofi/Rofi.png", width);
+    orientation:                 horizontal;
+}
+
+listbox {
+    spacing:                     20px;
+    padding:                     20px;
+    background-color:            transparent;
+    orientation:                 vertical;
+    children:                    [ "inputbar", "listview", "message" ];
+}
+
+inputbar {
+    background-color:  rgba(30, 30, 62, 60%);
+    border-color:      #b95cb9;
+
+    border:         4px;
+    border-radius:  16px;
+
+    padding:    8px 16px;
+    spacing:    8px;
+    children:   [ prompt, entry ];
+}
+
+prompt {
+    text-color: #ebdbb3;
+}
+
+entry {
+    placeholder:        "Search";
+    placeholder-color:  #ebdbb580;
+}
+
+message {
+    margin:             12px 0 0;
+    border-radius:      16px;
+    border-color:       #b95cb9;
+    background-image:   linear-gradient(45, #b95cb9d9, #4774bfd9);
+}
+
+textbox {
+    padding:    8px 24px;
+}
+
+listview {
+    background-color:   transparent;
+
+    margin:     12px 0 0;
+    lines:      8;
+    columns:    1;
+
+    fixed-height: false;
+}
+
+element {
+    padding:        8px 16px;
+    spacing:        8px;
+    border-radius:  20px;
+}
+
+element normal active {
+    text-color: #ebdbb2;
+}
+
+element selected normal, element selected active {
+    background-image:    linear-gradient(45, #b95cb9d9, #4774bfd9);
+}
+
+element-icon {
+    size:           1em;
+    vertical-align: 0.5;
+}
+
+element-text {
+    text-color: #ebdbb3;
+}

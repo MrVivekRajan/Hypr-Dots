@@ -1,0 +1,7 @@
+(defwidget icons6 []
+    (box :orientation "h" :space-evenly true :class "icons-box"
+        (box :orientation "h" :space-evenly false :halign "start"
+            (button :style "background-image: url('icons/arch.png');" :class "icons6" :onclick "~/.config/hypr/scripts/Rofi-launcher.sh &")
+        )  
+    )
+)

@@ -1,0 +1,9 @@
+(defwidget icons3 []
+    (box :orientation "h" :space-evenly true :class "icons-box"
+        (box :orientation "h" :space-evenly false :halign "start"
+            (button :style "background-image: url('icons/discord.png');" :class "icons3" :onclick "discord &")
+            (button :style "background-image: url('icons/youtube.png');" :class "icons3" :onclick "firefox www.youtube.com &")
+            (button :style "background-image: url('icons/github.png');" :class "icons3" :onclick "firefox www.github.com &")
+        )  
+    )
+)

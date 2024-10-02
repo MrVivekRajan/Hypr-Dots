@@ -1,0 +1,11 @@
+(defwidget power-buttons []
+    (box :orientation "h" :space-evenly true :class "pbuttons-box"
+        (box :orientation "h" :space-evenly false :halign "start"
+            (button :style "background-image: url('power-buttons-icons/lock.png');" :class "powericon" :onclick "hyprlock &")
+            (button :style "background-image: url('power-buttons-icons/logout.png');" :class "powericon" :onclick "hyprctl dispatch exit 0 &")
+            (button :style "background-image: url('power-buttons-icons/poweroff.png');" :class "powericon" :onclick "systemctl poweroff &")
+            (button :style "background-image: url('power-buttons-icons/restart.png');" :class "powericon" :onclick "systemctl reboot &")
+            (button :style "background-image: url('power-buttons-icons/sleep.png');" :class "powericon" :onclick "systemctl suspend &")
+        )  
+    )
+)
