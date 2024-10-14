@@ -13,7 +13,7 @@
 (defwidget launcher []
             (box :orientation "v" :space-evenly false :class "launcher-box"
                 (box :orientation "h" :space-evenly false :class "launcher-search"
-                    (label :class "launcher-search-icon" :text " ")
+                    (label :class "launcher-search-icon" :text "")
                     (input :class "launcher-search-input" :hexpand true :onchange "scripts/apps.py --query '{}' &" :onaccept "cd ~ && gtk-launch ${apps.filtered[0].desktop} &")
                 )
                 (scroll :vscroll true :class "launcher-scroll"
