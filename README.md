@@ -118,4 +118,4 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 I Hope You Like my project, if yes then don't forget to give it a star as it means a lot.
 
 
-<h4> <span>· </span> <a href="https://github.com/developer-vivek/Gruvminimal-Dots/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/developer-vivek/Gruvminimal-Dots/issues"> Request Feature </a> </h4>
+<h4> <span>· </span> <a href="https://github.com/MrVivekRajan/Gruvminimal-Dots/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/MrVivekRajan/Gruvminimal-Dots/issues"> Request Feature </a> </h4>
