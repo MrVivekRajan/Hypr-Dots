@@ -116,6 +116,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 # Thanks for Visiting !! ❤️❤️
 I Hope You Like my project, if yes then don't forget to give it a star as it means a lot.
-<a href="https://www.buymeacoffee.com/mistervivez"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mistervivez&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+<a href="https://www.buymeacoffee.com/mistervivez"><img src="https://img.buymeacoffee.com/button-api/?text=You can even buy me a coffee&emoji=&slug=mistervivez&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 <h4> <span>· </span> <a href="https://github.com/MrVivekRajan/Gruvminimal-Dots/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/MrVivekRajan/Gruvminimal-Dots/issues"> Request Feature </a> </h4>
